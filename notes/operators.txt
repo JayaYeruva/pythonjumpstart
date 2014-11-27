@@ -1,0 +1,48 @@
+operators 
+
+arithmetic
+ +, -, *, /, %, ** 
+ // floor division
+
+relational operator
+ >, >=, <, <=, ==, != 
+
+Logical operator 
+and, or, not 
+
+Bitwise operator
+  & (and)
+  | (or), 
+  ^ ( exor)
+  ~ (not)
+   >> right shift
+   << left shift 
+
+comparision operator
+  cmp
+
+membership test 
+   in
+   not in 
+
+conditional operator 
+  if else
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
