@@ -1,0 +1,26 @@
+datatypes
+    -simple
+        -numberic
+            * int
+            * float
+            * complex
+
+        -string
+            -regular string
+            -raw string
+            -unicode string
+            -doc string
+
+        sequence(string, list, tuple) : operation
+          -indexing
+          -slicing
+          -iteration
+
+        -Nonetype
+        -Boolean
+
+    -compound
+        * list
+        * tuple
+        * dict
+        * set
