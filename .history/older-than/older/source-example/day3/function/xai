@@ -1,0 +1,5 @@
+sshd:x:74:74:Privilege-separated SSH:/var/empty/sshd:/sbin/nologin
+postgres:x:26:26:PostgreSQL Server:/var/lib/pgsql:/bin/bash
+mysql:x:27:27:MySQL Server:/var/lib/mysql:/bin/bash
+squid:x:23:23::/var/spool/squid:/sbin/nologin
+chrony:x:992:990::/var/lib/chrony:/sbin/nologin

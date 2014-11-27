@@ -1,0 +1,22 @@
+datatypes 
+ a. simple
+	-numberic
+	  -int
+	  -long
+	  -float
+	  -complex
+
+	-string
+	   -regular
+	   - raw string
+	   -doc string
+	   -unicode string
+
+	-boolean
+	-Nonetype
+
+ b. compound
+	-list
+	-tuple
+	-dict
+	-set 

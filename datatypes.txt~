@@ -1,0 +1,29 @@
+datatypes
+  * simple
+	-string
+		=regular
+		=raw string
+		=doc string
+		=unicode string
+
+		operations  (seq)
+		-indexing
+		-slicing
+		-iteration
+
+	-numberic
+		=int, long
+		=float
+		=complex
+	-boolean
+	-nonetype
+
+  * compound
+	-list
+	-dict
+	-tuple
+	-set
+
+
+
+

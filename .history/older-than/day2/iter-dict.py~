@@ -1,0 +1,13 @@
+#!/usr/bin/env python
+
+passwd = {
+	'root': { 'gid': 0, 'login': 
+		  'root', 'password': 'x', 'uid': 0}, 
+	'mysql': {'gid': 100, 'login': 
+		'mysql', 'password': 'x', 'uid': 100},  
+}
+
+for user in passwd.keys():
+    for key in passwd[user].keys():
+	print "%s : %s" % (key, passwd[user][key])
+    print 

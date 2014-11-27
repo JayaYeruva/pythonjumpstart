@@ -1,0 +1,18 @@
+  datatypes 
+	-simple
+	   -string
+		-Regular string
+		-Raw string
+		-Doc string
+
+	   - numberic
+		*int	(dec, oct, bin, hexa)
+		*double  ( 3e-3)
+		*complex
+	   -boolean
+	   -Nonetype
+
+	-compound
+		-tuple
+		-list
+		-dict		

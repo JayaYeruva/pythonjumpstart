@@ -1,0 +1,5 @@
+smmsp:x:51:51::/var/spool/mqueue:/sbin/nologin
+distcache:x:94:94:Distcache:/:/sbin/nologin
+avahi:x:70:70:Avahi mDNS/DNS-SD Stack:/var/run/avahi-daemon:/sbin/nologin
+mongodb:x:993:991:MongoDB Database Server:/var/lib/mongodb:/sbin/nologin
+webalizer:x:67:67:Webalizer:/var/www/usage:/sbin/nologin

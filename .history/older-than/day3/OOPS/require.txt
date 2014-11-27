@@ -1,0 +1,10 @@
+Invoice-no:		Client Name:
+			Sales Person:
+
+
+itemname	unitprice	quantity	subtotal
+itemname	unitprice	quantity	subtotal
+itemname	unitprice	quantity	subtotal
+itemname	unitprice	quantity	subtotal
+						--------
+						Sub total	

@@ -1,0 +1,5 @@
+tss:x:59:59:Account used by the trousers package to sandbox the tcsd daemon:/dev/null:/sbin/nologin
+radvd:x:996:994:radvd user:/:/sbin/nologin
+avahi-autoipd:x:170:170:Avahi IPv4LL Stack:/var/lib/avahi-autoipd:/sbin/nologin
+saslauth:x:995:76:"Saslauthd user":/run/saslauthd:/sbin/nologin
+gdm:x:42:42::/var/lib/gdm:/sbin/nologin

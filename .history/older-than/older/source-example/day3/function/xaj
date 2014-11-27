@@ -1,0 +1,5 @@
+tcpdump:x:72:72::/:/sbin/nologin
+pulse:x:991:988:PulseAudio System Daemon:/var/run/pulse:/sbin/nologin
+qemu:x:107:107:qemu user:/:/sbin/nologin
+ravi:x:1000:1000:ravi:/home/ravi:/bin/bash
+lightdm:x:990:986::/var/log/lightdm:/sbin/nologin

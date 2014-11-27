@@ -1,0 +1,5 @@
+dhcpd:x:177:177:DHCP server:/:/sbin/nologin
+training:x:1001:1001::/home/training:/bin/bash
+znc:x:989:984:Account for ZNC to run as:/var/lib/znc:/sbin/nologin
+user:x:1002:1002::/home/user:/bin/bash
+user1:x:1003:1004::/home/user1:/bin/bash

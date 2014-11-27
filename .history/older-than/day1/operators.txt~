@@ -1,0 +1,19 @@
+operators
+
+arithmetic
+	+, -, *, /, %, 
+	// floor division
+
+Relational operation
+	>, >=, <, <=, ==, !=, 
+	
+Logical operator
+	and
+	or
+	not 
+  
+Bitwise Operator
+	>>, <<. &, |,  ^
+
+membership operator
+

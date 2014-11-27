@@ -1,0 +1,5 @@
+rpc:x:32:32:Rpcbind Daemon:/var/lib/rpcbind:/sbin/nologin
+oprofile:x:16:16:Special user account to be used by OProfile:/var/lib/oprofile:/sbin/nologin
+rtkit:x:172:172:RealtimeKit:/proc:/sbin/nologin
+openvpn:x:998:996:OpenVPN:/etc/openvpn:/sbin/nologin
+colord:x:997:995:User for colord:/var/lib/colord:/sbin/nologin

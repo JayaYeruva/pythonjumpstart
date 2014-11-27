@@ -1,0 +1,47 @@
+---------------------------lc.py----------------------------
+#!/usr/bin/env python
+
+s = 'a sample string'
+lookup = {}
+
+for char in s:
+   if lookup.has_key(char):
+	lookup[char] += 1
+   else:
+	lookup[char] = 1
+
+
+chars = lookup.keys()
+chars.sort()
+
+for char in chars:
+    print "%s : %s" % (char, lookup[char])
+------------------------------------------------------------
+--------------------------grep.py---------------------------
+#!/usr/bin/env python
+import sys
+import re
+
+def help():
+  print "Usage : "
+  print "%s pattern filename" % sys.argv[0]
+  exit(1)
+
+if len(sys.argv) != 3:
+   help()
+
+with open(sys.argv[2]) as fp:
+  for line in fp:
+    if re.search(sys.argv[1], line, re.I):
+	print line.rstrip()
+  
+------------------------------------------------------------
+--------------------------mymap.py--------------------------
+#!/usr/bin/env python
+
+def mymap(f_name, seq):
+     return [ f_name(item) for item in seq ]
+
+l = range(1,11)
+print mymap(str, l)
+------------------------------------------------------------
