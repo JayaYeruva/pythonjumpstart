@@ -1,0 +1,1559 @@
+Mar  8 20:37:03 ws1 rsyslogd: [origin software="rsyslogd" swVersion="7.2.4" x-pid="765" x-info="http://www.rsyslog.com"] rsyslogd was HUPed
+Mar  8 20:38:48 ws1 dbus-daemon[785]: dbus[785]: [system] Activating service name='org.freedesktop.PackageKit' (using servicehelper)
+Mar  8 20:38:48 ws1 dbus[785]: [system] Activating service name='org.freedesktop.PackageKit' (using servicehelper)
+Mar  8 20:38:49 ws1 dbus-daemon[785]: dbus[785]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Mar  8 20:38:49 ws1 dbus[785]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Mar  8 20:43:46 ws1 NetworkManager[942]: <warn> nl_recvmsgs() error: (-33) Dump inconsistency detected, interrupted
+Mar  8 20:55:57 ws1 dbus-daemon[785]: dbus[785]: [system] Activating service name='net.reactivated.Fprint' (using servicehelper)
+Mar  8 20:55:57 ws1 dbus[785]: [system] Activating service name='net.reactivated.Fprint' (using servicehelper)
+Mar  8 20:55:57 ws1 dbus-daemon[785]: dbus[785]: [system] Successfully activated service 'net.reactivated.Fprint'
+Mar  8 20:55:57 ws1 dbus[785]: [system] Successfully activated service 'net.reactivated.Fprint'
+Mar  8 20:55:57 ws1 dbus-daemon[785]: Launching FprintObject
+Mar  8 20:55:57 ws1 dbus-daemon[785]: ** Message: D-Bus service launched with name: net.reactivated.Fprint
+Mar  8 20:55:57 ws1 dbus-daemon[785]: ** Message: entering main loop
+Mar  8 20:55:57 ws1 dbus-daemon[785]: ** Message: user 'root' claiming the device: 0
+Mar  8 20:55:57 ws1 dbus-daemon[785]: ** Message: now monitoring fd 10
+Mar  8 20:55:57 ws1 dbus-daemon[785]: ** Message: device 0 claim status 0
+Mar  8 20:55:57 ws1 dbus-daemon[785]: ** Message: start verification device 0 finger 7
+Mar  8 20:55:59 ws1 dbus-daemon[785]: ** Message: verify_cb: result verify-match (1)
+Mar  8 20:55:59 ws1 dbus-daemon[785]: ** Message: no longer monitoring fd 10
+Mar  8 20:55:59 ws1 dbus-daemon[785]: ** Message: released device 0
+Mar  8 20:56:29 ws1 dbus-daemon[785]: ** Message: No devices in use, exit
+Mar  8 21:06:56 ws1 dbus-daemon[785]: dbus[785]: [system] Activating service name='net.reactivated.Fprint' (using servicehelper)
+Mar  8 21:06:56 ws1 dbus[785]: [system] Activating service name='net.reactivated.Fprint' (using servicehelper)
+Mar  8 21:06:56 ws1 dbus-daemon[785]: dbus[785]: [system] Successfully activated service 'net.reactivated.Fprint'
+Mar  8 21:06:56 ws1 dbus[785]: [system] Successfully activated service 'net.reactivated.Fprint'
+Mar  8 21:06:56 ws1 dbus-daemon[785]: Launching FprintObject
+Mar  8 21:06:56 ws1 dbus-daemon[785]: ** Message: D-Bus service launched with name: net.reactivated.Fprint
+Mar  8 21:06:56 ws1 dbus-daemon[785]: ** Message: entering main loop
+Mar  8 21:06:56 ws1 dbus-daemon[785]: ** Message: user 'root' claiming the device: 0
+Mar  8 21:06:56 ws1 dbus-daemon[785]: ** Message: now monitoring fd 11
+Mar  8 21:06:56 ws1 dbus-daemon[785]: ** Message: device 0 claim status 0
+Mar  8 21:06:56 ws1 dbus-daemon[785]: ** Message: start verification device 0 finger 7
+Mar  8 21:06:58 ws1 dbus-daemon[785]: ** Message: verify_cb: result verify-match (1)
+Mar  8 21:06:58 ws1 dbus-daemon[785]: ** Message: no longer monitoring fd 11
+Mar  8 21:06:58 ws1 dbus-daemon[785]: ** Message: released device 0
+Mar  8 21:07:28 ws1 dbus-daemon[785]: ** Message: No devices in use, exit
+Mar  8 21:07:45 ws1 dbus-daemon[785]: dbus[785]: [system] Activating service name='net.reactivated.Fprint' (using servicehelper)
+Mar  8 21:07:45 ws1 dbus[785]: [system] Activating service name='net.reactivated.Fprint' (using servicehelper)
+Mar  8 21:07:45 ws1 dbus-daemon[785]: dbus[785]: [system] Successfully activated service 'net.reactivated.Fprint'
+Mar  8 21:07:45 ws1 dbus-daemon[785]: Launching FprintObject
+Mar  8 21:07:45 ws1 dbus[785]: [system] Successfully activated service 'net.reactivated.Fprint'
+Mar  8 21:07:45 ws1 dbus-daemon[785]: ** Message: D-Bus service launched with name: net.reactivated.Fprint
+Mar  8 21:07:45 ws1 dbus-daemon[785]: ** Message: entering main loop
+Mar  8 21:07:45 ws1 dbus-daemon[785]: ** Message: user 'root' claiming the device: 0
+Mar  8 21:07:45 ws1 dbus-daemon[785]: ** Message: now monitoring fd 10
+Mar  8 21:07:45 ws1 dbus-daemon[785]: ** Message: device 0 claim status 0
+Mar  8 21:07:45 ws1 dbus-daemon[785]: ** Message: start verification device 0 finger 7
+Mar  8 21:07:46 ws1 dbus-daemon[785]: ** Message: no longer monitoring fd 10
+Mar  8 21:07:48 ws1 dbus-daemon[785]: ** Message: user 'root' claiming the device: 0
+Mar  8 21:07:48 ws1 dbus-daemon[785]: ** Message: now monitoring fd 10
+Mar  8 21:07:48 ws1 dbus-daemon[785]: ** Message: device 0 claim status 0
+Mar  8 21:07:48 ws1 dbus-daemon[785]: ** Message: start verification device 0 finger 7
+Mar  8 21:07:50 ws1 dbus-daemon[785]: ** Message: verify_cb: result verify-match (1)
+Mar  8 21:07:50 ws1 dbus-daemon[785]: ** Message: no longer monitoring fd 10
+Mar  8 21:07:50 ws1 dbus-daemon[785]: ** Message: released device 0
+Mar  8 21:08:20 ws1 dbus-daemon[785]: ** Message: No devices in use, exit
+Mar  8 21:11:47 ws1 NetworkManager[942]: <warn> nl_recvmsgs() error: (-33) Dump inconsistency detected, interrupted
+Mar  8 21:11:47 ws1 NetworkManager[942]: <warn> nl_recvmsgs() error: (-33) Dump inconsistency detected, interrupted
+Mar  8 21:21:45 ws1 dbus-daemon[785]: dbus[785]: [system] Activating service name='net.reactivated.Fprint' (using servicehelper)
+Mar  8 21:21:45 ws1 dbus[785]: [system] Activating service name='net.reactivated.Fprint' (using servicehelper)
+Mar  8 21:21:45 ws1 dbus-daemon[785]: dbus[785]: [system] Successfully activated service 'net.reactivated.Fprint'
+Mar  8 21:21:45 ws1 dbus-daemon[785]: Launching FprintObject
+Mar  8 21:21:45 ws1 dbus[785]: [system] Successfully activated service 'net.reactivated.Fprint'
+Mar  8 21:21:45 ws1 dbus-daemon[785]: ** Message: D-Bus service launched with name: net.reactivated.Fprint
+Mar  8 21:21:45 ws1 dbus-daemon[785]: ** Message: entering main loop
+Mar  8 21:21:45 ws1 dbus-daemon[785]: ** Message: user 'root' claiming the device: 0
+Mar  8 21:21:45 ws1 dbus-daemon[785]: ** Message: now monitoring fd 10
+Mar  8 21:21:45 ws1 dbus-daemon[785]: ** Message: device 0 claim status 0
+Mar  8 21:21:45 ws1 dbus-daemon[785]: ** Message: start verification device 0 finger 7
+Mar  8 21:21:48 ws1 dbus-daemon[785]: ** Message: verify_cb: result verify-match (1)
+Mar  8 21:21:48 ws1 dbus-daemon[785]: ** Message: no longer monitoring fd 10
+Mar  8 21:21:48 ws1 dbus-daemon[785]: ** Message: released device 0
+Mar  8 21:22:18 ws1 dbus-daemon[785]: ** Message: No devices in use, exit
+Mar  8 21:29:38 ws1 kernel: [ 8714.747813] [drm:__gen6_gt_force_wake_get] *ERROR* Force wake wait timed out
+Mar  8 21:38:52 ws1 kernel: [ 9267.915125] [drm:__gen6_gt_force_wake_get] *ERROR* Force wake wait timed out
+Mar  8 21:39:46 ws1 NetworkManager[942]: <warn> nl_recvmsgs() error: (-33) Dump inconsistency detected, interrupted
+Mar  8 21:44:53 ws1 abrt: detected unhandled Python exception in '/bin/ipython'
+Mar  8 21:44:53 ws1 abrtd: New client connected
+Mar  8 21:44:53 ws1 abrt-server[9115]: Saved problem directory of pid 9110 to '/var/spool/abrt/pyhook-2015-03-08-21:44:53-9110'
+Mar  8 21:44:53 ws1 abrtd: Directory 'pyhook-2015-03-08-21:44:53-9110' creation detected
+Mar  8 21:44:53 ws1 abrtd: Lock file '/var/spool/abrt/pyhook-2015-02-28-15:09:04-2661/.lock' is locked by process 9115
+Mar  8 21:44:54 ws1 abrtd: Unable to open '<string>': No such file or directory.
+Mar  8 21:44:54 ws1 abrtd: hash_text_file failed for '<string>'
+Mar  8 21:44:54 ws1 abrtd: Unable to open '<string>': No such file or directory.
+Mar  8 21:44:54 ws1 abrtd: hash_text_file failed for '<string>'
+Mar  8 21:44:54 ws1 abrtd: Unable to open '<string>': No such file or directory.
+Mar  8 21:44:54 ws1 abrtd: hash_text_file failed for '<string>'
+Mar  8 21:44:54 ws1 abrtd: Unable to open '<string>': No such file or directory.
+Mar  8 21:44:54 ws1 abrtd: hash_text_file failed for '<string>'
+Mar  8 21:44:54 ws1 abrtd: New problem directory /var/spool/abrt/pyhook-2015-03-08-21:44:53-9110, processing
+Mar  8 21:45:46 ws1 NetworkManager[942]: <warn> nl_recvmsgs() error: (-33) Dump inconsistency detected, interrupted
+Mar  8 21:47:16 ws1 kernel: [ 9771.144141] [drm:__gen6_gt_force_wake_get] *ERROR* Force wake wait timed out
+Mar  8 21:47:46 ws1 NetworkManager[942]: <warn> nl_recvmsgs() error: (-33) Dump inconsistency detected, interrupted
+Mar  8 21:48:40 ws1 kernel: [ 9855.644108] [drm:__gen6_gt_force_wake_get] *ERROR* Force wake wait timed out
+Mar  8 21:50:00 ws1 abrt: detected unhandled Python exception in '/usr/bin/blueman-applet'
+Mar  8 21:50:00 ws1 abrtd: New client connected
+Mar  8 21:50:00 ws1 abrtd: Directory 'pyhook-2015-03-08-21:50:00-2526' creation detected
+Mar  8 21:50:00 ws1 abrt-server[9251]: Saved problem directory of pid 2526 to '/var/spool/abrt/pyhook-2015-03-08-21:50:00-2526'
+Mar  8 21:50:01 ws1 abrtd: Unable to open '_ctypes/callbacks.c': No such file or directory.
+Mar  8 21:50:01 ws1 abrtd: hash_text_file failed for '_ctypes/callbacks.c'
+Mar  8 21:50:01 ws1 abrtd: Duplicate: core backtrace
+Mar  8 21:50:01 ws1 abrtd: DUP_OF_DIR: /var/spool/abrt/pyhook-2015-02-28-15:09:04-2661
+Mar  8 21:50:01 ws1 abrtd: Corrupted or bad directory '/var/spool/abrt/pyhook-2015-03-08-21:50:00-2526', deleting
+Mar  8 21:57:47 ws1 NetworkManager[942]: <warn> nl_recvmsgs() error: (-33) Dump inconsistency detected, interrupted
+Mar  8 21:57:47 ws1 NetworkManager[942]: <warn> nl_recvmsgs() error: (-33) Dump inconsistency detected, interrupted
+Mar  8 21:59:41 ws1 kernel: [10515.042491] [drm:__gen6_gt_force_wake_get] *ERROR* Force wake wait timed out
+Mar  8 22:01:46 ws1 NetworkManager[942]: <warn> nl_recvmsgs() error: (-33) Dump inconsistency detected, interrupted
+Mar  8 22:11:42 ws1 systemd-logind[780]: Lid closed.
+Mar  8 22:11:42 ws1 systemd-logind[780]: Suspending...
+Mar  8 22:11:42 ws1 systemd[1]: Starting Sleep.
+Mar  8 22:11:42 ws1 systemd[1]: Reached target Sleep.
+Mar  8 22:11:42 ws1 systemd[1]: Starting Suspend...
+Mar  8 22:11:42 ws1 systemd-sleep[9749]: /usr/lib/systemd/system-sleep/notify-upower.sh exited with exit status 1.
+Mar  8 22:11:42 ws1 systemd-sleep[9749]: Suspending system...
+Mar  8 22:11:42 ws1 kernel: [11235.036082] PM: Syncing filesystems ... done.
+Mar  9 08:59:17 ws1 kernel: [11235.665246] Freezing user space processes ... (elapsed 0.01 seconds) done.
+Mar  9 08:59:17 ws1 kernel: [11235.679235] Freezing remaining freezable tasks ... (elapsed 0.01 seconds) done.
+Mar  9 08:59:17 ws1 kernel: [11235.691315] Suspending console(s) (use no_console_suspend to debug)
+Mar  9 08:59:17 ws1 kernel: [11235.872257] sd 0:0:0:0: [sda] Synchronizing SCSI cache
+Mar  9 08:59:17 ws1 kernel: [11235.872980] sd 0:0:0:0: [sda] Stopping disk
+Mar  9 08:59:17 ws1 kernel: [11236.141328] i915 0000:00:02.0: power state changed by ACPI to D3hot
+Mar  9 08:59:17 ws1 kernel: [11236.295821] e1000e 0000:00:19.0: wake-up capability enabled by ACPI
+Mar  9 08:59:17 ws1 kernel: [11236.307115] PM: suspend of devices complete after 614.455 msecs
+Mar  9 08:59:17 ws1 kernel: [11236.309469] PM: late suspend of devices complete after 2.349 msecs
+Mar  9 08:59:17 ws1 kernel: [11236.321637] ehci_hcd 0000:00:1d.0: wake-up capability enabled by ACPI
+Mar  9 08:59:17 ws1 kernel: [11236.332782] ehci_hcd 0000:00:1d.0: power state changed by ACPI to D3hot
+Mar  9 08:59:17 ws1 kernel: [11236.334286] ehci_hcd 0000:00:1a.0: wake-up capability enabled by ACPI
+Mar  9 08:59:17 ws1 kernel: [11236.344750] ehci_hcd 0000:00:1a.0: power state changed by ACPI to D3hot
+Mar  9 08:59:17 ws1 kernel: [11236.356130] PM: noirq suspend of devices complete after 46.725 msecs
+Mar  9 08:59:17 ws1 kernel: [11236.356881] ACPI: Preparing to enter system sleep state S3
+Mar  9 08:59:17 ws1 kernel: [11236.440725] PM: Saving platform NVS memory
+Mar  9 08:59:17 ws1 kernel: [11236.522737] Disabling non-boot CPUs ...
+Mar  9 08:59:17 ws1 kernel: [11236.538022] smpboot: CPU 1 is now offline
+Mar  9 08:59:17 ws1 kernel: [11236.540719] CPU 1 offline: Remove Rx thread
+Mar  9 08:59:17 ws1 kernel: [11236.551534] smpboot: CPU 2 is now offline
+Mar  9 08:59:17 ws1 kernel: [11236.555278] CPU 2 offline: Remove Rx thread
+Mar  9 08:59:17 ws1 kernel: [11236.561971] Broke affinity for irq 17
+Mar  9 08:59:17 ws1 kernel: [11236.561993] Broke affinity for irq 23
+Mar  9 08:59:17 ws1 kernel: [11236.561997] Broke affinity for irq 40
+Mar  9 08:59:17 ws1 kernel: [11236.563067] smpboot: CPU 3 is now offline
+Mar  9 08:59:17 ws1 kernel: [11236.563068] SMP alternatives: lockdep: fixing up alternatives
+Mar  9 08:59:17 ws1 kernel: [11236.564260] CPU 3 offline: Remove Rx thread
+Mar  9 08:59:17 ws1 kernel: [11236.566103] Extended CMOS year: 2000
+Mar  9 08:59:17 ws1 kernel: [11236.567103] ACPI: Low-level resume complete
+Mar  9 08:59:17 ws1 kernel: [11236.567292] PM: Restoring platform NVS memory
+Mar  9 08:59:17 ws1 kernel: [11236.568163] Extended CMOS year: 2000
+Mar  9 08:59:17 ws1 kernel: [11236.568825] microcode: CPU0 updated to revision 0x28, date = 2012-04-24
+Mar  9 08:59:17 ws1 kernel: [11236.569282] Enabling non-boot CPUs ...
+Mar  9 08:59:17 ws1 kernel: [11236.569702] SMP alternatives: lockdep: fixing up alternatives
+Mar  9 08:59:17 ws1 kernel: [11236.569705] smpboot: Booting Node 0 Processor 1 APIC 0x1
+Mar  9 08:59:17 ws1 kernel: [11236.580727] Disabled fast string operations
+Mar  9 08:59:17 ws1 kernel: [11236.627002] microcode: CPU1 updated to revision 0x28, date = 2012-04-24
+Mar  9 08:59:17 ws1 kernel: [11236.627164] bnx2i: CPU 1 online: Create Rx thread
+Mar  9 08:59:17 ws1 kernel: [11236.627427] CPU1 is up
+Mar  9 08:59:17 ws1 kernel: [11236.628048] SMP alternatives: lockdep: fixing up alternatives
+Mar  9 08:59:17 ws1 kernel: [11236.628052] smpboot: Booting Node 0 Processor 2 APIC 0x2
+Mar  9 08:59:17 ws1 kernel: [11236.639069] Disabled fast string operations
+Mar  9 08:59:17 ws1 kernel: [11236.686908] microcode: CPU2 updated to revision 0x28, date = 2012-04-24
+Mar  9 08:59:17 ws1 kernel: [11236.687070] bnx2i: CPU 2 online: Create Rx thread
+Mar  9 08:59:17 ws1 kernel: [11236.687193] CPU2 is up
+Mar  9 08:59:17 ws1 kernel: [11236.688033] SMP alternatives: lockdep: fixing up alternatives
+Mar  9 08:59:17 ws1 kernel: [11236.688038] smpboot: Booting Node 0 Processor 3 APIC 0x3
+Mar  9 08:59:17 ws1 kernel: [11236.699231] Disabled fast string operations
+Mar  9 08:59:17 ws1 kernel: [11236.770843] microcode: CPU3 updated to revision 0x28, date = 2012-04-24
+Mar  9 08:59:17 ws1 kernel: [11236.771354] bnx2i: CPU 3 online: Create Rx thread
+Mar  9 08:59:17 ws1 kernel: [11236.771614] CPU3 is up
+Mar  9 08:59:17 ws1 kernel: [11236.778057] ACPI: Waking up from system sleep state S3
+Mar  9 08:59:17 ws1 kernel: [11236.973080] i915 0000:00:02.0: power state changed by ACPI to D0
+Mar  9 08:59:17 ws1 kernel: [11237.005969] ehci_hcd 0000:00:1a.0: power state changed by ACPI to D0
+Mar  9 08:59:17 ws1 kernel: [11237.017276] ehci_hcd 0000:00:1a.0: wake-up capability disabled by ACPI
+Mar  9 08:59:17 ws1 kernel: [11237.028893] ehci_hcd 0000:00:1d.0: power state changed by ACPI to D0
+Mar  9 08:59:17 ws1 kernel: [11237.040227] ehci_hcd 0000:00:1d.0: wake-up capability disabled by ACPI
+Mar  9 08:59:17 ws1 kernel: [11237.085002] PM: noirq resume of devices complete after 113.552 msecs
+Mar  9 08:59:17 ws1 kernel: [11237.086477] PM: early resume of devices complete after 1.276 msecs
+Mar  9 08:59:17 ws1 kernel: [11237.088349] e1000e 0000:00:19.0: wake-up capability disabled by ACPI
+Mar  9 08:59:17 ws1 kernel: [11237.092048] rtlwifi: wireless switch is on
+Mar  9 08:59:17 ws1 kernel: [11237.166331] [drm] Enabling RC6 states: RC6 on, RC6p off, RC6pp off
+Mar  9 08:59:17 ws1 kernel: [11237.189543] tpm_tis 00:0a: TPM is disabled/deactivated (0x6)
+Mar  9 08:59:17 ws1 kernel: [11237.329614] usb 2-1.5: reset full-speed USB device number 3 using ehci_hcd
+Mar  9 08:59:17 ws1 kernel: [11237.425167] ata2: SATA link up 1.5 Gbps (SStatus 113 SControl 300)
+Mar  9 08:59:17 ws1 kernel: [11237.427160] ata5: SATA link down (SStatus 0 SControl 300)
+Mar  9 08:59:17 ws1 kernel: [11237.429151] ata4: SATA link down (SStatus 0 SControl 300)
+Mar  9 08:59:17 ws1 kernel: [11237.470629] ata2.00: ACPI cmd ef/10:03:00:00:00:a0 (SET FEATURES) filtered out
+Mar  9 08:59:17 ws1 kernel: [11237.478827] usb 1-1.3: reset full-speed USB device number 4 using ehci_hcd
+Mar  9 08:59:17 ws1 kernel: [11237.522155] ata2.00: ACPI cmd ef/10:03:00:00:00:a0 (SET FEATURES) filtered out
+Mar  9 08:59:17 ws1 kernel: [11237.527772] ata2.00: configured for UDMA/100
+Mar  9 08:59:17 ws1 kernel: [11237.638625] usb 1-1.4: reset full-speed USB device number 5 using ehci_hcd
+Mar  9 08:59:17 ws1 kernel: [11237.645994] firewire_core 0000:0d:00.3: rediscovered device fw0
+Mar  9 08:59:17 ws1 kernel: [11237.718881] btusb 1-1.4:1.0: no reset_resume for driver btusb?
+Mar  9 08:59:17 ws1 kernel: [11237.718887] btusb 1-1.4:1.1: no reset_resume for driver btusb?
+Mar  9 08:59:17 ws1 kernel: [11237.790124] usb 1-1.6: reset high-speed USB device number 6 using ehci_hcd
+Mar  9 08:59:17 ws1 kernel: [11239.360385] ata1: SATA link up 3.0 Gbps (SStatus 123 SControl 300)
+Mar  9 08:59:17 ws1 kernel: [11239.636279] ata1.00: ACPI cmd f5/00:00:00:00:00:a0 (SECURITY FREEZE LOCK) filtered out
+Mar  9 08:59:17 ws1 kernel: [11239.636283] ata1.00: ACPI cmd ef/10:03:00:00:00:a0 (SET FEATURES) filtered out
+Mar  9 08:59:17 ws1 kernel: [11239.657396] ata1.00: ACPI cmd f5/00:00:00:00:00:a0 (SECURITY FREEZE LOCK) filtered out
+Mar  9 08:59:17 ws1 kernel: [11239.657401] ata1.00: ACPI cmd ef/10:03:00:00:00:a0 (SET FEATURES) filtered out
+Mar  9 08:59:17 ws1 kernel: [11239.659359] ata1.00: configured for UDMA/100
+Mar  9 08:59:17 ws1 kernel: [11239.659642] sd 0:0:0:0: [sda] Starting disk
+Mar  9 08:59:17 ws1 kernel: [11239.660587] Extended CMOS year: 2000
+Mar  9 08:59:17 ws1 kernel: [11240.383043] PM: resume of devices complete after 3301.558 msecs
+Mar  9 08:59:17 ws1 bluetoothd[741]: bluetoothd[741]: Adapter /org/bluez/741/hci0 has been disabled
+Mar  9 08:59:17 ws1 bluetoothd[741]: bluetoothd[741]: Unregister path: /org/bluez/741/hci0
+Mar  9 08:59:17 ws1 bluetoothd[741]: Adapter /org/bluez/741/hci0 has been disabled
+Mar  9 08:59:17 ws1 bluetoothd[741]: Unregister path: /org/bluez/741/hci0
+Mar  9 08:59:17 ws1 systemd-logind[780]: Lid opened.
+Mar  9 08:59:17 ws1 kernel: [11240.394930] Restarting tasks ... done.
+Mar  9 08:59:17 ws1 kernel: [11240.459618] usb 2-1.2: new high-speed USB device number 4 using ehci_hcd
+Mar  9 08:59:17 ws1 kernel: [11240.463689] video LNXVIDEO:00: Restoring backlight state
+Mar  9 08:59:17 ws1 bluetoothd[741]: bluetoothd[741]: Parsing /etc/bluetooth/serial.conf failed: No such file or directory
+Mar  9 08:59:17 ws1 bluetoothd[741]: bluetoothd[741]: input-headset driver probe failed for device 6C:F3:73:0E:2D:32
+Mar  9 08:59:17 ws1 bluetoothd[741]: Parsing /etc/bluetooth/serial.conf failed: No such file or directory
+Mar  9 08:59:17 ws1 dbus[785]: [system] Rejected send message, 3 matched rules; type="error", sender=":1.100" (uid=1000 pid=2582 comm="bluetooth-applet ") interface="(unset)" member="(unset)" error name="org.freedesktop.DBus.Error.UnknownMethod" requested_reply="0" destination=":1.0" (uid=0 pid=741 comm="/usr/sbin/bluetoothd -n ")
+Mar  9 08:59:17 ws1 bluetoothd[741]: input-headset driver probe failed for device 6C:F3:73:0E:2D:32
+Mar  9 08:59:17 ws1 bluetoothd[741]: Adapter /org/bluez/741/hci0 has been enabled
+Mar  9 08:59:17 ws1 dbus-daemon[785]: dbus[785]: [system] Rejected send message, 3 matched rules; type="error", sender=":1.100" (uid=1000 pid=2582 comm="bluetooth-applet ") interface="(unset)" member="(unset)" error name="org.freedesktop.DBus.Error.UnknownMethod" requested_reply="0" destination=":1.0" (uid=0 pid=741 comm="/usr/sbin/bluetoothd -n ")
+Mar  9 08:59:17 ws1 bluetoothd[741]: bluetoothd[741]: Adapter /org/bluez/741/hci0 has been enabled
+Mar  9 08:59:17 ws1 systemd[1]: Service bluetooth.target is not needed anymore. Stopping.
+Mar  9 08:59:17 ws1 kernel: [11240.540591] usb 2-1.2: New USB device found, idVendor=04e8, idProduct=6860
+Mar  9 08:59:17 ws1 kernel: [11240.540596] usb 2-1.2: New USB device strings: Mfr=2, Product=3, SerialNumber=4
+Mar  9 08:59:17 ws1 kernel: [11240.540599] usb 2-1.2: Product: GT-N7100
+Mar  9 08:59:17 ws1 kernel: [11240.540601] usb 2-1.2: Manufacturer: samsung
+Mar  9 08:59:17 ws1 kernel: [11240.540604] usb 2-1.2: SerialNumber: 4df7d2885481cf99
+Mar  9 08:59:17 ws1 systemd[1]: Stopping Bluetooth.
+Mar  9 08:59:17 ws1 systemd[1]: Stopped target Bluetooth.
+Mar  9 08:59:17 ws1 systemd[1]: Starting Bluetooth.
+Mar  9 08:59:17 ws1 systemd[1]: Reached target Bluetooth.
+Mar  9 08:59:18 ws1 kernel: [11240.751124] usb 1-1.2: USB disconnect, device number 7
+Mar  9 08:59:18 ws1 systemd-sleep[9749]: System resumed.
+Mar  9 08:59:18 ws1 upowerd[1278]: (upowerd:1278): UPower-Linux-WARNING **: energy_full (102.232800) is greater than energy_full_design (101.476800)
+Mar  9 08:59:18 ws1 systemd[1]: Started Suspend.
+Mar  9 08:59:18 ws1 systemd[1]: Service sleep.target is not needed anymore. Stopping.
+Mar  9 08:59:18 ws1 systemd[1]: Stopping Sleep.
+Mar  9 08:59:18 ws1 systemd[1]: Stopped target Sleep.
+Mar  9 08:59:18 ws1 systemd[1]: Stopping Suspend.
+Mar  9 08:59:18 ws1 systemd[1]: Stopped target Suspend.
+Mar  9 08:59:18 ws1 colord: device removed: sysfs-samsung-GT-N7100
+Mar  9 08:59:18 ws1 colord: Device added: sysfs-samsung-GT-N7100
+Mar  9 08:59:28 ws1 dbus-daemon[785]: dbus[785]: [system] Activating service name='org.freedesktop.PackageKit' (using servicehelper)
+Mar  9 08:59:28 ws1 dbus[785]: [system] Activating service name='org.freedesktop.PackageKit' (using servicehelper)
+Mar  9 08:59:28 ws1 dbus-daemon[785]: dbus[785]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Mar  9 08:59:28 ws1 dbus[785]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Mar  9 09:00:22 ws1 NetworkManager[942]: <info> (wlan0): disconnecting for new activation request.
+Mar  9 09:00:22 ws1 NetworkManager[942]: <info> (wlan0): device state change: activated -> disconnected (reason 'none') [100 30 0]
+Mar  9 09:00:22 ws1 NetworkManager[942]: <info> (wlan0): deactivating device (reason 'none') [0]
+Mar  9 09:00:22 ws1 NetworkManager[942]: <info> (wlan0): canceled DHCP transaction, DHCP client pid 3528
+Mar  9 09:00:22 ws1 kernel: [11305.194760] wlan0: deauthenticating from b8:c1:a2:03:c9:80 by local choice (reason=3)
+Mar  9 09:00:22 ws1 kernel: [11305.253437] cfg80211: Calling CRDA to update world regulatory domain
+Mar  9 09:00:22 ws1 avahi-daemon[759]: Withdrawing address record for 192.168.1.5 on wlan0.
+Mar  9 09:00:22 ws1 avahi-daemon[759]: Leaving mDNS multicast group on interface wlan0.IPv4 with address 192.168.1.5.
+Mar  9 09:00:22 ws1 avahi-daemon[759]: Interface wlan0.IPv4 no longer relevant for mDNS.
+Mar  9 09:00:22 ws1 NetworkManager[942]: <info> Activation (wlan0) starting connection 'SpringPeople2'
+Mar  9 09:00:22 ws1 kernel: [11305.271267] cfg80211: World regulatory domain updated:
+Mar  9 09:00:22 ws1 kernel: [11305.271271] cfg80211:   (start_freq - end_freq @ bandwidth), (max_antenna_gain, max_eirp)
+Mar  9 09:00:22 ws1 kernel: [11305.271274] cfg80211:   (2402000 KHz - 2472000 KHz @ 40000 KHz), (300 mBi, 2000 mBm)
+Mar  9 09:00:22 ws1 kernel: [11305.271276] cfg80211:   (2457000 KHz - 2482000 KHz @ 20000 KHz), (300 mBi, 2000 mBm)
+Mar  9 09:00:22 ws1 kernel: [11305.271279] cfg80211:   (2474000 KHz - 2494000 KHz @ 20000 KHz), (300 mBi, 2000 mBm)
+Mar  9 09:00:22 ws1 kernel: [11305.271281] cfg80211:   (5170000 KHz - 5250000 KHz @ 40000 KHz), (300 mBi, 2000 mBm)
+Mar  9 09:00:22 ws1 kernel: [11305.271283] cfg80211:   (5735000 KHz - 5835000 KHz @ 40000 KHz), (300 mBi, 2000 mBm)
+Mar  9 09:00:22 ws1 NetworkManager[942]: <info> (wlan0): device state change: disconnected -> prepare (reason 'none') [30 40 0]
+Mar  9 09:00:22 ws1 dbus[785]: [system] Activating service name='org.freedesktop.nm_dispatcher' (using servicehelper)
+Mar  9 09:00:22 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 1 of 5 (Device Prepare) scheduled...
+Mar  9 09:00:22 ws1 NetworkManager[942]: <info> (wlan0): supplicant interface state: completed -> disconnected
+Mar  9 09:00:22 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 1 of 5 (Device Prepare) started...
+Mar  9 09:00:22 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 2 of 5 (Device Configure) scheduled...
+Mar  9 09:00:22 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 1 of 5 (Device Prepare) complete.
+Mar  9 09:00:22 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 2 of 5 (Device Configure) starting...
+Mar  9 09:00:22 ws1 NetworkManager[942]: <info> (wlan0): device state change: prepare -> config (reason 'none') [40 50 0]
+Mar  9 09:00:22 ws1 NetworkManager[942]: <info> Activation (wlan0/wireless): connection 'SpringPeople2' has security, and secrets exist.  No new secrets needed.
+Mar  9 09:00:22 ws1 NetworkManager[942]: <info> Config: added 'ssid' value 'SpringPeople2'
+Mar  9 09:00:22 ws1 NetworkManager[942]: <info> Config: added 'scan_ssid' value '1'
+Mar  9 09:00:22 ws1 NetworkManager[942]: <info> Config: added 'key_mgmt' value 'WPA-PSK'
+Mar  9 09:00:22 ws1 NetworkManager[942]: <info> Config: added 'psk' value '<omitted>'
+Mar  9 09:00:22 ws1 NetworkManager[942]: <info> Config: added 'proto' value 'WPA RSN'
+Mar  9 09:00:22 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 2 of 5 (Device Configure) complete.
+Mar  9 09:00:22 ws1 dbus[785]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Mar  9 09:00:22 ws1 NetworkManager[942]: <info> Config: set interface ap_scan to 1
+Mar  9 09:00:22 ws1 dbus-daemon[785]: dbus[785]: [system] Activating service name='org.freedesktop.nm_dispatcher' (using servicehelper)
+Mar  9 09:00:22 ws1 dbus-daemon[785]: dbus[785]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Mar  9 09:00:22 ws1 systemd[1]: Stopping LSB: Starts and stops login and scanning of iSCSI devices....
+Mar  9 09:00:22 ws1 iscsi[9962]: Stopping iscsi: [  OK  ]
+Mar  9 09:00:23 ws1 systemd[1]: Stopped LSB: Starts and stops login and scanning of iSCSI devices..
+Mar  9 09:00:23 ws1 dbus-daemon[785]: Stopping iscsi (via systemctl):  [  OK  ]
+Mar  9 09:00:23 ws1 systemd[1]: Stopping Sendmail Mail Transport Client...
+Mar  9 09:00:23 ws1 systemd[1]: Stopping Sendmail Mail Transport Agent...
+Mar  9 09:00:23 ws1 systemd[1]: Starting Sendmail Mail Transport Agent...
+Mar  9 09:00:23 ws1 systemd[1]: PID file /run/sendmail.pid not readable (yet?) after start.
+Mar  9 09:00:23 ws1 systemd[1]: Started Sendmail Mail Transport Agent.
+Mar  9 09:00:23 ws1 systemd[1]: Starting Sendmail Mail Transport Client...
+Mar  9 09:00:23 ws1 chronyd[842]: Source 120.88.46.10 offline
+Mar  9 09:00:23 ws1 chronyd[842]: Source 113.30.137.34 offline
+Mar  9 09:00:23 ws1 chronyd[842]: Source 123.108.225.6 offline
+Mar  9 09:00:23 ws1 chronyd[842]: Source 125.62.193.121 offline
+Mar  9 09:00:23 ws1 systemd[1]: PID 3614 read from file /run/sm-client.pid does not exist.
+Mar  9 09:00:23 ws1 systemd[1]: Started Sendmail Mail Transport Client.
+Mar  9 09:00:23 ws1 kernel: [11306.196449] wlan0: authenticate with 08:86:3b:76:d4:8a
+Mar  9 09:00:23 ws1 kernel: [11306.213464] wlan0: send auth to 08:86:3b:76:d4:8a (try 1/3)
+Mar  9 09:00:23 ws1 NetworkManager[942]: <info> (wlan0): supplicant interface state: disconnected -> authenticating
+Mar  9 09:00:23 ws1 kernel: [11306.224786] wlan0: authenticated
+Mar  9 09:00:23 ws1 kernel: [11306.236764] wlan0: associate with 08:86:3b:76:d4:8a (try 1/3)
+Mar  9 09:00:23 ws1 NetworkManager[942]: <info> (wlan0): supplicant interface state: authenticating -> associating
+Mar  9 09:00:23 ws1 kernel: [11306.241859] wlan0: RX AssocResp from 08:86:3b:76:d4:8a (capab=0x411 status=0 aid=3)
+Mar  9 09:00:23 ws1 kernel: [11306.242554] wlan0: associated
+Mar  9 09:00:23 ws1 NetworkManager[942]: <info> (wlan0): supplicant interface state: associating -> associated
+Mar  9 09:00:23 ws1 NetworkManager[942]: <info> (wlan0): supplicant interface state: associated -> 4-way handshake
+Mar  9 09:00:23 ws1 NetworkManager[942]: <info> (wlan0): supplicant interface state: 4-way handshake -> completed
+Mar  9 09:00:23 ws1 NetworkManager[942]: <info> Activation (wlan0/wireless) Stage 2 of 5 (Device Configure) successful.  Connected to wireless network 'SpringPeople2'.
+Mar  9 09:00:24 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 3 of 5 (IP Configure Start) scheduled.
+Mar  9 09:00:24 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 3 of 5 (IP Configure Start) started...
+Mar  9 09:00:24 ws1 NetworkManager[942]: <info> (wlan0): device state change: config -> ip-config (reason 'none') [50 70 0]
+Mar  9 09:00:24 ws1 NetworkManager[942]: <info> Activation (wlan0) Beginning DHCPv4 transaction (timeout in 45 seconds)
+Mar  9 09:00:24 ws1 NetworkManager[942]: <info> dhclient started with pid 10028
+Mar  9 09:00:24 ws1 NetworkManager[942]: <info> Activation (wlan0) Beginning IP6 addrconf.
+Mar  9 09:00:24 ws1 avahi-daemon[759]: Withdrawing address record for fe80::6aa3:c4ff:fe21:15e8 on wlan0.
+Mar  9 09:00:24 ws1 dnsmasq[1788]: no servers found in /etc/resolv.conf, will retry
+Mar  9 09:00:24 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 3 of 5 (IP Configure Start) complete.
+Mar  9 09:00:24 ws1 dhclient[10028]: Internet Systems Consortium DHCP Client 4.2.4-P2
+Mar  9 09:00:24 ws1 dhclient[10028]: Copyright 2004-2012 Internet Systems Consortium.
+Mar  9 09:00:24 ws1 dhclient[10028]: All rights reserved.
+Mar  9 09:00:24 ws1 dhclient[10028]: For info, please visit https://www.isc.org/software/dhcp/
+Mar  9 09:00:24 ws1 dhclient[10028]: 
+Mar  9 09:00:24 ws1 NetworkManager[942]: <info> (wlan0): DHCPv4 state changed nbi -> preinit
+Mar  9 09:00:24 ws1 dhclient[10028]: Listening on LPF/wlan0/68:a3:c4:21:15:e8
+Mar  9 09:00:24 ws1 dhclient[10028]: Sending on   LPF/wlan0/68:a3:c4:21:15:e8
+Mar  9 09:00:24 ws1 dhclient[10028]: Sending on   Socket/fallback
+Mar  9 09:00:24 ws1 dhclient[10028]: DHCPDISCOVER on wlan0 to 255.255.255.255 port 67 interval 4 (xid=0x3994e096)
+Mar  9 09:00:25 ws1 avahi-daemon[759]: Registering new address record for fe80::6aa3:c4ff:fe21:15e8 on wlan0.*.
+Mar  9 09:00:27 ws1 dbus-daemon[785]: dbus[785]: [system] Activating service name='org.freedesktop.PackageKit' (using servicehelper)
+Mar  9 09:00:27 ws1 dbus[785]: [system] Activating service name='org.freedesktop.PackageKit' (using servicehelper)
+Mar  9 09:00:27 ws1 dbus-daemon[785]: dbus[785]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Mar  9 09:00:27 ws1 dbus[785]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Mar  9 09:00:28 ws1 dhclient[10028]: DHCPDISCOVER on wlan0 to 255.255.255.255 port 67 interval 6 (xid=0x3994e096)
+Mar  9 09:00:28 ws1 dhclient[10028]: DHCPREQUEST on wlan0 to 255.255.255.255 port 67 (xid=0x3994e096)
+Mar  9 09:00:28 ws1 dhclient[10028]: DHCPOFFER from 192.168.3.1
+Mar  9 09:00:28 ws1 dhclient[10028]: DHCPACK from 192.168.3.1 (xid=0x3994e096)
+Mar  9 09:00:28 ws1 NetworkManager[942]: <info> (wlan0): DHCPv4 state changed preinit -> bound
+Mar  9 09:00:28 ws1 NetworkManager[942]: <info>   address 192.168.3.81
+Mar  9 09:00:28 ws1 NetworkManager[942]: <info>   prefix 24 (255.255.255.0)
+Mar  9 09:00:28 ws1 NetworkManager[942]: <info>   gateway 192.168.3.1
+Mar  9 09:00:28 ws1 NetworkManager[942]: <info>   nameserver '208.67.222.222'
+Mar  9 09:00:28 ws1 NetworkManager[942]: <info>   nameserver '208.67.220.220'
+Mar  9 09:00:28 ws1 NetworkManager[942]: <info>   nameserver '4.2.2.2'
+Mar  9 09:00:28 ws1 dhclient[10028]: bound to 192.168.3.81 -- renewal in 36654 seconds.
+Mar  9 09:00:28 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 5 of 5 (IPv4 Configure Commit) scheduled...
+Mar  9 09:00:28 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 5 of 5 (IPv4 Commit) started...
+Mar  9 09:00:28 ws1 avahi-daemon[759]: Joining mDNS multicast group on interface wlan0.IPv4 with address 192.168.3.81.
+Mar  9 09:00:28 ws1 avahi-daemon[759]: New relevant interface wlan0.IPv4 for mDNS.
+Mar  9 09:00:28 ws1 avahi-daemon[759]: Registering new address record for 192.168.3.81 on wlan0.IPv4.
+Mar  9 09:00:29 ws1 NetworkManager[942]: <info> (wlan0): device state change: ip-config -> secondaries (reason 'none') [70 90 0]
+Mar  9 09:00:29 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 5 of 5 (IPv4 Commit) complete.
+Mar  9 09:00:29 ws1 NetworkManager[942]: <info> (wlan0): device state change: secondaries -> activated (reason 'none') [90 100 0]
+Mar  9 09:00:30 ws1 NetworkManager[942]: <info> Policy set 'SpringPeople2' (wlan0) as default for IPv4 routing and DNS.
+Mar  9 09:00:30 ws1 NetworkManager[942]: <info> Activation (wlan0) successful, device activated.
+Mar  9 09:00:30 ws1 systemd[1]: Starting LSB: Starts and stops login and scanning of iSCSI devices....
+Mar  9 09:00:30 ws1 iscsi[10084]: Starting iscsi: iscsiadm: No records found
+Mar  9 09:00:30 ws1 iscsi[10084]: [  OK  ]
+Mar  9 09:00:30 ws1 systemd[1]: Started LSB: Starts and stops login and scanning of iSCSI devices..
+Mar  9 09:00:30 ws1 dbus-daemon[785]: Starting iscsi (via systemctl):  [  OK  ]
+Mar  9 09:00:30 ws1 systemd[1]: Stopping Sendmail Mail Transport Client...
+Mar  9 09:00:30 ws1 systemd[1]: Stopping Sendmail Mail Transport Agent...
+Mar  9 09:00:30 ws1 systemd[1]: Starting Sendmail Mail Transport Agent...
+Mar  9 09:00:30 ws1 systemd[1]: PID file /run/sendmail.pid not readable (yet?) after start.
+Mar  9 09:00:30 ws1 systemd[1]: Started Sendmail Mail Transport Agent.
+Mar  9 09:00:30 ws1 systemd[1]: Starting Sendmail Mail Transport Client...
+Mar  9 09:00:30 ws1 dbus-daemon[785]: disabled
+Mar  9 09:00:30 ws1 chronyd[842]: Source 120.88.46.10 online
+Mar  9 09:00:30 ws1 chronyd[842]: Source 113.30.137.34 online
+Mar  9 09:00:30 ws1 chronyd[842]: Source 123.108.225.6 online
+Mar  9 09:00:30 ws1 chronyd[842]: Source 125.62.193.121 online
+Mar  9 09:00:30 ws1 systemd[1]: Started Sendmail Mail Transport Client.
+Mar  9 09:00:31 ws1 chronyd[842]: Can't synchronise: no majority
+Mar  9 09:00:31 ws1 chronyd[842]: Selected source 120.88.46.10
+Mar  9 09:00:31 ws1 chronyd[842]: System clock wrong by 0.984403 seconds, adjustment started
+Mar  9 09:00:43 ws1 NetworkManager[942]: <info> (wlan0): IP6 addrconf timed out or failed.
+Mar  9 09:00:43 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 4 of 5 (IPv6 Configure Timeout) scheduled...
+Mar  9 09:00:43 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 4 of 5 (IPv6 Configure Timeout) started...
+Mar  9 09:00:43 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 4 of 5 (IPv6 Configure Timeout) complete.
+Mar  9 09:00:53 ws1 kernel: [11334.441735] nf_conntrack: automatic helper assignment is deprecated and it will be removed soon. Use the iptables CT target to attach helpers instead.
+Mar  9 09:02:39 ws1 dnsmasq[1788]: reading /etc/resolv.conf
+Mar  9 09:02:39 ws1 dnsmasq[1788]: using nameserver 4.2.2.2#53
+Mar  9 09:02:39 ws1 dnsmasq[1788]: using nameserver 208.67.220.220#53
+Mar  9 09:02:39 ws1 dnsmasq[1788]: using nameserver 208.67.222.222#53
+Mar  9 09:02:39 ws1 dnsmasq[1788]: using local addresses only for unqualified names
+Mar  9 09:06:02 ws1 systemd[1]: Starting PC/SC Smart Card Daemon...
+Mar  9 09:06:02 ws1 systemd[1]: Started PC/SC Smart Card Daemon.
+Mar  9 09:06:02 ws1 pcscd[10346]: 00000000 utils.c:53:GetDaemonPid() Can't open /var/run/pcscd/pcscd.pid: No such file or directory
+Mar  9 09:06:02 ws1 systemd[1]: Started CUPS Printing Service.
+Mar  9 09:07:42 ws1 NetworkManager[942]: <warn> nl_recvmsgs() error: (-33) Dump inconsistency detected, interrupted
+Mar  9 09:15:41 ws1 NetworkManager[942]: <warn> nl_recvmsgs() error: (-33) Dump inconsistency detected, interrupted
+Mar  9 09:21:42 ws1 NetworkManager[942]: <warn> nl_recvmsgs() error: (-33) Dump inconsistency detected, interrupted
+Mar  9 09:21:42 ws1 NetworkManager[942]: <warn> nl_recvmsgs() error: (-33) Dump inconsistency detected, interrupted
+Mar  9 10:01:42 ws1 NetworkManager[942]: <warn> nl_recvmsgs() error: (-33) Dump inconsistency detected, interrupted
+Mar  9 10:03:49 ws1 kernel: [15105.456314] [drm:__gen6_gt_force_wake_get] *ERROR* Force wake wait timed out
+Mar  9 10:05:42 ws1 NetworkManager[942]: <warn> nl_recvmsgs() error: (-33) Dump inconsistency detected, interrupted
+Mar  9 10:25:42 ws1 NetworkManager[942]: <warn> nl_recvmsgs() error: (-33) Dump inconsistency detected, interrupted
+Mar  9 10:27:56 ws1 kernel: [16550.171569] [drm:__gen6_gt_force_wake_get] *ERROR* Force wake wait timed out
+Mar  9 10:32:52 ws1 kernel: [16846.049542] [drm:__gen6_gt_force_wake_get] *ERROR* Force wake wait timed out
+Mar  9 10:38:11 ws1 kernel: [17163.600535] [drm:__gen6_gt_force_wake_get] *ERROR* Force wake wait timed out
+Mar  9 10:39:42 ws1 NetworkManager[942]: <warn> nl_recvmsgs() error: (-33) Dump inconsistency detected, interrupted
+Mar  9 10:47:14 ws1 abrt: detected unhandled Python exception in '/home/ravi/Training/Python-jumpstart/mar09-11-2015/greet.py'
+Mar  9 10:57:41 ws1 NetworkManager[942]: <warn> nl_recvmsgs() error: (-33) Dump inconsistency detected, interrupted
+Mar  9 11:00:07 ws1 abrt: detected unhandled Python exception in '/home/ravi/bin/pycharm-community-4.0/helpers/pep8.py'
+Mar  9 11:00:07 ws1 abrtd: New client connected
+Mar  9 11:00:07 ws1 abrtd: Directory 'pyhook-2015-03-09-11:00:07-13237' creation detected
+Mar  9 11:00:07 ws1 abrt-server[13238]: Saved problem directory of pid 13237 to '/var/spool/abrt/pyhook-2015-03-09-11:00:07-13237'
+Mar  9 11:00:07 ws1 abrtd: Executable '/home/ravi/bin/pycharm-community-4.0/helpers/pep8.py' doesn't belong to any package
+Mar  9 11:00:07 ws1 abrtd: 'post-create' on '/var/spool/abrt/pyhook-2015-03-09-11:00:07-13237' exited with 1
+Mar  9 11:00:07 ws1 abrtd: Corrupted or bad directory '/var/spool/abrt/pyhook-2015-03-09-11:00:07-13237', deleting
+Mar  9 11:00:09 ws1 abrt: detected unhandled Python exception in '/home/ravi/bin/pycharm-community-4.0/helpers/pep8.py'
+Mar  9 11:00:09 ws1 abrtd: New client connected
+Mar  9 11:00:09 ws1 abrt-server[13242]: Not saving repeating crash in '/home/ravi/bin/pycharm-community-4.0/helpers/pep8.py'
+Mar  9 11:05:50 ws1 kernel: [18820.516187] usb 2-1.2: USB disconnect, device number 4
+Mar  9 11:05:50 ws1 colord: device removed: sysfs-samsung-GT-N7100
+Mar  9 11:24:34 ws1 dbus-daemon[785]: dbus[785]: [system] Activating service name='net.reactivated.Fprint' (using servicehelper)
+Mar  9 11:24:34 ws1 dbus[785]: [system] Activating service name='net.reactivated.Fprint' (using servicehelper)
+Mar  9 11:24:34 ws1 dbus-daemon[785]: dbus[785]: [system] Successfully activated service 'net.reactivated.Fprint'
+Mar  9 11:24:34 ws1 dbus[785]: [system] Successfully activated service 'net.reactivated.Fprint'
+Mar  9 11:24:34 ws1 dbus-daemon[785]: Launching FprintObject
+Mar  9 11:24:34 ws1 dbus-daemon[785]: ** Message: D-Bus service launched with name: net.reactivated.Fprint
+Mar  9 11:24:34 ws1 dbus-daemon[785]: ** Message: entering main loop
+Mar  9 11:24:34 ws1 dbus-daemon[785]: ** Message: user 'ravi' claiming the device: 0
+Mar  9 11:24:34 ws1 dbus-daemon[785]: ** Message: now monitoring fd 10
+Mar  9 11:24:34 ws1 dbus-daemon[785]: ** Message: device 0 claim status 0
+Mar  9 11:24:34 ws1 dbus-daemon[785]: ** Message: start verification device 0 finger 7
+Mar  9 11:24:38 ws1 dbus-daemon[785]: ** Message: verify_cb: result verify-match (1)
+Mar  9 11:24:38 ws1 dbus-daemon[785]: ** Message: no longer monitoring fd 10
+Mar  9 11:24:38 ws1 dbus-daemon[785]: ** Message: released device 0
+Mar  9 11:25:08 ws1 dbus-daemon[785]: ** Message: No devices in use, exit
+Mar  9 11:27:41 ws1 NetworkManager[942]: <warn> nl_recvmsgs() error: (-33) Dump inconsistency detected, interrupted
+Mar  9 11:33:41 ws1 NetworkManager[942]: <warn> nl_recvmsgs() error: (-33) Dump inconsistency detected, interrupted
+Mar  9 11:35:03 ws1 kernel: [20571.419924] usb 2-1.2: new high-speed USB device number 5 using ehci_hcd
+Mar  9 11:35:04 ws1 kernel: [20571.509522] usb 2-1.2: New USB device found, idVendor=04e8, idProduct=6860
+Mar  9 11:35:04 ws1 kernel: [20571.509533] usb 2-1.2: New USB device strings: Mfr=2, Product=3, SerialNumber=4
+Mar  9 11:35:04 ws1 kernel: [20571.509539] usb 2-1.2: Product: GT-N7100
+Mar  9 11:35:04 ws1 kernel: [20571.509544] usb 2-1.2: Manufacturer: samsung
+Mar  9 11:35:04 ws1 kernel: [20571.509549] usb 2-1.2: SerialNumber: 4df7d2885481cf99
+Mar  9 11:35:04 ws1 colord: Device added: sysfs-samsung-GT-N7100
+Mar  9 11:43:41 ws1 NetworkManager[942]: <warn> nl_recvmsgs() error: (-33) Dump inconsistency detected, interrupted
+Mar  9 11:51:41 ws1 NetworkManager[942]: <warn> nl_recvmsgs() error: (-33) Dump inconsistency detected, interrupted
+Mar  9 11:59:41 ws1 NetworkManager[942]: <warn> nl_recvmsgs() error: (-33) Dump inconsistency detected, interrupted
+Mar  9 12:13:34 ws1 kernel: [22878.145729] [drm:__gen6_gt_force_wake_get] *ERROR* Force wake wait timed out
+Mar  9 12:23:41 ws1 NetworkManager[942]: <warn> nl_recvmsgs() error: (-33) Dump inconsistency detected, interrupted
+Mar  9 12:28:47 ws1 kernel: [23790.277892] [drm:__gen6_gt_force_wake_get] *ERROR* Force wake wait timed out
+Mar  9 12:32:52 ws1 abrt: detected unhandled Python exception in '/home/ravi/Training/Python-jumpstart/mar09-11-2015/demofordocstring.py'
+Mar  9 12:35:41 ws1 NetworkManager[942]: <warn> nl_recvmsgs() error: (-33) Dump inconsistency detected, interrupted
+Mar  9 12:35:41 ws1 NetworkManager[942]: <warn> nl_recvmsgs() error: (-33) Dump inconsistency detected, interrupted
+Mar  9 12:37:42 ws1 NetworkManager[942]: <warn> nl_recvmsgs() error: (-33) Dump inconsistency detected, interrupted
+Mar  9 12:37:42 ws1 NetworkManager[942]: <warn> nl_recvmsgs() error: (-33) Dump inconsistency detected, interrupted
+Mar  9 12:43:41 ws1 NetworkManager[942]: <warn> nl_recvmsgs() error: (-33) Dump inconsistency detected, interrupted
+Mar  9 12:45:01 ws1 abrt: detected unhandled Python exception in '/home/ravi/Training/Python-jumpstart/mar09-11-2015/demoforunicodestr.py'
+Mar  9 12:46:47 ws1 abrt: detected unhandled Python exception in '/home/ravi/Training/Python-jumpstart/mar09-11-2015/demoforunicodestr.py'
+Mar  9 12:53:41 ws1 NetworkManager[942]: <warn> nl_recvmsgs() error: (-33) Dump inconsistency detected, interrupted
+Mar  9 12:57:41 ws1 NetworkManager[942]: <warn> nl_recvmsgs() error: (-33) Dump inconsistency detected, interrupted
+Mar  9 13:08:09 ws1 systemd-logind[780]: Lid closed.
+Mar  9 13:08:09 ws1 systemd-logind[780]: Suspending...
+Mar  9 13:08:09 ws1 systemd[1]: Starting Sleep.
+Mar  9 13:08:09 ws1 systemd[1]: Reached target Sleep.
+Mar  9 13:08:09 ws1 systemd[1]: Starting Suspend...
+Mar  9 13:08:09 ws1 systemd-sleep[17371]: /usr/lib/systemd/system-sleep/notify-upower.sh exited with exit status 1.
+Mar  9 13:08:09 ws1 systemd-sleep[17371]: Suspending system...
+Mar  9 13:08:09 ws1 kernel: [26148.238211] PM: Syncing filesystems ... done.
+Mar  9 14:00:39 ws1 bluetoothd[741]: bluetoothd[741]: Adapter /org/bluez/741/hci0 has been disabled
+Mar  9 14:00:39 ws1 kernel: [26150.339701] Freezing user space processes ... (elapsed 0.01 seconds) done.
+Mar  9 14:00:39 ws1 kernel: [26150.353698] Freezing remaining freezable tasks ... (elapsed 0.01 seconds) done.
+Mar  9 14:00:39 ws1 kernel: [26150.367361] Suspending console(s) (use no_console_suspend to debug)
+Mar  9 14:00:39 ws1 kernel: [26150.541845] sd 0:0:0:0: [sda] Synchronizing SCSI cache
+Mar  9 14:00:39 ws1 kernel: [26150.578968] sd 0:0:0:0: [sda] Stopping disk
+Mar  9 14:00:39 ws1 kernel: [26150.809693] i915 0000:00:02.0: power state changed by ACPI to D3hot
+Mar  9 14:00:39 ws1 kernel: [26150.996147] e1000e 0000:00:19.0: wake-up capability enabled by ACPI
+Mar  9 14:00:39 ws1 kernel: [26151.010342] PM: suspend of devices complete after 640.842 msecs
+Mar  9 14:00:39 ws1 kernel: [26151.012611] PM: late suspend of devices complete after 2.264 msecs
+Mar  9 14:00:39 ws1 kernel: [26151.025991] ehci_hcd 0000:00:1d.0: wake-up capability enabled by ACPI
+Mar  9 14:00:39 ws1 kernel: [26151.037134] ehci_hcd 0000:00:1d.0: power state changed by ACPI to D3hot
+Mar  9 14:00:39 ws1 kernel: [26151.038583] ehci_hcd 0000:00:1a.0: wake-up capability enabled by ACPI
+Mar  9 14:00:39 ws1 kernel: [26151.049104] ehci_hcd 0000:00:1a.0: power state changed by ACPI to D3hot
+Mar  9 14:00:39 ws1 kernel: [26151.060486] PM: noirq suspend of devices complete after 47.942 msecs
+Mar  9 14:00:39 ws1 kernel: [26151.061231] ACPI: Preparing to enter system sleep state S3
+Mar  9 14:00:39 ws1 kernel: [26151.140284] PM: Saving platform NVS memory
+Mar  9 14:00:39 ws1 kernel: [26151.172864] Disabling non-boot CPUs ...
+Mar  9 14:00:39 ws1 kernel: [26151.183985] smpboot: CPU 1 is now offline
+Mar  9 14:00:39 ws1 kernel: [26151.185413] CPU 1 offline: Remove Rx thread
+Mar  9 14:00:39 ws1 kernel: [26151.189911] smpboot: CPU 2 is now offline
+Mar  9 14:00:39 ws1 kernel: [26151.193279] CPU 2 offline: Remove Rx thread
+Mar  9 14:00:39 ws1 kernel: [26151.199631] Broke affinity for irq 17
+Mar  9 14:00:39 ws1 kernel: [26151.199669] Broke affinity for irq 23
+Mar  9 14:00:39 ws1 kernel: [26151.199673] Broke affinity for irq 40
+Mar  9 14:00:39 ws1 kernel: [26151.200762] smpboot: CPU 3 is now offline
+Mar  9 14:00:39 ws1 kernel: [26151.200763] SMP alternatives: lockdep: fixing up alternatives
+Mar  9 14:00:39 ws1 kernel: [26151.204530] CPU 3 offline: Remove Rx thread
+Mar  9 14:00:39 ws1 kernel: [26151.210632] Extended CMOS year: 2000
+Mar  9 14:00:39 ws1 kernel: [26151.212154] ACPI: Low-level resume complete
+Mar  9 14:00:39 ws1 kernel: [26151.212345] PM: Restoring platform NVS memory
+Mar  9 14:00:39 ws1 kernel: [26151.213235] Extended CMOS year: 2000
+Mar  9 14:00:39 ws1 kernel: [26151.213917] microcode: CPU0 updated to revision 0x28, date = 2012-04-24
+Mar  9 14:00:39 ws1 kernel: [26151.214085] Enabling non-boot CPUs ...
+Mar  9 14:00:39 ws1 kernel: [26151.214702] SMP alternatives: lockdep: fixing up alternatives
+Mar  9 14:00:39 ws1 kernel: [26151.214705] smpboot: Booting Node 0 Processor 1 APIC 0x1
+Mar  9 14:00:39 ws1 kernel: [26151.225727] Disabled fast string operations
+Mar  9 14:00:39 ws1 kernel: [26151.271987] microcode: CPU1 updated to revision 0x28, date = 2012-04-24
+Mar  9 14:00:39 ws1 kernel: [26151.272148] bnx2i: CPU 1 online: Create Rx thread
+Mar  9 14:00:39 ws1 kernel: [26151.272419] CPU1 is up
+Mar  9 14:00:39 ws1 kernel: [26151.273043] SMP alternatives: lockdep: fixing up alternatives
+Mar  9 14:00:39 ws1 kernel: [26151.273047] smpboot: Booting Node 0 Processor 2 APIC 0x2
+Mar  9 14:00:39 ws1 kernel: [26151.284065] Disabled fast string operations
+Mar  9 14:00:39 ws1 kernel: [26151.335729] microcode: CPU2 updated to revision 0x28, date = 2012-04-24
+Mar  9 14:00:39 ws1 kernel: [26151.335890] bnx2i: CPU 2 online: Create Rx thread
+Mar  9 14:00:39 ws1 kernel: [26151.336039] CPU2 is up
+Mar  9 14:00:39 ws1 kernel: [26151.336918] SMP alternatives: lockdep: fixing up alternatives
+Mar  9 14:00:39 ws1 kernel: [26151.336926] smpboot: Booting Node 0 Processor 3 APIC 0x3
+Mar  9 14:00:39 ws1 kernel: [26151.348344] Disabled fast string operations
+Mar  9 14:00:39 ws1 kernel: [26151.411742] microcode: CPU3 updated to revision 0x28, date = 2012-04-24
+Mar  9 14:00:39 ws1 kernel: [26151.412198] bnx2i: CPU 3 online: Create Rx thread
+Mar  9 14:00:39 ws1 kernel: [26151.412504] CPU3 is up
+Mar  9 14:00:39 ws1 kernel: [26151.419250] ACPI: Waking up from system sleep state S3
+Mar  9 14:00:39 ws1 kernel: [26151.590124] i915 0000:00:02.0: power state changed by ACPI to D0
+Mar  9 14:00:39 ws1 kernel: [26151.622997] ehci_hcd 0000:00:1a.0: power state changed by ACPI to D0
+Mar  9 14:00:39 ws1 kernel: [26151.634298] ehci_hcd 0000:00:1a.0: wake-up capability disabled by ACPI
+Mar  9 14:00:39 ws1 kernel: [26151.645909] ehci_hcd 0000:00:1d.0: power state changed by ACPI to D0
+Mar  9 14:00:39 ws1 kernel: [26151.657250] ehci_hcd 0000:00:1d.0: wake-up capability disabled by ACPI
+Mar  9 14:00:39 ws1 kernel: [26151.702062] PM: noirq resume of devices complete after 113.599 msecs
+Mar  9 14:00:39 ws1 kernel: [26151.703065] PM: early resume of devices complete after 0.757 msecs
+Mar  9 14:00:39 ws1 kernel: [26151.703626] e1000e 0000:00:19.0: wake-up capability disabled by ACPI
+Mar  9 14:00:39 ws1 kernel: [26151.705680] rtlwifi: wireless switch is on
+Mar  9 14:00:39 ws1 kernel: [26151.784690] [drm] Enabling RC6 states: RC6 on, RC6p off, RC6pp off
+Mar  9 14:00:39 ws1 kernel: [26151.797555] tpm_tis 00:0a: TPM is disabled/deactivated (0x6)
+Mar  9 14:00:39 ws1 kernel: [26151.941002] usb 1-1.3: reset full-speed USB device number 4 using ehci_hcd
+Mar  9 14:00:39 ws1 kernel: [26152.023309] ata4: SATA link down (SStatus 0 SControl 300)
+Mar  9 14:00:39 ws1 kernel: [26152.045199] ata5: SATA link down (SStatus 0 SControl 300)
+Mar  9 14:00:39 ws1 kernel: [26152.047184] ata2: SATA link up 1.5 Gbps (SStatus 113 SControl 300)
+Mar  9 14:00:39 ws1 kernel: [26152.079729] usb 1-1.4: reset full-speed USB device number 5 using ehci_hcd
+Mar  9 14:00:39 ws1 kernel: [26152.087532] ata2.00: ACPI cmd ef/10:03:00:00:00:a0 (SET FEATURES) filtered out
+Mar  9 14:00:39 ws1 kernel: [26152.137509] ata2.00: ACPI cmd ef/10:03:00:00:00:a0 (SET FEATURES) filtered out
+Mar  9 14:00:39 ws1 kernel: [26152.143343] ata2.00: configured for UDMA/100
+Mar  9 14:00:39 ws1 kernel: [26152.168921] btusb 1-1.4:1.0: no reset_resume for driver btusb?
+Mar  9 14:00:39 ws1 kernel: [26152.168929] btusb 1-1.4:1.1: no reset_resume for driver btusb?
+Mar  9 14:00:39 ws1 kernel: [26152.239372] usb 1-1.6: reset high-speed USB device number 6 using ehci_hcd
+Mar  9 14:00:39 ws1 kernel: [26152.259219] firewire_core 0000:0d:00.3: rediscovered device fw0
+Mar  9 14:00:39 ws1 kernel: [26152.393973] usb 2-1.2: reset high-speed USB device number 5 using ehci_hcd
+Mar  9 14:00:39 ws1 kernel: [26152.543114] usb 2-1.5: reset full-speed USB device number 3 using ehci_hcd
+Mar  9 14:00:39 ws1 kernel: [26153.981405] ata1: SATA link up 3.0 Gbps (SStatus 123 SControl 300)
+Mar  9 14:00:39 ws1 kernel: [26154.257688] ata1.00: ACPI cmd f5/00:00:00:00:00:a0 (SECURITY FREEZE LOCK) filtered out
+Mar  9 14:00:39 ws1 kernel: [26154.257693] ata1.00: ACPI cmd ef/10:03:00:00:00:a0 (SET FEATURES) filtered out
+Mar  9 14:00:39 ws1 kernel: [26154.286425] ata1.00: ACPI cmd f5/00:00:00:00:00:a0 (SECURITY FREEZE LOCK) filtered out
+Mar  9 14:00:39 ws1 kernel: [26154.286430] ata1.00: ACPI cmd ef/10:03:00:00:00:a0 (SET FEATURES) filtered out
+Mar  9 14:00:39 ws1 kernel: [26154.288529] ata1.00: configured for UDMA/100
+Mar  9 14:00:39 ws1 kernel: [26154.288824] sd 0:0:0:0: [sda] Starting disk
+Mar  9 14:00:39 ws1 kernel: [26154.998523] PM: resume of devices complete after 3300.455 msecs
+Mar  9 14:00:39 ws1 kernel: [26154.999223] wlan0: deauthenticated from 08:86:3b:76:d4:8a (Reason: 7)
+Mar  9 14:00:39 ws1 bluetoothd[741]: bluetoothd[741]: Unregister path: /org/bluez/741/hci0
+Mar  9 14:00:39 ws1 bluetoothd[741]: Adapter /org/bluez/741/hci0 has been disabled
+Mar  9 14:00:39 ws1 bluetoothd[741]: Unregister path: /org/bluez/741/hci0
+Mar  9 14:00:39 ws1 kernel: [26155.029935] cfg80211: Calling CRDA to update world regulatory domain
+Mar  9 14:00:39 ws1 dbus[785]: [system] Rejected send message, 3 matched rules; type="error", sender=":1.100" (uid=1000 pid=2582 comm="bluetooth-applet ") interface="(unset)" member="(unset)" error name="org.freedesktop.DBus.Error.UnknownMethod" requested_reply="0" destination=":1.0" (uid=0 pid=741 comm="/usr/sbin/bluetoothd -n ")
+Mar  9 14:00:39 ws1 kernel: [26155.006244] Restarting tasks ... done.
+Mar  9 14:00:39 ws1 NetworkManager[942]: <info> (wlan0): supplicant interface state: completed -> disconnected
+Mar  9 14:00:39 ws1 systemd-logind[780]: Lid opened.
+Mar  9 14:00:39 ws1 dbus-daemon[785]: dbus[785]: [system] Rejected send message, 3 matched rules; type="error", sender=":1.100" (uid=1000 pid=2582 comm="bluetooth-applet ") interface="(unset)" member="(unset)" error name="org.freedesktop.DBus.Error.UnknownMethod" requested_reply="0" destination=":1.0" (uid=0 pid=741 comm="/usr/sbin/bluetoothd -n ")
+Mar  9 14:00:39 ws1 kernel: [26155.053002] video LNXVIDEO:00: Restoring backlight state
+Mar  9 14:00:39 ws1 bluetoothd[741]: bluetoothd[741]: Parsing /etc/bluetooth/serial.conf failed: No such file or directory
+Mar  9 14:00:39 ws1 bluetoothd[741]: Parsing /etc/bluetooth/serial.conf failed: No such file or directory
+Mar  9 14:00:39 ws1 systemd[1]: Service bluetooth.target is not needed anymore. Stopping.
+Mar  9 14:00:39 ws1 systemd[1]: Stopping Bluetooth.
+Mar  9 14:00:39 ws1 systemd[1]: Stopped target Bluetooth.
+Mar  9 14:00:39 ws1 systemd[1]: Starting Bluetooth.
+Mar  9 14:00:39 ws1 systemd[1]: Reached target Bluetooth.
+Mar  9 14:00:39 ws1 bluetoothd[741]: bluetoothd[741]: input-headset driver probe failed for device 6C:F3:73:0E:2D:32
+Mar  9 14:00:39 ws1 bluetoothd[741]: input-headset driver probe failed for device 6C:F3:73:0E:2D:32
+Mar  9 14:00:39 ws1 bluetoothd[741]: Adapter /org/bluez/741/hci0 has been enabled
+Mar  9 14:00:39 ws1 bluetoothd[741]: bluetoothd[741]: Adapter /org/bluez/741/hci0 has been enabled
+Mar  9 14:00:40 ws1 systemd-sleep[17371]: System resumed.
+Mar  9 14:00:40 ws1 kernel: [26155.319168] psmouse serio1: synaptics: Advanced gesture mode init failed.
+Mar  9 14:00:40 ws1 kernel: [26155.319174] psmouse serio1: synaptics: Unable to initialize device.
+Mar  9 14:00:40 ws1 kernel: [26155.455997] cfg80211: World regulatory domain updated:
+Mar  9 14:00:40 ws1 kernel: [26155.456002] cfg80211:   (start_freq - end_freq @ bandwidth), (max_antenna_gain, max_eirp)
+Mar  9 14:00:40 ws1 kernel: [26155.456005] cfg80211:   (2402000 KHz - 2472000 KHz @ 40000 KHz), (300 mBi, 2000 mBm)
+Mar  9 14:00:40 ws1 kernel: [26155.456008] cfg80211:   (2457000 KHz - 2482000 KHz @ 20000 KHz), (300 mBi, 2000 mBm)
+Mar  9 14:00:40 ws1 kernel: [26155.456010] cfg80211:   (2474000 KHz - 2494000 KHz @ 20000 KHz), (300 mBi, 2000 mBm)
+Mar  9 14:00:40 ws1 kernel: [26155.456012] cfg80211:   (5170000 KHz - 5250000 KHz @ 40000 KHz), (300 mBi, 2000 mBm)
+Mar  9 14:00:40 ws1 kernel: [26155.456014] cfg80211:   (5735000 KHz - 5835000 KHz @ 40000 KHz), (300 mBi, 2000 mBm)
+Mar  9 14:00:40 ws1 NetworkManager[942]: <info> (wlan0): supplicant interface state: disconnected -> scanning
+Mar  9 14:00:40 ws1 upowerd[1278]: (upowerd:1278): UPower-Linux-WARNING **: energy_full (102.232800) is greater than energy_full_design (101.476800)
+Mar  9 14:00:40 ws1 systemd[1]: Started Suspend.
+Mar  9 14:00:40 ws1 systemd[1]: Service sleep.target is not needed anymore. Stopping.
+Mar  9 14:00:40 ws1 systemd[1]: Stopping Sleep.
+Mar  9 14:00:40 ws1 systemd[1]: Stopped target Sleep.
+Mar  9 14:00:40 ws1 systemd[1]: Starting Suspend.
+Mar  9 14:00:40 ws1 systemd[1]: Reached target Suspend.
+Mar  9 14:00:41 ws1 kernel: [26156.378814] wlan0: authenticate with 08:86:3b:76:d4:8a
+Mar  9 14:00:41 ws1 kernel: [26156.402404] wlan0: send auth to 08:86:3b:76:d4:8a (try 1/3)
+Mar  9 14:00:41 ws1 NetworkManager[942]: <info> (wlan0): supplicant interface state: scanning -> authenticating
+Mar  9 14:00:41 ws1 kernel: [26156.404986] wlan0: authenticated
+Mar  9 14:00:41 ws1 NetworkManager[942]: <info> (wlan0): supplicant interface state: authenticating -> associating
+Mar  9 14:00:41 ws1 kernel: [26156.416492] wlan0: associate with 08:86:3b:76:d4:8a (try 1/3)
+Mar  9 14:00:41 ws1 kernel: [26156.421030] wlan0: RX AssocResp from 08:86:3b:76:d4:8a (capab=0x411 status=0 aid=8)
+Mar  9 14:00:41 ws1 kernel: [26156.421257] wlan0: associated
+Mar  9 14:00:41 ws1 NetworkManager[942]: <info> (wlan0): supplicant interface state: associating -> associated
+Mar  9 14:00:41 ws1 NetworkManager[942]: <info> (wlan0): supplicant interface state: associated -> 4-way handshake
+Mar  9 14:00:41 ws1 NetworkManager[942]: <info> (wlan0): supplicant interface state: 4-way handshake -> completed
+Mar  9 14:00:41 ws1 kernel: [26156.488209] psmouse serio1: synaptics: Touchpad model: 1, fw: 7.2, id: 0x1c0b1, caps: 0xd047b3/0xb40000/0xa0000, board id: 71, fw id: 578367
+Mar  9 14:00:41 ws1 kernel: [26156.488287] psmouse serio1: synaptics: serio: Synaptics pass-through port at isa0060/serio1/input0
+Mar  9 14:00:41 ws1 kernel: [26156.539020] input: SynPS/2 Synaptics TouchPad as /devices/platform/i8042/serio1/input/input16
+Mar  9 14:00:47 ws1 kernel: [26163.139310] psmouse serio3: trackpoint: IBM TrackPoint firmware: 0x0e, buttons: 3/3
+Mar  9 14:00:48 ws1 kernel: [26163.398521] input: TPPS/2 IBM TrackPoint as /devices/platform/i8042/serio1/serio3/input/input17
+Mar  9 14:02:19 ws1 dbus-daemon[785]: dbus[785]: [system] Activating service name='net.reactivated.Fprint' (using servicehelper)
+Mar  9 14:02:19 ws1 dbus[785]: [system] Activating service name='net.reactivated.Fprint' (using servicehelper)
+Mar  9 14:02:19 ws1 dbus-daemon[785]: dbus[785]: [system] Successfully activated service 'net.reactivated.Fprint'
+Mar  9 14:02:19 ws1 dbus-daemon[785]: Launching FprintObject
+Mar  9 14:02:19 ws1 dbus[785]: [system] Successfully activated service 'net.reactivated.Fprint'
+Mar  9 14:02:19 ws1 dbus-daemon[785]: ** Message: D-Bus service launched with name: net.reactivated.Fprint
+Mar  9 14:02:19 ws1 dbus-daemon[785]: ** Message: entering main loop
+Mar  9 14:02:19 ws1 dbus-daemon[785]: ** Message: user 'ravi' claiming the device: 0
+Mar  9 14:02:19 ws1 dbus-daemon[785]: ** Message: now monitoring fd 10
+Mar  9 14:02:19 ws1 dbus-daemon[785]: ** Message: device 0 claim status 0
+Mar  9 14:02:19 ws1 dbus-daemon[785]: ** Message: start verification device 0 finger 7
+Mar  9 14:02:25 ws1 dbus-daemon[785]: ** Message: verify_cb: result verify-match (1)
+Mar  9 14:02:28 ws1 dbus-daemon[785]: ** Message: no longer monitoring fd 10
+Mar  9 14:02:28 ws1 dbus-daemon[785]: ** Message: released device 0
+Mar  9 14:02:58 ws1 dbus-daemon[785]: ** Message: No devices in use, exit
+Mar  9 14:05:15 ws1 chronyd[842]: Can't synchronise: no majority
+Mar  9 14:05:15 ws1 chronyd[842]: Selected source 120.88.46.10
+Mar  9 14:05:15 ws1 chronyd[842]: System clock wrong by 0.599859 seconds, adjustment started
+Mar  9 14:12:05 ws1 NetworkManager[942]: <warn> nl_recvmsgs() error: (-33) Dump inconsistency detected, interrupted
+Mar  9 14:12:05 ws1 NetworkManager[942]: <warn> nl_recvmsgs() error: (-33) Dump inconsistency detected, interrupted
+Mar  9 14:46:05 ws1 NetworkManager[942]: <warn> nl_recvmsgs() error: (-33) Dump inconsistency detected, interrupted
+Mar  9 14:46:51 ws1 kernel: [28921.287519] [drm:__gen6_gt_force_wake_get] *ERROR* Force wake wait timed out
+Mar  9 14:52:06 ws1 NetworkManager[942]: <warn> nl_recvmsgs() error: (-33) Dump inconsistency detected, interrupted
+Mar  9 14:52:06 ws1 NetworkManager[942]: <warn> nl_recvmsgs() error: (-33) Dump inconsistency detected, interrupted
+Mar  9 14:52:06 ws1 NetworkManager[942]: <warn> nl_recvmsgs() error: (-33) Dump inconsistency detected, interrupted
+Mar  9 14:52:06 ws1 NetworkManager[942]: <warn> nl_recvmsgs() error: (-33) Dump inconsistency detected, interrupted
+Mar  9 15:02:22 ws1 dbus-daemon[785]: dbus[785]: [system] Activating service name='org.freedesktop.PackageKit' (using servicehelper)
+Mar  9 15:02:22 ws1 dbus[785]: [system] Activating service name='org.freedesktop.PackageKit' (using servicehelper)
+Mar  9 15:02:22 ws1 dbus-daemon[785]: dbus[785]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Mar  9 15:02:22 ws1 dbus[785]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Mar  9 15:02:46 ws1 dbus-daemon[785]: dbus[785]: [system] Activating service name='org.freedesktop.PackageKit' (using servicehelper)
+Mar  9 15:02:46 ws1 dbus[785]: [system] Activating service name='org.freedesktop.PackageKit' (using servicehelper)
+Mar  9 15:02:46 ws1 dbus-daemon[785]: dbus[785]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Mar  9 15:02:46 ws1 dbus[785]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Mar  9 15:17:15 ws1 kernel: [30742.079751] wlan0: deauthenticated from 08:86:3b:76:d4:8a (Reason: 7)
+Mar  9 15:17:15 ws1 kernel: [30742.135999] cfg80211: Calling CRDA to update world regulatory domain
+Mar  9 15:17:15 ws1 NetworkManager[942]: <info> (wlan0): supplicant interface state: completed -> disconnected
+Mar  9 15:17:15 ws1 kernel: [30742.150789] cfg80211: World regulatory domain updated:
+Mar  9 15:17:15 ws1 kernel: [30742.150793] cfg80211:   (start_freq - end_freq @ bandwidth), (max_antenna_gain, max_eirp)
+Mar  9 15:17:15 ws1 kernel: [30742.150795] cfg80211:   (2402000 KHz - 2472000 KHz @ 40000 KHz), (300 mBi, 2000 mBm)
+Mar  9 15:17:15 ws1 kernel: [30742.150797] cfg80211:   (2457000 KHz - 2482000 KHz @ 20000 KHz), (300 mBi, 2000 mBm)
+Mar  9 15:17:15 ws1 kernel: [30742.150799] cfg80211:   (2474000 KHz - 2494000 KHz @ 20000 KHz), (300 mBi, 2000 mBm)
+Mar  9 15:17:15 ws1 kernel: [30742.150801] cfg80211:   (5170000 KHz - 5250000 KHz @ 40000 KHz), (300 mBi, 2000 mBm)
+Mar  9 15:17:15 ws1 kernel: [30742.150803] cfg80211:   (5735000 KHz - 5835000 KHz @ 40000 KHz), (300 mBi, 2000 mBm)
+Mar  9 15:17:15 ws1 NetworkManager[942]: <info> (wlan0): supplicant interface state: disconnected -> scanning
+Mar  9 15:17:16 ws1 kernel: [30743.472421] wlan0: authenticate with 08:86:3b:76:d4:8a
+Mar  9 15:17:16 ws1 kernel: [30743.496950] wlan0: send auth to 08:86:3b:76:d4:8a (try 1/3)
+Mar  9 15:17:16 ws1 kernel: [30743.502040] wlan0: authenticated
+Mar  9 15:17:16 ws1 NetworkManager[942]: <info> (wlan0): supplicant interface state: scanning -> authenticating
+Mar  9 15:17:16 ws1 NetworkManager[942]: <info> (wlan0): supplicant interface state: authenticating -> associating
+Mar  9 15:17:16 ws1 kernel: [30743.514140] wlan0: associate with 08:86:3b:76:d4:8a (try 1/3)
+Mar  9 15:17:16 ws1 kernel: [30743.518879] wlan0: RX AssocResp from 08:86:3b:76:d4:8a (capab=0x411 status=0 aid=8)
+Mar  9 15:17:16 ws1 kernel: [30743.519171] wlan0: associated
+Mar  9 15:17:16 ws1 NetworkManager[942]: <info> (wlan0): supplicant interface state: associating -> associated
+Mar  9 15:17:16 ws1 NetworkManager[942]: <info> (wlan0): supplicant interface state: associated -> 4-way handshake
+Mar  9 15:17:16 ws1 NetworkManager[942]: <info> (wlan0): supplicant interface state: 4-way handshake -> completed
+Mar  9 15:20:05 ws1 NetworkManager[942]: <warn> nl_recvmsgs() error: (-33) Dump inconsistency detected, interrupted
+Mar  9 15:20:05 ws1 NetworkManager[942]: <warn> nl_recvmsgs() error: (-33) Dump inconsistency detected, interrupted
+Mar  9 15:20:05 ws1 NetworkManager[942]: <warn> nl_recvmsgs() error: (-33) Dump inconsistency detected, interrupted
+Mar  9 15:32:39 ws1 chronyd[842]: Selected source 125.62.193.121
+Mar  9 15:38:08 ws1 abrt: detected unhandled Python exception in '/home/ravi/Training/Python-jumpstart/mar09-11-2015/demolist1.py'
+Mar  9 15:38:09 ws1 abrtd: New client connected
+Mar  9 15:38:09 ws1 abrt-server[20574]: Saved problem directory of pid 20573 to '/var/spool/abrt/pyhook-2015-03-09-15:38:09-20573'
+Mar  9 15:38:09 ws1 abrtd: Directory 'pyhook-2015-03-09-15:38:09-20573' creation detected
+Mar  9 15:38:09 ws1 abrt-server[20574]: Lock file '/var/spool/abrt/pyhook-2015-02-28-15:09:04-2661/.lock' is locked by process 767
+Mar  9 15:38:09 ws1 abrtd: Executable '/home/ravi/Training/Python-jumpstart/mar09-11-2015/demolist1.py' doesn't belong to any package
+Mar  9 15:38:09 ws1 abrtd: 'post-create' on '/var/spool/abrt/pyhook-2015-03-09-15:38:09-20573' exited with 1
+Mar  9 15:38:09 ws1 abrtd: Corrupted or bad directory '/var/spool/abrt/pyhook-2015-03-09-15:38:09-20573', deleting
+Mar  9 15:42:05 ws1 NetworkManager[942]: <warn> nl_recvmsgs() error: (-33) Dump inconsistency detected, interrupted
+Mar  9 15:48:05 ws1 NetworkManager[942]: <warn> nl_recvmsgs() error: (-33) Dump inconsistency detected, interrupted
+Mar  9 15:56:24 ws1 kernel: [33087.646015] usb 2-1.2: USB disconnect, device number 5
+Mar  9 15:56:24 ws1 colord: device removed: sysfs-samsung-GT-N7100
+Mar  9 16:06:11 ws1 kernel: [33674.466777] usb 2-1.2: new high-speed USB device number 6 using ehci_hcd
+Mar  9 16:06:11 ws1 kernel: [33674.555605] usb 2-1.2: New USB device found, idVendor=04e8, idProduct=6860
+Mar  9 16:06:11 ws1 kernel: [33674.555610] usb 2-1.2: New USB device strings: Mfr=2, Product=3, SerialNumber=4
+Mar  9 16:06:11 ws1 kernel: [33674.555612] usb 2-1.2: Product: GT-N7100
+Mar  9 16:06:11 ws1 kernel: [33674.555615] usb 2-1.2: Manufacturer: samsung
+Mar  9 16:06:11 ws1 kernel: [33674.555617] usb 2-1.2: SerialNumber: 4df7d2885481cf99
+Mar  9 16:06:11 ws1 colord: Device added: sysfs-samsung-GT-N7100
+Mar  9 16:25:54 ws1 abrt: detected unhandled Python exception in '/home/ravi/bin/pycharm-community-4.0/helpers/pep8.py'
+Mar  9 16:25:54 ws1 abrtd: New client connected
+Mar  9 16:25:54 ws1 abrtd: Directory 'pyhook-2015-03-09-16:25:54-22283' creation detected
+Mar  9 16:25:54 ws1 abrt-server[22285]: Saved problem directory of pid 22283 to '/var/spool/abrt/pyhook-2015-03-09-16:25:54-22283'
+Mar  9 16:25:54 ws1 abrtd: Executable '/home/ravi/bin/pycharm-community-4.0/helpers/pep8.py' doesn't belong to any package
+Mar  9 16:25:54 ws1 abrtd: 'post-create' on '/var/spool/abrt/pyhook-2015-03-09-16:25:54-22283' exited with 1
+Mar  9 16:25:54 ws1 abrtd: Corrupted or bad directory '/var/spool/abrt/pyhook-2015-03-09-16:25:54-22283', deleting
+Mar  9 16:25:57 ws1 abrt: detected unhandled Python exception in '/home/ravi/bin/pycharm-community-4.0/helpers/pep8.py'
+Mar  9 16:25:57 ws1 abrtd: New client connected
+Mar  9 16:25:57 ws1 abrt-server[22289]: Not saving repeating crash in '/home/ravi/bin/pycharm-community-4.0/helpers/pep8.py'
+Mar  9 16:25:58 ws1 abrt: detected unhandled Python exception in '/home/ravi/bin/pycharm-community-4.0/helpers/pep8.py'
+Mar  9 16:25:58 ws1 abrtd: New client connected
+Mar  9 16:25:58 ws1 abrt-server[22291]: Not saving repeating crash in '/home/ravi/bin/pycharm-community-4.0/helpers/pep8.py'
+Mar  9 16:25:59 ws1 abrt: detected unhandled Python exception in '/home/ravi/bin/pycharm-community-4.0/helpers/pep8.py'
+Mar  9 16:25:59 ws1 abrtd: New client connected
+Mar  9 16:25:59 ws1 abrt-server[22293]: Not saving repeating crash in '/home/ravi/bin/pycharm-community-4.0/helpers/pep8.py'
+Mar  9 16:26:02 ws1 abrt: detected unhandled Python exception in '/home/ravi/bin/pycharm-community-4.0/helpers/pep8.py'
+Mar  9 16:26:02 ws1 abrtd: New client connected
+Mar  9 16:26:02 ws1 abrt-server[22295]: Not saving repeating crash in '/home/ravi/bin/pycharm-community-4.0/helpers/pep8.py'
+Mar  9 16:26:06 ws1 abrt: detected unhandled Python exception in '/home/ravi/bin/pycharm-community-4.0/helpers/pep8.py'
+Mar  9 16:26:06 ws1 abrtd: New client connected
+Mar  9 16:26:06 ws1 abrt-server[22299]: Not saving repeating crash in '/home/ravi/bin/pycharm-community-4.0/helpers/pep8.py'
+Mar  9 16:26:08 ws1 abrt: detected unhandled Python exception in '/home/ravi/bin/pycharm-community-4.0/helpers/pep8.py'
+Mar  9 16:26:08 ws1 abrtd: New client connected
+Mar  9 16:26:08 ws1 abrt-server[22301]: Not saving repeating crash in '/home/ravi/bin/pycharm-community-4.0/helpers/pep8.py'
+Mar  9 16:30:05 ws1 NetworkManager[942]: <warn> nl_recvmsgs() error: (-33) Dump inconsistency detected, interrupted
+Mar  9 16:36:05 ws1 NetworkManager[942]: <warn> nl_recvmsgs() error: (-33) Dump inconsistency detected, interrupted
+Mar  9 16:38:05 ws1 NetworkManager[942]: <warn> nl_recvmsgs() error: (-33) Dump inconsistency detected, interrupted
+Mar  9 16:54:05 ws1 NetworkManager[942]: <warn> nl_recvmsgs() error: (-33) Dump inconsistency detected, interrupted
+Mar  9 16:56:05 ws1 NetworkManager[942]: <warn> nl_recvmsgs() error: (-33) Dump inconsistency detected, interrupted
+Mar  9 17:12:07 ws1 systemd-logind[780]: Lid closed.
+Mar  9 17:12:07 ws1 systemd-logind[780]: Suspending...
+Mar  9 17:12:07 ws1 systemd[1]: Starting Sleep.
+Mar  9 17:12:07 ws1 systemd[1]: Reached target Sleep.
+Mar  9 17:12:07 ws1 systemd[1]: Starting Suspend...
+Mar  9 17:12:07 ws1 systemd-sleep[23725]: /usr/lib/systemd/system-sleep/notify-upower.sh exited with exit status 1.
+Mar  9 17:12:07 ws1 systemd-sleep[23725]: Suspending system...
+Mar  9 17:12:08 ws1 kernel: [37624.513955] PM: Syncing filesystems ... done.
+Mar 10 08:06:45 ws1 kernel: [37625.750356] Freezing user space processes ... (elapsed 0.01 seconds) done.
+Mar 10 08:06:45 ws1 kernel: [37625.766183] Freezing remaining freezable tasks ... (elapsed 0.01 seconds) done.
+Mar 10 08:06:45 ws1 kernel: [37625.779396] Suspending console(s) (use no_console_suspend to debug)
+Mar 10 08:06:45 ws1 kernel: [37625.958559] sd 0:0:0:0: [sda] Synchronizing SCSI cache
+Mar 10 08:06:45 ws1 kernel: [37626.000906] sd 0:0:0:0: [sda] Stopping disk
+Mar 10 08:06:45 ws1 kernel: [37626.226134] i915 0000:00:02.0: power state changed by ACPI to D3hot
+Mar 10 08:06:45 ws1 kernel: [37626.414692] e1000e 0000:00:19.0: wake-up capability enabled by ACPI
+Mar 10 08:06:45 ws1 kernel: [37626.425794] PM: suspend of devices complete after 644.536 msecs
+Mar 10 08:06:45 ws1 kernel: [37626.428124] PM: late suspend of devices complete after 2.325 msecs
+Mar 10 08:06:45 ws1 kernel: [37626.441425] ehci_hcd 0000:00:1d.0: wake-up capability enabled by ACPI
+Mar 10 08:06:45 ws1 kernel: [37626.451567] ehci_hcd 0000:00:1d.0: power state changed by ACPI to D3hot
+Mar 10 08:06:45 ws1 kernel: [37626.452971] ehci_hcd 0000:00:1a.0: wake-up capability enabled by ACPI
+Mar 10 08:06:45 ws1 kernel: [37626.463558] ehci_hcd 0000:00:1a.0: power state changed by ACPI to D3hot
+Mar 10 08:06:45 ws1 kernel: [37626.474921] PM: noirq suspend of devices complete after 46.862 msecs
+Mar 10 08:06:45 ws1 kernel: [37626.475673] ACPI: Preparing to enter system sleep state S3
+Mar 10 08:06:45 ws1 kernel: [37626.558380] PM: Saving platform NVS memory
+Mar 10 08:06:45 ws1 kernel: [37626.602454] Disabling non-boot CPUs ...
+Mar 10 08:06:45 ws1 kernel: [37626.607105] smpboot: CPU 1 is now offline
+Mar 10 08:06:45 ws1 kernel: [37626.610109] CPU 1 offline: Remove Rx thread
+Mar 10 08:06:45 ws1 kernel: [37626.620332] smpboot: CPU 2 is now offline
+Mar 10 08:06:45 ws1 kernel: [37626.623513] CPU 2 offline: Remove Rx thread
+Mar 10 08:06:45 ws1 kernel: [37626.630605] Broke affinity for irq 17
+Mar 10 08:06:45 ws1 kernel: [37626.630643] Broke affinity for irq 23
+Mar 10 08:06:45 ws1 kernel: [37626.630653] Broke affinity for irq 40
+Mar 10 08:06:45 ws1 kernel: [37626.631920] smpboot: CPU 3 is now offline
+Mar 10 08:06:45 ws1 kernel: [37626.631923] SMP alternatives: lockdep: fixing up alternatives
+Mar 10 08:06:45 ws1 kernel: [37626.635715] CPU 3 offline: Remove Rx thread
+Mar 10 08:06:45 ws1 kernel: [37626.636708] Extended CMOS year: 2000
+Mar 10 08:06:45 ws1 kernel: [37626.638236] ACPI: Low-level resume complete
+Mar 10 08:06:45 ws1 kernel: [37626.638425] PM: Restoring platform NVS memory
+Mar 10 08:06:45 ws1 kernel: [37626.639312] Extended CMOS year: 2000
+Mar 10 08:06:45 ws1 kernel: [37626.639970] microcode: CPU0 updated to revision 0x28, date = 2012-04-24
+Mar 10 08:06:45 ws1 kernel: [37626.640029] Enabling non-boot CPUs ...
+Mar 10 08:06:45 ws1 kernel: [37626.640415] SMP alternatives: lockdep: fixing up alternatives
+Mar 10 08:06:45 ws1 kernel: [37626.640418] smpboot: Booting Node 0 Processor 1 APIC 0x1
+Mar 10 08:06:45 ws1 kernel: [37626.651441] Disabled fast string operations
+Mar 10 08:06:45 ws1 kernel: [37626.681384] microcode: CPU1 updated to revision 0x28, date = 2012-04-24
+Mar 10 08:06:45 ws1 kernel: [37626.681545] bnx2i: CPU 1 online: Create Rx thread
+Mar 10 08:06:45 ws1 kernel: [37626.681906] CPU1 is up
+Mar 10 08:06:45 ws1 kernel: [37626.682758] SMP alternatives: lockdep: fixing up alternatives
+Mar 10 08:06:45 ws1 kernel: [37626.682766] smpboot: Booting Node 0 Processor 2 APIC 0x2
+Mar 10 08:06:45 ws1 kernel: [37626.694158] Disabled fast string operations
+Mar 10 08:06:45 ws1 kernel: [37626.731624] microcode: CPU2 updated to revision 0x28, date = 2012-04-24
+Mar 10 08:06:45 ws1 kernel: [37626.731886] bnx2i: CPU 2 online: Create Rx thread
+Mar 10 08:06:45 ws1 kernel: [37626.732043] CPU2 is up
+Mar 10 08:06:45 ws1 kernel: [37626.732573] SMP alternatives: lockdep: fixing up alternatives
+Mar 10 08:06:45 ws1 kernel: [37626.732579] smpboot: Booting Node 0 Processor 3 APIC 0x3
+Mar 10 08:06:45 ws1 kernel: [37626.743684] Disabled fast string operations
+Mar 10 08:06:45 ws1 kernel: [37626.781556] microcode: CPU3 updated to revision 0x28, date = 2012-04-24
+Mar 10 08:06:45 ws1 kernel: [37626.781817] bnx2i: CPU 3 online: Create Rx thread
+Mar 10 08:06:45 ws1 kernel: [37626.781999] CPU3 is up
+Mar 10 08:06:45 ws1 kernel: [37626.788329] ACPI: Waking up from system sleep state S3
+Mar 10 08:06:45 ws1 kernel: [37626.932367] thinkpad_acpi: EC reports that Thermal Table has changed
+Mar 10 08:06:45 ws1 kernel: [37627.035490] i915 0000:00:02.0: power state changed by ACPI to D0
+Mar 10 08:06:45 ws1 kernel: [37627.068389] ehci_hcd 0000:00:1a.0: power state changed by ACPI to D0
+Mar 10 08:06:45 ws1 kernel: [37627.079687] ehci_hcd 0000:00:1a.0: wake-up capability disabled by ACPI
+Mar 10 08:06:45 ws1 kernel: [37627.091300] ehci_hcd 0000:00:1d.0: power state changed by ACPI to D0
+Mar 10 08:06:45 ws1 kernel: [37627.102642] ehci_hcd 0000:00:1d.0: wake-up capability disabled by ACPI
+Mar 10 08:06:45 ws1 kernel: [37627.147422] PM: noirq resume of devices complete after 113.560 msecs
+Mar 10 08:06:45 ws1 kernel: [37627.148899] PM: early resume of devices complete after 1.280 msecs
+Mar 10 08:06:45 ws1 kernel: [37627.149782] e1000e 0000:00:19.0: wake-up capability disabled by ACPI
+Mar 10 08:06:45 ws1 kernel: [37627.151757] rtlwifi: wireless switch is on
+Mar 10 08:06:45 ws1 kernel: [37627.225585] [drm] Enabling RC6 states: RC6 on, RC6p off, RC6pp off
+Mar 10 08:06:45 ws1 kernel: [37627.254902] tpm_tis 00:0a: TPM is disabled/deactivated (0x6)
+Mar 10 08:06:45 ws1 kernel: [37627.385406] usb 1-1.3: reset full-speed USB device number 4 using ehci_hcd
+Mar 10 08:06:45 ws1 kernel: [37627.481748] ata4: SATA link down (SStatus 0 SControl 300)
+Mar 10 08:06:45 ws1 kernel: [37627.483628] ata2: SATA link up 1.5 Gbps (SStatus 113 SControl 300)
+Mar 10 08:06:45 ws1 kernel: [37627.485612] ata5: SATA link down (SStatus 0 SControl 300)
+Mar 10 08:06:45 ws1 kernel: [37627.526561] ata2.00: ACPI cmd ef/10:03:00:00:00:a0 (SET FEATURES) filtered out
+Mar 10 08:06:45 ws1 kernel: [37627.534167] usb 1-1.4: reset full-speed USB device number 5 using ehci_hcd
+Mar 10 08:06:45 ws1 kernel: [37627.574858] ata2.00: ACPI cmd ef/10:03:00:00:00:a0 (SET FEATURES) filtered out
+Mar 10 08:06:45 ws1 kernel: [37627.575511] ata2.00: configured for UDMA/100
+Mar 10 08:06:45 ws1 kernel: [37627.624211] btusb 1-1.4:1.0: no reset_resume for driver btusb?
+Mar 10 08:06:45 ws1 kernel: [37627.624216] btusb 1-1.4:1.1: no reset_resume for driver btusb?
+Mar 10 08:06:45 ws1 kernel: [37627.694697] usb 1-1.6: reset high-speed USB device number 6 using ehci_hcd
+Mar 10 08:06:45 ws1 kernel: [37627.707386] firewire_core 0000:0d:00.3: rediscovered device fw0
+Mar 10 08:06:45 ws1 kernel: [37627.849640] usb 2-1.5: reset full-speed USB device number 3 using ehci_hcd
+Mar 10 08:06:45 ws1 kernel: [37629.467747] ata1: SATA link up 3.0 Gbps (SStatus 123 SControl 300)
+Mar 10 08:06:45 ws1 kernel: [37629.706895] ata1.00: ACPI cmd f5/00:00:00:00:00:a0 (SECURITY FREEZE LOCK) filtered out
+Mar 10 08:06:45 ws1 kernel: [37629.706899] ata1.00: ACPI cmd ef/10:03:00:00:00:a0 (SET FEATURES) filtered out
+Mar 10 08:06:45 ws1 kernel: [37629.729031] ata1.00: ACPI cmd f5/00:00:00:00:00:a0 (SECURITY FREEZE LOCK) filtered out
+Mar 10 08:06:45 ws1 kernel: [37629.729036] ata1.00: ACPI cmd ef/10:03:00:00:00:a0 (SET FEATURES) filtered out
+Mar 10 08:06:45 ws1 kernel: [37629.731015] ata1.00: configured for UDMA/100
+Mar 10 08:06:45 ws1 kernel: [37629.731321] sd 0:0:0:0: [sda] Starting disk
+Mar 10 08:06:45 ws1 kernel: [37629.732434] Extended CMOS year: 2000
+Mar 10 08:06:45 ws1 kernel: [37630.423547] PM: resume of devices complete after 3279.598 msecs
+Mar 10 08:06:45 ws1 kernel: [37630.442070] usb 2-1.2: USB disconnect, device number 6
+Mar 10 08:06:45 ws1 systemd-logind[780]: Lid opened.
+Mar 10 08:06:45 ws1 bluetoothd[741]: bluetoothd[741]: Adapter /org/bluez/741/hci0 has been disabled
+Mar 10 08:06:45 ws1 bluetoothd[741]: bluetoothd[741]: Unregister path: /org/bluez/741/hci0
+Mar 10 08:06:45 ws1 bluetoothd[741]: Adapter /org/bluez/741/hci0 has been disabled
+Mar 10 08:06:45 ws1 bluetoothd[741]: Unregister path: /org/bluez/741/hci0
+Mar 10 08:06:45 ws1 kernel: [37630.437104] Restarting tasks ... done.
+Mar 10 08:06:45 ws1 dbus-daemon[785]: dbus[785]: [system] Rejected send message, 3 matched rules; type="error", sender=":1.100" (uid=1000 pid=2582 comm="bluetooth-applet ") interface="(unset)" member="(unset)" error name="org.freedesktop.DBus.Error.UnknownMethod" requested_reply="0" destination=":1.0" (uid=0 pid=741 comm="/usr/sbin/bluetoothd -n ")
+Mar 10 08:06:45 ws1 dbus[785]: [system] Rejected send message, 3 matched rules; type="error", sender=":1.100" (uid=1000 pid=2582 comm="bluetooth-applet ") interface="(unset)" member="(unset)" error name="org.freedesktop.DBus.Error.UnknownMethod" requested_reply="0" destination=":1.0" (uid=0 pid=741 comm="/usr/sbin/bluetoothd -n ")
+Mar 10 08:06:45 ws1 bluetoothd[741]: bluetoothd[741]: Parsing /etc/bluetooth/serial.conf failed: No such file or directory
+Mar 10 08:06:45 ws1 bluetoothd[741]: Parsing /etc/bluetooth/serial.conf failed: No such file or directory
+Mar 10 08:06:45 ws1 kernel: [37630.498663] video LNXVIDEO:00: Restoring backlight state
+Mar 10 08:06:45 ws1 systemd[1]: Service bluetooth.target is not needed anymore. Stopping.
+Mar 10 08:06:45 ws1 systemd[1]: Stopping Bluetooth.
+Mar 10 08:06:45 ws1 systemd[1]: Stopped target Bluetooth.
+Mar 10 08:06:45 ws1 systemd[1]: Starting Bluetooth.
+Mar 10 08:06:45 ws1 systemd[1]: Reached target Bluetooth.
+Mar 10 08:06:45 ws1 bluetoothd[741]: bluetoothd[741]: input-headset driver probe failed for device 6C:F3:73:0E:2D:32
+Mar 10 08:06:45 ws1 bluetoothd[741]: input-headset driver probe failed for device 6C:F3:73:0E:2D:32
+Mar 10 08:06:45 ws1 colord: device removed: sysfs-samsung-GT-N7100
+Mar 10 08:06:45 ws1 bluetoothd[741]: Adapter /org/bluez/741/hci0 has been enabled
+Mar 10 08:06:45 ws1 bluetoothd[741]: bluetoothd[741]: Adapter /org/bluez/741/hci0 has been enabled
+Mar 10 08:06:46 ws1 systemd-sleep[23725]: System resumed.
+Mar 10 08:06:46 ws1 systemd[1]: Started Suspend.
+Mar 10 08:06:46 ws1 systemd[1]: Service sleep.target is not needed anymore. Stopping.
+Mar 10 08:06:46 ws1 systemd[1]: Stopping Sleep.
+Mar 10 08:06:46 ws1 systemd[1]: Stopped target Sleep.
+Mar 10 08:06:46 ws1 systemd[1]: Stopping Suspend.
+Mar 10 08:06:46 ws1 systemd[1]: Stopped target Suspend.
+Mar 10 08:06:46 ws1 upowerd[1278]: (upowerd:1278): UPower-Linux-WARNING **: energy_full (102.232800) is greater than energy_full_design (101.476800)
+Mar 10 08:06:53 ws1 dbus-daemon[785]: dbus[785]: [system] Activating service name='org.freedesktop.PackageKit' (using servicehelper)
+Mar 10 08:06:53 ws1 dbus[785]: [system] Activating service name='org.freedesktop.PackageKit' (using servicehelper)
+Mar 10 08:06:53 ws1 dbus-daemon[785]: dbus[785]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Mar 10 08:06:53 ws1 dbus[785]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Mar 10 08:08:07 ws1 NetworkManager[942]: <info> (wlan0): device state change: activated -> disconnected (reason 'user-requested') [100 30 39]
+Mar 10 08:08:07 ws1 NetworkManager[942]: <info> (wlan0): deactivating device (reason 'user-requested') [39]
+Mar 10 08:08:07 ws1 NetworkManager[942]: <info> (wlan0): canceled DHCP transaction, DHCP client pid 10028
+Mar 10 08:08:07 ws1 kernel: [37712.492153] wlan0: deauthenticating from 08:86:3b:76:d4:8a by local choice (reason=3)
+Mar 10 08:08:07 ws1 avahi-daemon[759]: Withdrawing address record for 192.168.3.81 on wlan0.
+Mar 10 08:08:07 ws1 avahi-daemon[759]: Leaving mDNS multicast group on interface wlan0.IPv4 with address 192.168.3.81.
+Mar 10 08:08:07 ws1 avahi-daemon[759]: Interface wlan0.IPv4 no longer relevant for mDNS.
+Mar 10 08:08:07 ws1 dbus[785]: [system] Activating service name='org.freedesktop.nm_dispatcher' (using servicehelper)
+Mar 10 08:08:07 ws1 dbus-daemon[785]: dbus[785]: [system] Activating service name='org.freedesktop.nm_dispatcher' (using servicehelper)
+Mar 10 08:08:08 ws1 kernel: [37712.550749] cfg80211: Calling CRDA to update world regulatory domain
+Mar 10 08:08:08 ws1 NetworkManager[942]: <info> (wlan0): supplicant interface state: completed -> disconnected
+Mar 10 08:08:08 ws1 kernel: [37712.565480] cfg80211: World regulatory domain updated:
+Mar 10 08:08:08 ws1 kernel: [37712.565485] cfg80211:   (start_freq - end_freq @ bandwidth), (max_antenna_gain, max_eirp)
+Mar 10 08:08:08 ws1 kernel: [37712.565487] cfg80211:   (2402000 KHz - 2472000 KHz @ 40000 KHz), (300 mBi, 2000 mBm)
+Mar 10 08:08:08 ws1 kernel: [37712.565490] cfg80211:   (2457000 KHz - 2482000 KHz @ 20000 KHz), (300 mBi, 2000 mBm)
+Mar 10 08:08:08 ws1 kernel: [37712.565491] cfg80211:   (2474000 KHz - 2494000 KHz @ 20000 KHz), (300 mBi, 2000 mBm)
+Mar 10 08:08:08 ws1 kernel: [37712.565493] cfg80211:   (5170000 KHz - 5250000 KHz @ 40000 KHz), (300 mBi, 2000 mBm)
+Mar 10 08:08:08 ws1 kernel: [37712.565495] cfg80211:   (5735000 KHz - 5835000 KHz @ 40000 KHz), (300 mBi, 2000 mBm)
+Mar 10 08:08:08 ws1 dbus-daemon[785]: dbus[785]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Mar 10 08:08:08 ws1 dbus[785]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Mar 10 08:08:08 ws1 systemd[1]: Stopping LSB: Starts and stops login and scanning of iSCSI devices....
+Mar 10 08:08:08 ws1 iscsi[23970]: Stopping iscsi: [  OK  ]
+Mar 10 08:08:08 ws1 systemd[1]: Stopped LSB: Starts and stops login and scanning of iSCSI devices..
+Mar 10 08:08:08 ws1 dbus-daemon[785]: Stopping iscsi (via systemctl):  [  OK  ]
+Mar 10 08:08:08 ws1 systemd[1]: Stopping Sendmail Mail Transport Client...
+Mar 10 08:08:08 ws1 systemd[1]: Stopping Sendmail Mail Transport Agent...
+Mar 10 08:08:08 ws1 systemd[1]: Starting Sendmail Mail Transport Agent...
+Mar 10 08:08:08 ws1 systemd[1]: PID file /run/sendmail.pid not readable (yet?) after start.
+Mar 10 08:08:08 ws1 systemd[1]: Started Sendmail Mail Transport Agent.
+Mar 10 08:08:08 ws1 systemd[1]: Starting Sendmail Mail Transport Client...
+Mar 10 08:08:08 ws1 chronyd[842]: Source 120.88.46.10 offline
+Mar 10 08:08:08 ws1 chronyd[842]: Source 113.30.137.34 offline
+Mar 10 08:08:08 ws1 chronyd[842]: Source 123.108.225.6 offline
+Mar 10 08:08:08 ws1 chronyd[842]: Source 125.62.193.121 offline
+Mar 10 08:08:08 ws1 systemd[1]: PID 10141 read from file /run/sm-client.pid does not exist.
+Mar 10 08:08:08 ws1 systemd[1]: Started Sendmail Mail Transport Client.
+Mar 10 08:08:10 ws1 NetworkManager[942]: <info> Activation (wlan0) starting connection 'Root Cap'
+Mar 10 08:08:10 ws1 NetworkManager[942]: <info> (wlan0): device state change: disconnected -> prepare (reason 'none') [30 40 0]
+Mar 10 08:08:10 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 1 of 5 (Device Prepare) scheduled...
+Mar 10 08:08:10 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 1 of 5 (Device Prepare) started...
+Mar 10 08:08:10 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 2 of 5 (Device Configure) scheduled...
+Mar 10 08:08:10 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 1 of 5 (Device Prepare) complete.
+Mar 10 08:08:10 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 2 of 5 (Device Configure) starting...
+Mar 10 08:08:10 ws1 NetworkManager[942]: <info> (wlan0): device state change: prepare -> config (reason 'none') [40 50 0]
+Mar 10 08:08:10 ws1 NetworkManager[942]: <info> Activation (wlan0/wireless): access point 'Root Cap' has security, but secrets are required.
+Mar 10 08:08:10 ws1 NetworkManager[942]: <info> (wlan0): device state change: config -> need-auth (reason 'none') [50 60 0]
+Mar 10 08:08:10 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 2 of 5 (Device Configure) complete.
+Mar 10 08:08:10 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 1 of 5 (Device Prepare) scheduled...
+Mar 10 08:08:10 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 1 of 5 (Device Prepare) started...
+Mar 10 08:08:10 ws1 NetworkManager[942]: <info> (wlan0): device state change: need-auth -> prepare (reason 'none') [60 40 0]
+Mar 10 08:08:10 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 2 of 5 (Device Configure) scheduled...
+Mar 10 08:08:10 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 1 of 5 (Device Prepare) complete.
+Mar 10 08:08:10 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 2 of 5 (Device Configure) starting...
+Mar 10 08:08:10 ws1 NetworkManager[942]: <info> (wlan0): device state change: prepare -> config (reason 'none') [40 50 0]
+Mar 10 08:08:10 ws1 NetworkManager[942]: <info> Activation (wlan0/wireless): connection 'Root Cap' has security, and secrets exist.  No new secrets needed.
+Mar 10 08:08:10 ws1 NetworkManager[942]: <info> Config: added 'ssid' value 'Root Cap'
+Mar 10 08:08:10 ws1 NetworkManager[942]: <info> Config: added 'scan_ssid' value '1'
+Mar 10 08:08:10 ws1 NetworkManager[942]: <info> Config: added 'key_mgmt' value 'WPA-PSK'
+Mar 10 08:08:10 ws1 NetworkManager[942]: <info> Config: added 'psk' value '<omitted>'
+Mar 10 08:08:10 ws1 NetworkManager[942]: <info> Config: added 'proto' value 'WPA RSN'
+Mar 10 08:08:10 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 2 of 5 (Device Configure) complete.
+Mar 10 08:08:10 ws1 NetworkManager[942]: <info> Config: set interface ap_scan to 1
+Mar 10 08:08:11 ws1 NetworkManager[942]: <info> (wlan0): supplicant interface state: disconnected -> scanning
+Mar 10 08:08:11 ws1 dbus-daemon[785]: dbus[785]: [system] Activating service name='org.freedesktop.PackageKit' (using servicehelper)
+Mar 10 08:08:11 ws1 dbus[785]: [system] Activating service name='org.freedesktop.PackageKit' (using servicehelper)
+Mar 10 08:08:11 ws1 dbus-daemon[785]: dbus[785]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Mar 10 08:08:11 ws1 dbus[785]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Mar 10 08:08:12 ws1 kernel: [37716.750857] wlan0: authenticate with b8:c1:a2:03:c9:80
+Mar 10 08:08:12 ws1 kernel: [37716.773382] wlan0: send auth to b8:c1:a2:03:c9:80 (try 1/3)
+Mar 10 08:08:12 ws1 kernel: [37716.778779] wlan0: authenticated
+Mar 10 08:08:12 ws1 NetworkManager[942]: <info> (wlan0): supplicant interface state: scanning -> authenticating
+Mar 10 08:08:12 ws1 NetworkManager[942]: <info> (wlan0): supplicant interface state: authenticating -> associating
+Mar 10 08:08:12 ws1 kernel: [37716.790216] wlan0: associate with b8:c1:a2:03:c9:80 (try 1/3)
+Mar 10 08:08:12 ws1 kernel: [37716.794423] wlan0: RX AssocResp from b8:c1:a2:03:c9:80 (capab=0x411 status=0 aid=4)
+Mar 10 08:08:12 ws1 kernel: [37716.794659] wlan0: associated
+Mar 10 08:08:12 ws1 NetworkManager[942]: <info> (wlan0): supplicant interface state: associating -> 4-way handshake
+Mar 10 08:08:12 ws1 NetworkManager[942]: <info> (wlan0): supplicant interface state: 4-way handshake -> completed
+Mar 10 08:08:12 ws1 NetworkManager[942]: <info> Activation (wlan0/wireless) Stage 2 of 5 (Device Configure) successful.  Connected to wireless network 'Root Cap'.
+Mar 10 08:08:12 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 3 of 5 (IP Configure Start) scheduled.
+Mar 10 08:08:12 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 3 of 5 (IP Configure Start) started...
+Mar 10 08:08:12 ws1 NetworkManager[942]: <info> (wlan0): device state change: config -> ip-config (reason 'none') [50 70 0]
+Mar 10 08:08:12 ws1 NetworkManager[942]: <info> Activation (wlan0) Beginning DHCPv4 transaction (timeout in 45 seconds)
+Mar 10 08:08:12 ws1 NetworkManager[942]: <info> dhclient started with pid 24071
+Mar 10 08:08:12 ws1 NetworkManager[942]: <info> Activation (wlan0) Beginning IP6 addrconf.
+Mar 10 08:08:12 ws1 avahi-daemon[759]: Withdrawing address record for fe80::6aa3:c4ff:fe21:15e8 on wlan0.
+Mar 10 08:08:12 ws1 dnsmasq[1788]: no servers found in /etc/resolv.conf, will retry
+Mar 10 08:08:12 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 3 of 5 (IP Configure Start) complete.
+Mar 10 08:08:12 ws1 dhclient[24071]: Internet Systems Consortium DHCP Client 4.2.4-P2
+Mar 10 08:08:12 ws1 dhclient[24071]: Copyright 2004-2012 Internet Systems Consortium.
+Mar 10 08:08:12 ws1 dhclient[24071]: All rights reserved.
+Mar 10 08:08:12 ws1 dhclient[24071]: For info, please visit https://www.isc.org/software/dhcp/
+Mar 10 08:08:12 ws1 dhclient[24071]: 
+Mar 10 08:08:12 ws1 NetworkManager[942]: <info> (wlan0): DHCPv4 state changed nbi -> preinit
+Mar 10 08:08:12 ws1 dhclient[24071]: Listening on LPF/wlan0/68:a3:c4:21:15:e8
+Mar 10 08:08:12 ws1 dhclient[24071]: Sending on   LPF/wlan0/68:a3:c4:21:15:e8
+Mar 10 08:08:12 ws1 dhclient[24071]: Sending on   Socket/fallback
+Mar 10 08:08:12 ws1 dhclient[24071]: DHCPREQUEST on wlan0 to 255.255.255.255 port 67 (xid=0x5d601068)
+Mar 10 08:08:13 ws1 avahi-daemon[759]: Registering new address record for fe80::6aa3:c4ff:fe21:15e8 on wlan0.*.
+Mar 10 08:08:18 ws1 dhclient[24071]: DHCPREQUEST on wlan0 to 255.255.255.255 port 67 (xid=0x5d601068)
+Mar 10 08:08:19 ws1 dhclient[24071]: DHCPACK from 192.168.1.1 (xid=0x5d601068)
+Mar 10 08:08:19 ws1 NetworkManager[942]: <info> (wlan0): DHCPv4 state changed preinit -> reboot
+Mar 10 08:08:19 ws1 NetworkManager[942]: <info>   address 192.168.1.5
+Mar 10 08:08:19 ws1 NetworkManager[942]: <info>   prefix 24 (255.255.255.0)
+Mar 10 08:08:19 ws1 NetworkManager[942]: <info>   gateway 192.168.1.1
+Mar 10 08:08:19 ws1 NetworkManager[942]: <info>   nameserver '192.168.1.1'
+Mar 10 08:08:19 ws1 NetworkManager[942]: <info>   nameserver '208.67.222.222'
+Mar 10 08:08:19 ws1 NetworkManager[942]: <info>   nameserver '208.67.220.220'
+Mar 10 08:08:19 ws1 NetworkManager[942]: <info>   domain name 'domain.name'
+Mar 10 08:08:19 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 5 of 5 (IPv4 Configure Commit) scheduled...
+Mar 10 08:08:19 ws1 dhclient[24071]: bound to 192.168.1.5 -- renewal in 119621 seconds.
+Mar 10 08:08:19 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 5 of 5 (IPv4 Commit) started...
+Mar 10 08:08:19 ws1 avahi-daemon[759]: Joining mDNS multicast group on interface wlan0.IPv4 with address 192.168.1.5.
+Mar 10 08:08:19 ws1 avahi-daemon[759]: New relevant interface wlan0.IPv4 for mDNS.
+Mar 10 08:08:19 ws1 avahi-daemon[759]: Registering new address record for 192.168.1.5 on wlan0.IPv4.
+Mar 10 08:08:20 ws1 NetworkManager[942]: <info> (wlan0): device state change: ip-config -> secondaries (reason 'none') [70 90 0]
+Mar 10 08:08:20 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 5 of 5 (IPv4 Commit) complete.
+Mar 10 08:08:20 ws1 NetworkManager[942]: <info> (wlan0): device state change: secondaries -> activated (reason 'none') [90 100 0]
+Mar 10 08:08:21 ws1 NetworkManager[942]: <info> Policy set 'Root Cap' (wlan0) as default for IPv4 routing and DNS.
+Mar 10 08:08:21 ws1 NetworkManager[942]: <info> Activation (wlan0) successful, device activated.
+Mar 10 08:08:21 ws1 dbus[785]: [system] Activating service name='org.freedesktop.nm_dispatcher' (using servicehelper)
+Mar 10 08:08:21 ws1 dbus-daemon[785]: dbus[785]: [system] Activating service name='org.freedesktop.nm_dispatcher' (using servicehelper)
+Mar 10 08:08:21 ws1 dbus-daemon[785]: dbus[785]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Mar 10 08:08:21 ws1 dbus[785]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Mar 10 08:08:21 ws1 systemd[1]: Starting LSB: Starts and stops login and scanning of iSCSI devices....
+Mar 10 08:08:21 ws1 iscsi[24105]: Starting iscsi: iscsiadm: No records found
+Mar 10 08:08:21 ws1 iscsi[24105]: [  OK  ]
+Mar 10 08:08:21 ws1 systemd[1]: Started LSB: Starts and stops login and scanning of iSCSI devices..
+Mar 10 08:08:21 ws1 dbus-daemon[785]: Starting iscsi (via systemctl):  [  OK  ]
+Mar 10 08:08:21 ws1 systemd[1]: Stopping Sendmail Mail Transport Client...
+Mar 10 08:08:21 ws1 systemd[1]: Stopping Sendmail Mail Transport Agent...
+Mar 10 08:08:21 ws1 systemd[1]: Starting Sendmail Mail Transport Agent...
+Mar 10 08:08:21 ws1 systemd[1]: PID file /run/sendmail.pid not readable (yet?) after start.
+Mar 10 08:08:21 ws1 systemd[1]: Started Sendmail Mail Transport Agent.
+Mar 10 08:08:21 ws1 systemd[1]: Starting Sendmail Mail Transport Client...
+Mar 10 08:08:21 ws1 dbus-daemon[785]: disabled
+Mar 10 08:08:21 ws1 chronyd[842]: Source 120.88.46.10 online
+Mar 10 08:08:21 ws1 chronyd[842]: Source 113.30.137.34 online
+Mar 10 08:08:22 ws1 chronyd[842]: Source 123.108.225.6 online
+Mar 10 08:08:22 ws1 chronyd[842]: Source 125.62.193.121 online
+Mar 10 08:08:22 ws1 systemd[1]: PID 24026 read from file /run/sm-client.pid does not exist.
+Mar 10 08:08:22 ws1 systemd[1]: Started Sendmail Mail Transport Client.
+Mar 10 08:08:22 ws1 chronyd[842]: Can't synchronise: no majority
+Mar 10 08:08:22 ws1 chronyd[842]: Selected source 120.88.46.10
+Mar 10 08:08:22 ws1 chronyd[842]: System clock wrong by 2.160596 seconds, adjustment started
+Mar 10 08:08:25 ws1 dnsmasq[1788]: reading /etc/resolv.conf
+Mar 10 08:08:25 ws1 dnsmasq[1788]: using nameserver 208.67.220.220#53
+Mar 10 08:08:25 ws1 dnsmasq[1788]: using nameserver 208.67.222.222#53
+Mar 10 08:08:25 ws1 dnsmasq[1788]: using nameserver 192.168.1.1#53
+Mar 10 08:08:25 ws1 dnsmasq[1788]: using local addresses only for unqualified names
+Mar 10 08:08:32 ws1 NetworkManager[942]: <info> (wlan0): IP6 addrconf timed out or failed.
+Mar 10 08:08:32 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 4 of 5 (IPv6 Configure Timeout) scheduled...
+Mar 10 08:08:32 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 4 of 5 (IPv6 Configure Timeout) started...
+Mar 10 08:08:32 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 4 of 5 (IPv6 Configure Timeout) complete.
+Mar 10 08:09:18 ws1 NetworkManager[942]: <warn> nl_recvmsgs() error: (-33) Dump inconsistency detected, interrupted
+Mar 10 08:15:27 ws1 NetworkManager[942]: <warn> nl_recvmsgs() error: (-33) Dump inconsistency detected, interrupted
+Mar 10 08:19:42 ws1 mate-keyring-daemon[24518]: couldn't set environment variable in session: The name org.mate.SessionManager was not provided by any .service files
+Mar 10 08:31:26 ws1 systemd-logind[780]: Lid closed.
+Mar 10 08:31:26 ws1 systemd-logind[780]: Suspending...
+Mar 10 08:31:26 ws1 systemd[1]: Starting Sleep.
+Mar 10 08:31:26 ws1 systemd[1]: Reached target Sleep.
+Mar 10 08:31:26 ws1 systemd[1]: Starting Suspend...
+Mar 10 08:31:26 ws1 systemd-sleep[24844]: /usr/lib/systemd/system-sleep/notify-upower.sh exited with exit status 1.
+Mar 10 08:31:26 ws1 systemd-sleep[24844]: Suspending system...
+Mar 10 08:31:27 ws1 kernel: [39106.722712] PM: Syncing filesystems ... done.
+Mar 10 08:59:26 ws1 kernel: [39108.920526] Freezing user space processes ... (elapsed 0.01 seconds) done.
+Mar 10 08:59:26 ws1 kernel: [39108.940149] Freezing remaining freezable tasks ... (elapsed 0.01 seconds) done.
+Mar 10 08:59:26 ws1 kernel: [39108.953411] Suspending console(s) (use no_console_suspend to debug)
+Mar 10 08:59:26 ws1 kernel: [39109.147357] sd 0:0:0:0: [sda] Synchronizing SCSI cache
+Mar 10 08:59:26 ws1 kernel: [39109.189767] sd 0:0:0:0: [sda] Stopping disk
+Mar 10 08:59:26 ws1 kernel: [39109.417176] i915 0000:00:02.0: power state changed by ACPI to D3hot
+Mar 10 08:59:26 ws1 kernel: [39109.604157] e1000e 0000:00:19.0: wake-up capability enabled by ACPI
+Mar 10 08:59:26 ws1 kernel: [39109.614912] PM: suspend of devices complete after 659.693 msecs
+Mar 10 08:59:26 ws1 kernel: [39109.617161] PM: late suspend of devices complete after 2.245 msecs
+Mar 10 08:59:26 ws1 kernel: [39109.630467] ehci_hcd 0000:00:1d.0: wake-up capability enabled by ACPI
+Mar 10 08:59:26 ws1 kernel: [39109.641528] ehci_hcd 0000:00:1d.0: power state changed by ACPI to D3hot
+Mar 10 08:59:26 ws1 kernel: [39109.642958] ehci_hcd 0000:00:1a.0: wake-up capability enabled by ACPI
+Mar 10 08:59:26 ws1 kernel: [39109.653493] ehci_hcd 0000:00:1a.0: power state changed by ACPI to D3hot
+Mar 10 08:59:26 ws1 kernel: [39109.664873] PM: noirq suspend of devices complete after 47.778 msecs
+Mar 10 08:59:26 ws1 kernel: [39109.665612] ACPI: Preparing to enter system sleep state S3
+Mar 10 08:59:26 ws1 kernel: [39109.746377] PM: Saving platform NVS memory
+Mar 10 08:59:26 ws1 kernel: [39109.784414] Disabling non-boot CPUs ...
+Mar 10 08:59:26 ws1 kernel: [39109.788967] smpboot: CPU 1 is now offline
+Mar 10 08:59:26 ws1 kernel: [39109.791593] CPU 1 offline: Remove Rx thread
+Mar 10 08:59:26 ws1 kernel: [39109.801209] smpboot: CPU 2 is now offline
+Mar 10 08:59:26 ws1 kernel: [39109.804427] CPU 2 offline: Remove Rx thread
+Mar 10 08:59:26 ws1 kernel: [39109.811353] Broke affinity for irq 17
+Mar 10 08:59:26 ws1 kernel: [39109.811390] Broke affinity for irq 23
+Mar 10 08:59:26 ws1 kernel: [39109.811401] Broke affinity for irq 40
+Mar 10 08:59:26 ws1 kernel: [39109.814549] smpboot: CPU 3 is now offline
+Mar 10 08:59:26 ws1 kernel: [39109.814553] SMP alternatives: lockdep: fixing up alternatives
+Mar 10 08:59:26 ws1 kernel: [39109.818325] CPU 3 offline: Remove Rx thread
+Mar 10 08:59:26 ws1 kernel: [39109.819680] Extended CMOS year: 2000
+Mar 10 08:59:26 ws1 kernel: [39109.821208] ACPI: Low-level resume complete
+Mar 10 08:59:26 ws1 kernel: [39109.821400] PM: Restoring platform NVS memory
+Mar 10 08:59:26 ws1 kernel: [39109.822280] Extended CMOS year: 2000
+Mar 10 08:59:26 ws1 kernel: [39109.822951] microcode: CPU0 updated to revision 0x28, date = 2012-04-24
+Mar 10 08:59:26 ws1 kernel: [39109.823003] Enabling non-boot CPUs ...
+Mar 10 08:59:26 ws1 kernel: [39109.823389] SMP alternatives: lockdep: fixing up alternatives
+Mar 10 08:59:26 ws1 kernel: [39109.823392] smpboot: Booting Node 0 Processor 1 APIC 0x1
+Mar 10 08:59:26 ws1 kernel: [39109.834415] Disabled fast string operations
+Mar 10 08:59:26 ws1 kernel: [39109.864381] microcode: CPU1 updated to revision 0x28, date = 2012-04-24
+Mar 10 08:59:26 ws1 kernel: [39109.864547] bnx2i: CPU 1 online: Create Rx thread
+Mar 10 08:59:26 ws1 kernel: [39109.864861] CPU1 is up
+Mar 10 08:59:26 ws1 kernel: [39109.865740] SMP alternatives: lockdep: fixing up alternatives
+Mar 10 08:59:26 ws1 kernel: [39109.865748] smpboot: Booting Node 0 Processor 2 APIC 0x2
+Mar 10 08:59:26 ws1 kernel: [39109.877140] Disabled fast string operations
+Mar 10 08:59:26 ws1 kernel: [39109.913151] microcode: CPU2 updated to revision 0x28, date = 2012-04-24
+Mar 10 08:59:26 ws1 kernel: [39109.913319] bnx2i: CPU 2 online: Create Rx thread
+Mar 10 08:59:26 ws1 kernel: [39109.913620] CPU2 is up
+Mar 10 08:59:26 ws1 kernel: [39109.914501] SMP alternatives: lockdep: fixing up alternatives
+Mar 10 08:59:26 ws1 kernel: [39109.914509] smpboot: Booting Node 0 Processor 3 APIC 0x3
+Mar 10 08:59:26 ws1 kernel: [39109.925899] Disabled fast string operations
+Mar 10 08:59:26 ws1 kernel: [39109.969031] microcode: CPU3 updated to revision 0x28, date = 2012-04-24
+Mar 10 08:59:26 ws1 kernel: [39109.969273] bnx2i: CPU 3 online: Create Rx thread
+Mar 10 08:59:26 ws1 kernel: [39109.969522] CPU3 is up
+Mar 10 08:59:26 ws1 kernel: [39109.976005] ACPI: Waking up from system sleep state S3
+Mar 10 08:59:26 ws1 kernel: [39110.140637] i915 0000:00:02.0: power state changed by ACPI to D0
+Mar 10 08:59:26 ws1 kernel: [39110.173464] ehci_hcd 0000:00:1a.0: power state changed by ACPI to D0
+Mar 10 08:59:26 ws1 kernel: [39110.184747] ehci_hcd 0000:00:1a.0: wake-up capability disabled by ACPI
+Mar 10 08:59:26 ws1 kernel: [39110.196379] ehci_hcd 0000:00:1d.0: power state changed by ACPI to D0
+Mar 10 08:59:26 ws1 kernel: [39110.207723] ehci_hcd 0000:00:1d.0: wake-up capability disabled by ACPI
+Mar 10 08:59:26 ws1 kernel: [39110.252530] PM: noirq resume of devices complete after 113.548 msecs
+Mar 10 08:59:26 ws1 kernel: [39110.254130] PM: early resume of devices complete after 1.351 msecs
+Mar 10 08:59:26 ws1 kernel: [39110.255986] e1000e 0000:00:19.0: wake-up capability disabled by ACPI
+Mar 10 08:59:26 ws1 kernel: [39110.258855] rtlwifi: wireless switch is on
+Mar 10 08:59:26 ws1 kernel: [39110.326308] [drm] Enabling RC6 states: RC6 on, RC6p off, RC6pp off
+Mar 10 08:59:26 ws1 kernel: [39110.358138] tpm_tis 00:0a: TPM is disabled/deactivated (0x6)
+Mar 10 08:59:26 ws1 kernel: [39110.494553] usb 1-1.3: reset full-speed USB device number 4 using ehci_hcd
+Mar 10 08:59:26 ws1 kernel: [39110.584660] ata2: SATA link up 1.5 Gbps (SStatus 113 SControl 300)
+Mar 10 08:59:26 ws1 kernel: [39110.588657] ata4: SATA link down (SStatus 0 SControl 300)
+Mar 10 08:59:26 ws1 kernel: [39110.626156] ata5: SATA link down (SStatus 0 SControl 300)
+Mar 10 08:59:26 ws1 kernel: [39110.630853] ata2.00: ACPI cmd ef/10:03:00:00:00:a0 (SET FEATURES) filtered out
+Mar 10 08:59:26 ws1 kernel: [39110.643104] usb 1-1.4: reset full-speed USB device number 5 using ehci_hcd
+Mar 10 08:59:26 ws1 kernel: [39110.687572] ata2.00: ACPI cmd ef/10:03:00:00:00:a0 (SET FEATURES) filtered out
+Mar 10 08:59:26 ws1 kernel: [39110.693542] ata2.00: configured for UDMA/100
+Mar 10 08:59:26 ws1 kernel: [39110.732393] btusb 1-1.4:1.0: no reset_resume for driver btusb?
+Mar 10 08:59:26 ws1 kernel: [39110.732398] btusb 1-1.4:1.1: no reset_resume for driver btusb?
+Mar 10 08:59:26 ws1 kernel: [39110.802881] usb 1-1.6: reset high-speed USB device number 6 using ehci_hcd
+Mar 10 08:59:26 ws1 kernel: [39110.813430] firewire_core 0000:0d:00.3: rediscovered device fw0
+Mar 10 08:59:26 ws1 kernel: [39110.957878] usb 2-1.5: reset full-speed USB device number 3 using ehci_hcd
+Mar 10 08:59:26 ws1 kernel: [39112.622729] ata1: SATA link up 3.0 Gbps (SStatus 123 SControl 300)
+Mar 10 08:59:26 ws1 kernel: [39112.871339] ata1.00: ACPI cmd f5/00:00:00:00:00:a0 (SECURITY FREEZE LOCK) filtered out
+Mar 10 08:59:26 ws1 kernel: [39112.871344] ata1.00: ACPI cmd ef/10:03:00:00:00:a0 (SET FEATURES) filtered out
+Mar 10 08:59:26 ws1 kernel: [39112.889029] ata1.00: ACPI cmd f5/00:00:00:00:00:a0 (SECURITY FREEZE LOCK) filtered out
+Mar 10 08:59:26 ws1 kernel: [39112.889033] ata1.00: ACPI cmd ef/10:03:00:00:00:a0 (SET FEATURES) filtered out
+Mar 10 08:59:26 ws1 kernel: [39112.890878] ata1.00: configured for UDMA/100
+Mar 10 08:59:26 ws1 kernel: [39112.891194] sd 0:0:0:0: [sda] Starting disk
+Mar 10 08:59:26 ws1 kernel: [39112.892420] Extended CMOS year: 2000
+Mar 10 08:59:26 ws1 kernel: [39113.612633] PM: resume of devices complete after 3363.584 msecs
+Mar 10 08:59:26 ws1 kernel: [39113.628502] Restarting tasks ... done.
+Mar 10 08:59:26 ws1 systemd-logind[780]: Lid opened.
+Mar 10 08:59:26 ws1 bluetoothd[741]: bluetoothd[741]: Adapter /org/bluez/741/hci0 has been disabled
+Mar 10 08:59:26 ws1 bluetoothd[741]: bluetoothd[741]: Unregister path: /org/bluez/741/hci0
+Mar 10 08:59:26 ws1 bluetoothd[741]: Adapter /org/bluez/741/hci0 has been disabled
+Mar 10 08:59:26 ws1 bluetoothd[741]: Unregister path: /org/bluez/741/hci0
+Mar 10 08:59:26 ws1 dbus-daemon[785]: dbus[785]: [system] Rejected send message, 3 matched rules; type="error", sender=":1.100" (uid=1000 pid=2582 comm="bluetooth-applet ") interface="(unset)" member="(unset)" error name="org.freedesktop.DBus.Error.UnknownMethod" requested_reply="0" destination=":1.0" (uid=0 pid=741 comm="/usr/sbin/bluetoothd -n ")
+Mar 10 08:59:26 ws1 dbus[785]: [system] Rejected send message, 3 matched rules; type="error", sender=":1.100" (uid=1000 pid=2582 comm="bluetooth-applet ") interface="(unset)" member="(unset)" error name="org.freedesktop.DBus.Error.UnknownMethod" requested_reply="0" destination=":1.0" (uid=0 pid=741 comm="/usr/sbin/bluetoothd -n ")
+Mar 10 08:59:26 ws1 kernel: [39113.691816] video LNXVIDEO:00: Restoring backlight state
+Mar 10 08:59:26 ws1 bluetoothd[741]: Parsing /etc/bluetooth/serial.conf failed: No such file or directory
+Mar 10 08:59:26 ws1 bluetoothd[741]: bluetoothd[741]: Parsing /etc/bluetooth/serial.conf failed: No such file or directory
+Mar 10 08:59:26 ws1 systemd[1]: Service bluetooth.target is not needed anymore. Stopping.
+Mar 10 08:59:26 ws1 systemd[1]: Stopping Bluetooth.
+Mar 10 08:59:26 ws1 systemd[1]: Stopped target Bluetooth.
+Mar 10 08:59:26 ws1 systemd[1]: Starting Bluetooth.
+Mar 10 08:59:26 ws1 systemd[1]: Reached target Bluetooth.
+Mar 10 08:59:26 ws1 bluetoothd[741]: bluetoothd[741]: input-headset driver probe failed for device 6C:F3:73:0E:2D:32
+Mar 10 08:59:26 ws1 bluetoothd[741]: input-headset driver probe failed for device 6C:F3:73:0E:2D:32
+Mar 10 08:59:26 ws1 bluetoothd[741]: bluetoothd[741]: Adapter /org/bluez/741/hci0 has been enabled
+Mar 10 08:59:26 ws1 bluetoothd[741]: Adapter /org/bluez/741/hci0 has been enabled
+Mar 10 08:59:27 ws1 systemd-sleep[24844]: System resumed.
+Mar 10 08:59:27 ws1 systemd[1]: Started Suspend.
+Mar 10 08:59:27 ws1 systemd[1]: Service sleep.target is not needed anymore. Stopping.
+Mar 10 08:59:27 ws1 systemd[1]: Stopping Sleep.
+Mar 10 08:59:27 ws1 systemd[1]: Stopped target Sleep.
+Mar 10 08:59:27 ws1 systemd[1]: Starting Suspend.
+Mar 10 08:59:27 ws1 systemd[1]: Reached target Suspend.
+Mar 10 08:59:27 ws1 upowerd[1278]: (upowerd:1278): UPower-Linux-WARNING **: energy_full (94.660000) is greater than energy_full_design (93.960000)
+Mar 10 08:59:45 ws1 kernel: [39132.679606] usb 2-1.2: new high-speed USB device number 7 using ehci_hcd
+Mar 10 08:59:45 ws1 kernel: [39132.769535] usb 2-1.2: New USB device found, idVendor=04e8, idProduct=6860
+Mar 10 08:59:45 ws1 kernel: [39132.769546] usb 2-1.2: New USB device strings: Mfr=2, Product=3, SerialNumber=4
+Mar 10 08:59:45 ws1 kernel: [39132.769552] usb 2-1.2: Product: GT-N7100
+Mar 10 08:59:45 ws1 kernel: [39132.769558] usb 2-1.2: Manufacturer: samsung
+Mar 10 08:59:45 ws1 kernel: [39132.769562] usb 2-1.2: SerialNumber: 4df7d2885481cf99
+Mar 10 08:59:46 ws1 colord: Device added: sysfs-samsung-GT-N7100
+Mar 10 09:03:42 ws1 NetworkManager[942]: <info> (wlan0): disconnecting for new activation request.
+Mar 10 09:03:42 ws1 NetworkManager[942]: <info> (wlan0): device state change: activated -> disconnected (reason 'none') [100 30 0]
+Mar 10 09:03:42 ws1 NetworkManager[942]: <info> (wlan0): deactivating device (reason 'none') [0]
+Mar 10 09:03:42 ws1 NetworkManager[942]: <info> (wlan0): canceled DHCP transaction, DHCP client pid 24071
+Mar 10 09:03:42 ws1 kernel: [39369.154930] wlan0: deauthenticating from b8:c1:a2:03:c9:80 by local choice (reason=3)
+Mar 10 09:03:42 ws1 kernel: [39369.221422] cfg80211: Calling CRDA to update world regulatory domain
+Mar 10 09:03:42 ws1 avahi-daemon[759]: Withdrawing address record for 192.168.1.5 on wlan0.
+Mar 10 09:03:42 ws1 avahi-daemon[759]: Leaving mDNS multicast group on interface wlan0.IPv4 with address 192.168.1.5.
+Mar 10 09:03:42 ws1 avahi-daemon[759]: Interface wlan0.IPv4 no longer relevant for mDNS.
+Mar 10 09:03:42 ws1 kernel: [39369.240562] cfg80211: World regulatory domain updated:
+Mar 10 09:03:42 ws1 kernel: [39369.240567] cfg80211:   (start_freq - end_freq @ bandwidth), (max_antenna_gain, max_eirp)
+Mar 10 09:03:42 ws1 kernel: [39369.240569] cfg80211:   (2402000 KHz - 2472000 KHz @ 40000 KHz), (300 mBi, 2000 mBm)
+Mar 10 09:03:42 ws1 kernel: [39369.240572] cfg80211:   (2457000 KHz - 2482000 KHz @ 20000 KHz), (300 mBi, 2000 mBm)
+Mar 10 09:03:42 ws1 kernel: [39369.240574] cfg80211:   (2474000 KHz - 2494000 KHz @ 20000 KHz), (300 mBi, 2000 mBm)
+Mar 10 09:03:42 ws1 kernel: [39369.240576] cfg80211:   (5170000 KHz - 5250000 KHz @ 40000 KHz), (300 mBi, 2000 mBm)
+Mar 10 09:03:42 ws1 kernel: [39369.240578] cfg80211:   (5735000 KHz - 5835000 KHz @ 40000 KHz), (300 mBi, 2000 mBm)
+Mar 10 09:03:42 ws1 dbus[785]: [system] Activating service name='org.freedesktop.nm_dispatcher' (using servicehelper)
+Mar 10 09:03:42 ws1 NetworkManager[942]: <info> Activation (wlan0) starting connection 'Root Cap'
+Mar 10 09:03:42 ws1 NetworkManager[942]: <info> (wlan0): device state change: disconnected -> prepare (reason 'none') [30 40 0]
+Mar 10 09:03:42 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 1 of 5 (Device Prepare) scheduled...
+Mar 10 09:03:42 ws1 NetworkManager[942]: <info> (wlan0): supplicant interface state: completed -> disconnected
+Mar 10 09:03:42 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 1 of 5 (Device Prepare) started...
+Mar 10 09:03:42 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 2 of 5 (Device Configure) scheduled...
+Mar 10 09:03:42 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 1 of 5 (Device Prepare) complete.
+Mar 10 09:03:42 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 2 of 5 (Device Configure) starting...
+Mar 10 09:03:42 ws1 NetworkManager[942]: <info> (wlan0): device state change: prepare -> config (reason 'none') [40 50 0]
+Mar 10 09:03:42 ws1 NetworkManager[942]: <info> Activation (wlan0/wireless): access point 'Root Cap' has security, but secrets are required.
+Mar 10 09:03:42 ws1 NetworkManager[942]: <info> (wlan0): device state change: config -> need-auth (reason 'none') [50 60 0]
+Mar 10 09:03:42 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 2 of 5 (Device Configure) complete.
+Mar 10 09:03:42 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 1 of 5 (Device Prepare) scheduled...
+Mar 10 09:03:42 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 1 of 5 (Device Prepare) started...
+Mar 10 09:03:42 ws1 NetworkManager[942]: <info> (wlan0): device state change: need-auth -> prepare (reason 'none') [60 40 0]
+Mar 10 09:03:42 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 2 of 5 (Device Configure) scheduled...
+Mar 10 09:03:42 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 1 of 5 (Device Prepare) complete.
+Mar 10 09:03:42 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 2 of 5 (Device Configure) starting...
+Mar 10 09:03:42 ws1 NetworkManager[942]: <info> (wlan0): device state change: prepare -> config (reason 'none') [40 50 0]
+Mar 10 09:03:42 ws1 dbus[785]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Mar 10 09:03:42 ws1 NetworkManager[942]: <info> Activation (wlan0/wireless): connection 'Root Cap' has security, and secrets exist.  No new secrets needed.
+Mar 10 09:03:42 ws1 NetworkManager[942]: <info> Config: added 'ssid' value 'Root Cap'
+Mar 10 09:03:42 ws1 NetworkManager[942]: <info> Config: added 'scan_ssid' value '1'
+Mar 10 09:03:42 ws1 NetworkManager[942]: <info> Config: added 'key_mgmt' value 'WPA-PSK'
+Mar 10 09:03:42 ws1 NetworkManager[942]: <info> Config: added 'psk' value '<omitted>'
+Mar 10 09:03:42 ws1 NetworkManager[942]: <info> Config: added 'proto' value 'WPA RSN'
+Mar 10 09:03:42 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 2 of 5 (Device Configure) complete.
+Mar 10 09:03:42 ws1 NetworkManager[942]: <info> Config: set interface ap_scan to 1
+Mar 10 09:03:42 ws1 dbus-daemon[785]: dbus[785]: [system] Activating service name='org.freedesktop.nm_dispatcher' (using servicehelper)
+Mar 10 09:03:42 ws1 dbus-daemon[785]: dbus[785]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Mar 10 09:03:42 ws1 systemd[1]: Stopping LSB: Starts and stops login and scanning of iSCSI devices....
+Mar 10 09:03:43 ws1 iscsi[25165]: Stopping iscsi: [  OK  ]
+Mar 10 09:03:43 ws1 systemd[1]: Stopped LSB: Starts and stops login and scanning of iSCSI devices..
+Mar 10 09:03:43 ws1 dbus-daemon[785]: Stopping iscsi (via systemctl):  [  OK  ]
+Mar 10 09:03:43 ws1 systemd[1]: Stopping Sendmail Mail Transport Client...
+Mar 10 09:03:43 ws1 systemd[1]: Stopping Sendmail Mail Transport Agent...
+Mar 10 09:03:43 ws1 systemd[1]: Starting Sendmail Mail Transport Agent...
+Mar 10 09:03:43 ws1 systemd[1]: PID file /run/sendmail.pid not readable (yet?) after start.
+Mar 10 09:03:43 ws1 systemd[1]: Started Sendmail Mail Transport Agent.
+Mar 10 09:03:43 ws1 systemd[1]: Starting Sendmail Mail Transport Client...
+Mar 10 09:03:43 ws1 chronyd[842]: Source 113.30.137.34 offline
+Mar 10 09:03:43 ws1 chronyd[842]: Source 123.108.225.6 offline
+Mar 10 09:03:43 ws1 chronyd[842]: Source 125.62.193.121 offline
+Mar 10 09:03:43 ws1 chronyd[842]: Source 120.88.46.10 offline
+Mar 10 09:03:43 ws1 systemd[1]: Started Sendmail Mail Transport Client.
+Mar 10 09:03:44 ws1 NetworkManager[942]: <info> (wlan0): supplicant interface state: disconnected -> scanning
+Mar 10 09:04:08 ws1 NetworkManager[942]: <warn> Activation (wlan0/wireless): association took too long, failing activation.
+Mar 10 09:04:08 ws1 NetworkManager[942]: <info> (wlan0): device state change: config -> failed (reason 'SSID not found') [50 120 53]
+Mar 10 09:04:08 ws1 NetworkManager[942]: <warn> Activation (wlan0) failed for connection 'Root Cap'
+Mar 10 09:04:08 ws1 NetworkManager[942]: <info> (wlan0): device state change: failed -> disconnected (reason 'none') [120 30 0]
+Mar 10 09:04:08 ws1 NetworkManager[942]: <info> (wlan0): deactivating device (reason 'none') [0]
+Mar 10 09:04:08 ws1 NetworkManager[942]: <warn> Couldn't disconnect supplicant interface: This interface is not connected.
+Mar 10 09:04:08 ws1 NetworkManager[942]: <warn> Couldn't disconnect supplicant interface: This interface is not connected.
+Mar 10 09:04:08 ws1 NetworkManager[942]: <warn> (wlan0) firewall zone remove failed: (32) UNKNOWN_INTERFACE: wlan0
+Mar 10 09:04:09 ws1 NetworkManager[942]: <info> (wlan0): supplicant interface state: scanning -> inactive
+Mar 10 09:04:11 ws1 NetworkManager[942]: <info> Auto-activating connection 'Root Cap'.
+Mar 10 09:04:11 ws1 NetworkManager[942]: <info> Activation (wlan0) starting connection 'Root Cap'
+Mar 10 09:04:11 ws1 NetworkManager[942]: <info> (wlan0): device state change: disconnected -> prepare (reason 'none') [30 40 0]
+Mar 10 09:04:11 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 1 of 5 (Device Prepare) scheduled...
+Mar 10 09:04:11 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 1 of 5 (Device Prepare) started...
+Mar 10 09:04:11 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 2 of 5 (Device Configure) scheduled...
+Mar 10 09:04:11 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 1 of 5 (Device Prepare) complete.
+Mar 10 09:04:11 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 2 of 5 (Device Configure) starting...
+Mar 10 09:04:11 ws1 NetworkManager[942]: <info> (wlan0): device state change: prepare -> config (reason 'none') [40 50 0]
+Mar 10 09:04:11 ws1 NetworkManager[942]: <info> Activation (wlan0/wireless): access point 'Root Cap' has security, but secrets are required.
+Mar 10 09:04:11 ws1 NetworkManager[942]: <info> (wlan0): device state change: config -> need-auth (reason 'none') [50 60 0]
+Mar 10 09:04:11 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 2 of 5 (Device Configure) complete.
+Mar 10 09:04:11 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 1 of 5 (Device Prepare) scheduled...
+Mar 10 09:04:11 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 1 of 5 (Device Prepare) started...
+Mar 10 09:04:11 ws1 NetworkManager[942]: <info> (wlan0): device state change: need-auth -> prepare (reason 'none') [60 40 0]
+Mar 10 09:04:11 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 2 of 5 (Device Configure) scheduled...
+Mar 10 09:04:11 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 1 of 5 (Device Prepare) complete.
+Mar 10 09:04:11 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 2 of 5 (Device Configure) starting...
+Mar 10 09:04:11 ws1 NetworkManager[942]: <info> (wlan0): device state change: prepare -> config (reason 'none') [40 50 0]
+Mar 10 09:04:11 ws1 NetworkManager[942]: <info> Activation (wlan0/wireless): connection 'Root Cap' has security, and secrets exist.  No new secrets needed.
+Mar 10 09:04:11 ws1 NetworkManager[942]: <info> Config: added 'ssid' value 'Root Cap'
+Mar 10 09:04:11 ws1 NetworkManager[942]: <info> Config: added 'scan_ssid' value '1'
+Mar 10 09:04:11 ws1 NetworkManager[942]: <info> Config: added 'key_mgmt' value 'WPA-PSK'
+Mar 10 09:04:11 ws1 NetworkManager[942]: <info> Config: added 'psk' value '<omitted>'
+Mar 10 09:04:11 ws1 NetworkManager[942]: <info> Config: added 'proto' value 'WPA RSN'
+Mar 10 09:04:11 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 2 of 5 (Device Configure) complete.
+Mar 10 09:04:11 ws1 NetworkManager[942]: <info> Config: set interface ap_scan to 1
+Mar 10 09:04:11 ws1 NetworkManager[942]: <info> (wlan0): supplicant interface state: inactive -> scanning
+Mar 10 09:04:36 ws1 NetworkManager[942]: <warn> Activation (wlan0/wireless): association took too long, failing activation.
+Mar 10 09:04:36 ws1 NetworkManager[942]: <info> (wlan0): device state change: config -> failed (reason 'SSID not found') [50 120 53]
+Mar 10 09:04:36 ws1 NetworkManager[942]: <warn> Activation (wlan0) failed for connection 'Root Cap'
+Mar 10 09:04:36 ws1 NetworkManager[942]: <info> (wlan0): device state change: failed -> disconnected (reason 'none') [120 30 0]
+Mar 10 09:04:36 ws1 NetworkManager[942]: <info> (wlan0): deactivating device (reason 'none') [0]
+Mar 10 09:04:36 ws1 NetworkManager[942]: <warn> Couldn't disconnect supplicant interface: This interface is not connected.
+Mar 10 09:04:36 ws1 NetworkManager[942]: <warn> Couldn't disconnect supplicant interface: This interface is not connected.
+Mar 10 09:04:36 ws1 NetworkManager[942]: <warn> (wlan0) firewall zone remove failed: (32) UNKNOWN_INTERFACE: wlan0
+Mar 10 09:04:36 ws1 NetworkManager[942]: <info> (wlan0): supplicant interface state: scanning -> inactive
+Mar 10 09:04:39 ws1 NetworkManager[942]: <info> Auto-activating connection 'Root Cap'.
+Mar 10 09:04:39 ws1 NetworkManager[942]: <info> Activation (wlan0) starting connection 'Root Cap'
+Mar 10 09:04:39 ws1 NetworkManager[942]: <info> (wlan0): device state change: disconnected -> prepare (reason 'none') [30 40 0]
+Mar 10 09:04:39 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 1 of 5 (Device Prepare) scheduled...
+Mar 10 09:04:39 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 1 of 5 (Device Prepare) started...
+Mar 10 09:04:39 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 2 of 5 (Device Configure) scheduled...
+Mar 10 09:04:39 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 1 of 5 (Device Prepare) complete.
+Mar 10 09:04:39 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 2 of 5 (Device Configure) starting...
+Mar 10 09:04:39 ws1 NetworkManager[942]: <info> (wlan0): device state change: prepare -> config (reason 'none') [40 50 0]
+Mar 10 09:04:39 ws1 NetworkManager[942]: <info> Activation (wlan0/wireless): access point 'Root Cap' has security, but secrets are required.
+Mar 10 09:04:39 ws1 NetworkManager[942]: <info> (wlan0): device state change: config -> need-auth (reason 'none') [50 60 0]
+Mar 10 09:04:39 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 2 of 5 (Device Configure) complete.
+Mar 10 09:04:39 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 1 of 5 (Device Prepare) scheduled...
+Mar 10 09:04:39 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 1 of 5 (Device Prepare) started...
+Mar 10 09:04:39 ws1 NetworkManager[942]: <info> (wlan0): device state change: need-auth -> prepare (reason 'none') [60 40 0]
+Mar 10 09:04:39 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 2 of 5 (Device Configure) scheduled...
+Mar 10 09:04:39 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 1 of 5 (Device Prepare) complete.
+Mar 10 09:04:39 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 2 of 5 (Device Configure) starting...
+Mar 10 09:04:39 ws1 NetworkManager[942]: <info> (wlan0): device state change: prepare -> config (reason 'none') [40 50 0]
+Mar 10 09:04:39 ws1 NetworkManager[942]: <info> Activation (wlan0/wireless): connection 'Root Cap' has security, and secrets exist.  No new secrets needed.
+Mar 10 09:04:39 ws1 NetworkManager[942]: <info> Config: added 'ssid' value 'Root Cap'
+Mar 10 09:04:39 ws1 NetworkManager[942]: <info> Config: added 'scan_ssid' value '1'
+Mar 10 09:04:39 ws1 NetworkManager[942]: <info> Config: added 'key_mgmt' value 'WPA-PSK'
+Mar 10 09:04:39 ws1 NetworkManager[942]: <info> Config: added 'psk' value '<omitted>'
+Mar 10 09:04:39 ws1 NetworkManager[942]: <info> Config: added 'proto' value 'WPA RSN'
+Mar 10 09:04:39 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 2 of 5 (Device Configure) complete.
+Mar 10 09:04:39 ws1 NetworkManager[942]: <info> Config: set interface ap_scan to 1
+Mar 10 09:04:39 ws1 NetworkManager[942]: <info> (wlan0): supplicant interface state: inactive -> scanning
+Mar 10 09:04:51 ws1 NetworkManager[942]: <info> (wlan0): disconnecting for new activation request.
+Mar 10 09:04:51 ws1 NetworkManager[942]: <info> (wlan0): device state change: config -> disconnected (reason 'none') [50 30 0]
+Mar 10 09:04:51 ws1 NetworkManager[942]: <info> (wlan0): deactivating device (reason 'none') [0]
+Mar 10 09:04:51 ws1 NetworkManager[942]: <info> Activation (wlan0) starting connection 'SpringPeople2'
+Mar 10 09:04:51 ws1 NetworkManager[942]: <info> (wlan0): device state change: disconnected -> prepare (reason 'none') [30 40 0]
+Mar 10 09:04:51 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 1 of 5 (Device Prepare) scheduled...
+Mar 10 09:04:51 ws1 NetworkManager[942]: <warn> Couldn't disconnect supplicant interface: This interface is not connected.
+Mar 10 09:04:51 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 1 of 5 (Device Prepare) started...
+Mar 10 09:04:51 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 2 of 5 (Device Configure) scheduled...
+Mar 10 09:04:51 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 1 of 5 (Device Prepare) complete.
+Mar 10 09:04:51 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 2 of 5 (Device Configure) starting...
+Mar 10 09:04:51 ws1 NetworkManager[942]: <info> (wlan0): device state change: prepare -> config (reason 'none') [40 50 0]
+Mar 10 09:04:51 ws1 NetworkManager[942]: <info> Activation (wlan0/wireless): access point 'SpringPeople2' has security, but secrets are required.
+Mar 10 09:04:51 ws1 NetworkManager[942]: <info> (wlan0): device state change: config -> need-auth (reason 'none') [50 60 0]
+Mar 10 09:04:51 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 2 of 5 (Device Configure) complete.
+Mar 10 09:04:51 ws1 NetworkManager[942]: <warn> (wlan0) firewall zone remove failed: (32) UNKNOWN_INTERFACE: wlan0
+Mar 10 09:04:51 ws1 NetworkManager[942]: <warn> Couldn't disconnect supplicant interface: This interface is not connected.
+Mar 10 09:04:51 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 1 of 5 (Device Prepare) scheduled...
+Mar 10 09:04:51 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 1 of 5 (Device Prepare) started...
+Mar 10 09:04:51 ws1 NetworkManager[942]: <info> (wlan0): device state change: need-auth -> prepare (reason 'none') [60 40 0]
+Mar 10 09:04:51 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 2 of 5 (Device Configure) scheduled...
+Mar 10 09:04:51 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 1 of 5 (Device Prepare) complete.
+Mar 10 09:04:51 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 2 of 5 (Device Configure) starting...
+Mar 10 09:04:51 ws1 NetworkManager[942]: <info> (wlan0): device state change: prepare -> config (reason 'none') [40 50 0]
+Mar 10 09:04:51 ws1 NetworkManager[942]: <info> Activation (wlan0/wireless): connection 'SpringPeople2' has security, and secrets exist.  No new secrets needed.
+Mar 10 09:04:51 ws1 NetworkManager[942]: <info> Config: added 'ssid' value 'SpringPeople2'
+Mar 10 09:04:51 ws1 NetworkManager[942]: <info> Config: added 'scan_ssid' value '1'
+Mar 10 09:04:51 ws1 NetworkManager[942]: <info> Config: added 'key_mgmt' value 'WPA-PSK'
+Mar 10 09:04:51 ws1 NetworkManager[942]: <info> Config: added 'psk' value '<omitted>'
+Mar 10 09:04:51 ws1 NetworkManager[942]: <info> Config: added 'proto' value 'WPA RSN'
+Mar 10 09:04:51 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 2 of 5 (Device Configure) complete.
+Mar 10 09:04:51 ws1 NetworkManager[942]: <warn> Couldn't disconnect supplicant interface: This interface is not connected.
+Mar 10 09:04:51 ws1 NetworkManager[942]: <info> Config: set interface ap_scan to 1
+Mar 10 09:04:52 ws1 kernel: [39438.599788] wlan0: authenticate with 08:86:3b:76:d4:8a
+Mar 10 09:04:52 ws1 kernel: [39438.627763] wlan0: send auth to 08:86:3b:76:d4:8a (try 1/3)
+Mar 10 09:04:52 ws1 NetworkManager[942]: <info> (wlan0): supplicant interface state: scanning -> authenticating
+Mar 10 09:04:52 ws1 kernel: [39438.637348] wlan0: authenticated
+Mar 10 09:04:52 ws1 NetworkManager[942]: <info> (wlan0): supplicant interface state: authenticating -> associating
+Mar 10 09:04:52 ws1 kernel: [39438.649151] wlan0: associate with 08:86:3b:76:d4:8a (try 1/3)
+Mar 10 09:04:52 ws1 kernel: [39438.652883] wlan0: RX AssocResp from 08:86:3b:76:d4:8a (capab=0x411 status=0 aid=4)
+Mar 10 09:04:52 ws1 kernel: [39438.653457] wlan0: associated
+Mar 10 09:04:52 ws1 NetworkManager[942]: <info> (wlan0): supplicant interface state: associating -> associated
+Mar 10 09:04:52 ws1 NetworkManager[942]: <info> (wlan0): supplicant interface state: associated -> 4-way handshake
+Mar 10 09:04:52 ws1 NetworkManager[942]: <info> (wlan0): supplicant interface state: 4-way handshake -> completed
+Mar 10 09:04:52 ws1 NetworkManager[942]: <info> Activation (wlan0/wireless) Stage 2 of 5 (Device Configure) successful.  Connected to wireless network 'SpringPeople2'.
+Mar 10 09:04:52 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 3 of 5 (IP Configure Start) scheduled.
+Mar 10 09:04:52 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 3 of 5 (IP Configure Start) started...
+Mar 10 09:04:52 ws1 NetworkManager[942]: <info> (wlan0): device state change: config -> ip-config (reason 'none') [50 70 0]
+Mar 10 09:04:52 ws1 NetworkManager[942]: <info> Activation (wlan0) Beginning DHCPv4 transaction (timeout in 45 seconds)
+Mar 10 09:04:52 ws1 NetworkManager[942]: <info> dhclient started with pid 25352
+Mar 10 09:04:52 ws1 NetworkManager[942]: <info> Activation (wlan0) Beginning IP6 addrconf.
+Mar 10 09:04:52 ws1 avahi-daemon[759]: Withdrawing address record for fe80::6aa3:c4ff:fe21:15e8 on wlan0.
+Mar 10 09:04:52 ws1 dnsmasq[1788]: no servers found in /etc/resolv.conf, will retry
+Mar 10 09:04:52 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 3 of 5 (IP Configure Start) complete.
+Mar 10 09:04:52 ws1 dhclient[25352]: Internet Systems Consortium DHCP Client 4.2.4-P2
+Mar 10 09:04:52 ws1 dhclient[25352]: Copyright 2004-2012 Internet Systems Consortium.
+Mar 10 09:04:52 ws1 dhclient[25352]: All rights reserved.
+Mar 10 09:04:52 ws1 dhclient[25352]: For info, please visit https://www.isc.org/software/dhcp/
+Mar 10 09:04:52 ws1 dhclient[25352]: 
+Mar 10 09:04:52 ws1 NetworkManager[942]: <info> (wlan0): DHCPv4 state changed nbi -> preinit
+Mar 10 09:04:52 ws1 dhclient[25352]: Listening on LPF/wlan0/68:a3:c4:21:15:e8
+Mar 10 09:04:52 ws1 dhclient[25352]: Sending on   LPF/wlan0/68:a3:c4:21:15:e8
+Mar 10 09:04:52 ws1 dhclient[25352]: Sending on   Socket/fallback
+Mar 10 09:04:52 ws1 dhclient[25352]: DHCPDISCOVER on wlan0 to 255.255.255.255 port 67 interval 8 (xid=0x670dd969)
+Mar 10 09:04:54 ws1 avahi-daemon[759]: Registering new address record for fe80::6aa3:c4ff:fe21:15e8 on wlan0.*.
+Mar 10 09:05:00 ws1 dhclient[25352]: DHCPDISCOVER on wlan0 to 255.255.255.255 port 67 interval 14 (xid=0x670dd969)
+Mar 10 09:05:00 ws1 dhclient[25352]: DHCPREQUEST on wlan0 to 255.255.255.255 port 67 (xid=0x670dd969)
+Mar 10 09:05:00 ws1 dhclient[25352]: DHCPOFFER from 192.168.3.1
+Mar 10 09:05:03 ws1 dhclient[25352]: DHCPREQUEST on wlan0 to 255.255.255.255 port 67 (xid=0x670dd969)
+Mar 10 09:05:06 ws1 dhclient[25352]: DHCPREQUEST on wlan0 to 255.255.255.255 port 67 (xid=0x670dd969)
+Mar 10 09:05:06 ws1 dhclient[25352]: DHCPACK from 192.168.3.1 (xid=0x670dd969)
+Mar 10 09:05:06 ws1 NetworkManager[942]: <info> (wlan0): DHCPv4 state changed preinit -> bound
+Mar 10 09:05:06 ws1 NetworkManager[942]: <info>   address 192.168.3.81
+Mar 10 09:05:06 ws1 NetworkManager[942]: <info>   prefix 24 (255.255.255.0)
+Mar 10 09:05:06 ws1 NetworkManager[942]: <info>   gateway 192.168.3.1
+Mar 10 09:05:06 ws1 NetworkManager[942]: <info>   nameserver '208.67.222.222'
+Mar 10 09:05:06 ws1 NetworkManager[942]: <info>   nameserver '208.67.220.220'
+Mar 10 09:05:06 ws1 NetworkManager[942]: <info>   nameserver '4.2.2.2'
+Mar 10 09:05:06 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 5 of 5 (IPv4 Configure Commit) scheduled...
+Mar 10 09:05:06 ws1 dhclient[25352]: bound to 192.168.3.81 -- renewal in 39091 seconds.
+Mar 10 09:05:06 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 5 of 5 (IPv4 Commit) started...
+Mar 10 09:05:06 ws1 avahi-daemon[759]: Joining mDNS multicast group on interface wlan0.IPv4 with address 192.168.3.81.
+Mar 10 09:05:06 ws1 avahi-daemon[759]: New relevant interface wlan0.IPv4 for mDNS.
+Mar 10 09:05:06 ws1 avahi-daemon[759]: Registering new address record for 192.168.3.81 on wlan0.IPv4.
+Mar 10 09:05:07 ws1 NetworkManager[942]: <info> (wlan0): device state change: ip-config -> secondaries (reason 'none') [70 90 0]
+Mar 10 09:05:07 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 5 of 5 (IPv4 Commit) complete.
+Mar 10 09:05:07 ws1 NetworkManager[942]: <info> (wlan0): device state change: secondaries -> activated (reason 'none') [90 100 0]
+Mar 10 09:05:07 ws1 NetworkManager[942]: <info> Policy set 'SpringPeople2' (wlan0) as default for IPv4 routing and DNS.
+Mar 10 09:05:07 ws1 NetworkManager[942]: <info> Activation (wlan0) successful, device activated.
+Mar 10 09:05:07 ws1 dbus[785]: [system] Activating service name='org.freedesktop.nm_dispatcher' (using servicehelper)
+Mar 10 09:05:07 ws1 dbus-daemon[785]: dbus[785]: [system] Activating service name='org.freedesktop.nm_dispatcher' (using servicehelper)
+Mar 10 09:05:07 ws1 dbus-daemon[785]: dbus[785]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Mar 10 09:05:07 ws1 dbus[785]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Mar 10 09:05:07 ws1 systemd[1]: Starting LSB: Starts and stops login and scanning of iSCSI devices....
+Mar 10 09:05:07 ws1 iscsi[25388]: Starting iscsi: iscsiadm: No records found
+Mar 10 09:05:07 ws1 iscsi[25388]: [  OK  ]
+Mar 10 09:05:07 ws1 systemd[1]: Started LSB: Starts and stops login and scanning of iSCSI devices..
+Mar 10 09:05:07 ws1 dbus-daemon[785]: Starting iscsi (via systemctl):  [  OK  ]
+Mar 10 09:05:08 ws1 systemd[1]: Stopping Sendmail Mail Transport Client...
+Mar 10 09:05:08 ws1 systemd[1]: Stopping Sendmail Mail Transport Agent...
+Mar 10 09:05:08 ws1 systemd[1]: Starting Sendmail Mail Transport Agent...
+Mar 10 09:05:08 ws1 systemd[1]: PID file /run/sendmail.pid not readable (yet?) after start.
+Mar 10 09:05:08 ws1 systemd[1]: Started Sendmail Mail Transport Agent.
+Mar 10 09:05:08 ws1 systemd[1]: Starting Sendmail Mail Transport Client...
+Mar 10 09:05:08 ws1 dbus-daemon[785]: disabled
+Mar 10 09:05:08 ws1 systemd[1]: PID 25224 read from file /run/sm-client.pid does not exist.
+Mar 10 09:05:08 ws1 systemd[1]: Started Sendmail Mail Transport Client.
+Mar 10 09:05:08 ws1 chronyd[842]: Source 120.88.46.10 online
+Mar 10 09:05:08 ws1 chronyd[842]: Source 113.30.137.34 online
+Mar 10 09:05:08 ws1 chronyd[842]: Source 123.108.225.6 online
+Mar 10 09:05:08 ws1 chronyd[842]: Source 125.62.193.121 online
+Mar 10 09:05:13 ws1 NetworkManager[942]: <info> (wlan0): IP6 addrconf timed out or failed.
+Mar 10 09:05:13 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 4 of 5 (IPv6 Configure Timeout) scheduled...
+Mar 10 09:05:13 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 4 of 5 (IPv6 Configure Timeout) started...
+Mar 10 09:05:13 ws1 NetworkManager[942]: <info> Activation (wlan0) Stage 4 of 5 (IPv6 Configure Timeout) complete.
+Mar 10 09:05:23 ws1 dnsmasq[1788]: reading /etc/resolv.conf
+Mar 10 09:05:23 ws1 dnsmasq[1788]: using nameserver 4.2.2.2#53
+Mar 10 09:05:23 ws1 dnsmasq[1788]: using nameserver 208.67.220.220#53
+Mar 10 09:05:23 ws1 dnsmasq[1788]: using nameserver 208.67.222.222#53
+Mar 10 09:05:23 ws1 dnsmasq[1788]: using local addresses only for unqualified names
+Mar 10 09:40:10 ws1 NetworkManager[942]: <warn> nl_recvmsgs() error: (-33) Dump inconsistency detected, interrupted
+Mar 10 10:31:13 ws1 abrt: detected unhandled Python exception in '/home/ravi/Training/Python-jumpstart/mar09-11-2015/dict1.py'
+Mar 10 10:32:57 ws1 abrt: detected unhandled Python exception in '/home/ravi/Training/Python-jumpstart/mar09-11-2015/dictlookup.py'
+Mar 10 10:32:57 ws1 abrtd: New client connected
+Mar 10 10:32:57 ws1 abrtd: Directory 'pyhook-2015-03-10-10:32:57-28215' creation detected
+Mar 10 10:32:57 ws1 abrt-server[28216]: Saved problem directory of pid 28215 to '/var/spool/abrt/pyhook-2015-03-10-10:32:57-28215'
+Mar 10 10:32:57 ws1 abrtd: Executable '/home/ravi/Training/Python-jumpstart/mar09-11-2015/dictlookup.py' doesn't belong to any package
+Mar 10 10:32:57 ws1 abrtd: 'post-create' on '/var/spool/abrt/pyhook-2015-03-10-10:32:57-28215' exited with 1
+Mar 10 10:32:57 ws1 abrtd: Corrupted or bad directory '/var/spool/abrt/pyhook-2015-03-10-10:32:57-28215', deleting
+Mar 10 10:36:47 ws1 kernel: [44945.252763] usb 2-1.2: USB disconnect, device number 7
+Mar 10 10:36:47 ws1 colord: device removed: sysfs-samsung-GT-N7100
+Mar 10 10:48:30 ws1 kernel: [45647.356068] usb 2-1.2: new high-speed USB device number 8 using ehci_hcd
+Mar 10 10:48:30 ws1 kernel: [45647.444121] usb 2-1.2: New USB device found, idVendor=04e8, idProduct=6860
+Mar 10 10:48:30 ws1 kernel: [45647.444132] usb 2-1.2: New USB device strings: Mfr=2, Product=3, SerialNumber=4
+Mar 10 10:48:30 ws1 kernel: [45647.444138] usb 2-1.2: Product: GT-N7100
+Mar 10 10:48:30 ws1 kernel: [45647.444143] usb 2-1.2: Manufacturer: samsung
+Mar 10 10:48:30 ws1 kernel: [45647.444148] usb 2-1.2: SerialNumber: 4df7d2885481cf99
+Mar 10 10:48:30 ws1 colord: Device added: sysfs-samsung-GT-N7100
+Mar 10 10:55:30 ws1 abrt: detected unhandled Python exception in '/home/ravi/bin/pycharm-community-4.0/helpers/pep8.py'
+Mar 10 10:55:30 ws1 abrtd: New client connected
+Mar 10 10:55:30 ws1 abrtd: Directory 'pyhook-2015-03-10-10:55:30-28897' creation detected
+Mar 10 10:55:30 ws1 abrt-server[28898]: Saved problem directory of pid 28897 to '/var/spool/abrt/pyhook-2015-03-10-10:55:30-28897'
+Mar 10 10:55:30 ws1 abrtd: Executable '/home/ravi/bin/pycharm-community-4.0/helpers/pep8.py' doesn't belong to any package
+Mar 10 10:55:30 ws1 abrtd: 'post-create' on '/var/spool/abrt/pyhook-2015-03-10-10:55:30-28897' exited with 1
+Mar 10 10:55:30 ws1 abrtd: Corrupted or bad directory '/var/spool/abrt/pyhook-2015-03-10-10:55:30-28897', deleting
+Mar 10 10:56:10 ws1 NetworkManager[942]: <warn> nl_recvmsgs() error: (-33) Dump inconsistency detected, interrupted
+Mar 10 11:03:18 ws1 abrt: detected unhandled Python exception in '/home/ravi/Training/Python-jumpstart/mar09-11-2015/dict22.py'
+Mar 10 11:10:10 ws1 NetworkManager[942]: <warn> nl_recvmsgs() error: (-33) Dump inconsistency detected, interrupted
+Mar 10 11:18:10 ws1 NetworkManager[942]: <warn> nl_recvmsgs() error: (-33) Dump inconsistency detected, interrupted
+Mar 10 11:22:10 ws1 NetworkManager[942]: <warn> nl_recvmsgs() error: (-33) Dump inconsistency detected, interrupted
+Mar 10 11:22:10 ws1 NetworkManager[942]: <warn> nl_recvmsgs() error: (-33) Dump inconsistency detected, interrupted
+Mar 10 11:37:12 ws1 kernel: [48565.030404] thinkpad_acpi: unknown possible thermal alarm or keyboard event received
+Mar 10 11:37:12 ws1 kernel: [48565.030409] thinkpad_acpi: unhandled HKEY event 0x6040
+Mar 10 11:37:12 ws1 kernel: [48565.030412] thinkpad_acpi: please report the conditions when this event happened to ibm-acpi-devel@lists.sourceforge.net
+Mar 10 11:37:12 ws1 kernel: [48565.045504] thinkpad_acpi: EC reports that Thermal Table has changed
+Mar 10 11:39:58 ws1 abrt: detected unhandled Python exception in '/home/ravi/bin/pycharm-community-4.0/helpers/pep8.py'
+Mar 10 11:39:58 ws1 abrtd: New client connected
+Mar 10 11:39:58 ws1 abrt-server[30401]: Saved problem directory of pid 30400 to '/var/spool/abrt/pyhook-2015-03-10-11:39:58-30400'
+Mar 10 11:39:58 ws1 abrtd: Directory 'pyhook-2015-03-10-11:39:58-30400' creation detected
+Mar 10 11:39:58 ws1 abrtd: Executable '/home/ravi/bin/pycharm-community-4.0/helpers/pep8.py' doesn't belong to any package
+Mar 10 11:39:58 ws1 abrtd: 'post-create' on '/var/spool/abrt/pyhook-2015-03-10-11:39:58-30400' exited with 1
+Mar 10 11:39:58 ws1 abrtd: Corrupted or bad directory '/var/spool/abrt/pyhook-2015-03-10-11:39:58-30400', deleting
+Mar 10 11:40:24 ws1 kernel: [48756.260621] usb 2-1.2: USB disconnect, device number 8
+Mar 10 11:40:24 ws1 colord: device removed: sysfs-samsung-GT-N7100
+Mar 10 11:40:25 ws1 kernel: [48757.203848] usb 1-1.2: new high-speed USB device number 8 using ehci_hcd
+Mar 10 11:40:25 ws1 kernel: [48757.294866] usb 1-1.2: New USB device found, idVendor=04e8, idProduct=6860
+Mar 10 11:40:25 ws1 kernel: [48757.294877] usb 1-1.2: New USB device strings: Mfr=2, Product=3, SerialNumber=4
+Mar 10 11:40:25 ws1 kernel: [48757.294883] usb 1-1.2: Product: GT-N7100
+Mar 10 11:40:25 ws1 kernel: [48757.294888] usb 1-1.2: Manufacturer: samsung
+Mar 10 11:40:25 ws1 kernel: [48757.294892] usb 1-1.2: SerialNumber: 4df7d2885481cf99
+Mar 10 11:40:25 ws1 colord: Device added: sysfs-samsung-GT-N7100
+Mar 10 11:48:10 ws1 NetworkManager[942]: <warn> nl_recvmsgs() error: (-33) Dump inconsistency detected, interrupted
+Mar 10 11:48:10 ws1 NetworkManager[942]: <warn> nl_recvmsgs() error: (-33) Dump inconsistency detected, interrupted
+Mar 10 11:50:10 ws1 NetworkManager[942]: <warn> nl_recvmsgs() error: (-33) Dump inconsistency detected, interrupted
+Mar 10 11:51:48 ws1 abrt: detected unhandled Python exception in '/home/ravi/Training/Python-jumpstart/mar09-11-2015/tupledemo.py'
+Mar 10 11:51:48 ws1 abrtd: New client connected
+Mar 10 11:51:48 ws1 abrtd: Directory 'pyhook-2015-03-10-11:51:48-30795' creation detected
+Mar 10 11:51:48 ws1 abrt-server[30796]: Saved problem directory of pid 30795 to '/var/spool/abrt/pyhook-2015-03-10-11:51:48-30795'
+Mar 10 11:51:49 ws1 abrtd: Executable '/home/ravi/Training/Python-jumpstart/mar09-11-2015/tupledemo.py' doesn't belong to any package
+Mar 10 11:51:49 ws1 abrtd: 'post-create' on '/var/spool/abrt/pyhook-2015-03-10-11:51:48-30795' exited with 1
+Mar 10 11:51:49 ws1 abrtd: Corrupted or bad directory '/var/spool/abrt/pyhook-2015-03-10-11:51:48-30795', deleting
+Mar 10 11:53:01 ws1 abrt: detected unhandled Python exception in '/home/ravi/Training/Python-jumpstart/mar09-11-2015/tupledemo.py'
+Mar 10 11:53:02 ws1 abrtd: New client connected
+Mar 10 11:53:02 ws1 abrt-server[30848]: Saved problem directory of pid 30847 to '/var/spool/abrt/pyhook-2015-03-10-11:53:02-30847'
+Mar 10 11:53:02 ws1 abrtd: Directory 'pyhook-2015-03-10-11:53:02-30847' creation detected
+Mar 10 11:53:02 ws1 abrt-server[30848]: Lock file '/var/spool/abrt/pyhook-2015-03-08-21:44:53-9110/.lock' is locked by process 767
+Mar 10 11:53:02 ws1 abrtd: Executable '/home/ravi/Training/Python-jumpstart/mar09-11-2015/tupledemo.py' doesn't belong to any package
+Mar 10 11:53:02 ws1 abrtd: 'post-create' on '/var/spool/abrt/pyhook-2015-03-10-11:53:02-30847' exited with 1
+Mar 10 11:53:02 ws1 abrtd: Corrupted or bad directory '/var/spool/abrt/pyhook-2015-03-10-11:53:02-30847', deleting
+Mar 10 11:53:53 ws1 abrt: detected unhandled Python exception in '/home/ravi/Training/Python-jumpstart/mar09-11-2015/tupledemo.py'
+Mar 10 11:53:54 ws1 abrtd: New client connected
+Mar 10 11:53:54 ws1 abrtd: Directory 'pyhook-2015-03-10-11:53:54-30868' creation detected
+Mar 10 11:53:54 ws1 abrt-server[30869]: Saved problem directory of pid 30868 to '/var/spool/abrt/pyhook-2015-03-10-11:53:54-30868'
+Mar 10 11:53:54 ws1 abrtd: Executable '/home/ravi/Training/Python-jumpstart/mar09-11-2015/tupledemo.py' doesn't belong to any package
+Mar 10 11:53:54 ws1 abrtd: 'post-create' on '/var/spool/abrt/pyhook-2015-03-10-11:53:54-30868' exited with 1
+Mar 10 11:53:54 ws1 abrtd: Corrupted or bad directory '/var/spool/abrt/pyhook-2015-03-10-11:53:54-30868', deleting
+Mar 10 11:54:18 ws1 abrt: detected unhandled Python exception in '/home/ravi/Training/Python-jumpstart/mar09-11-2015/tupledemo.py'
+Mar 10 11:54:18 ws1 abrtd: New client connected
+Mar 10 11:54:18 ws1 abrtd: Directory 'pyhook-2015-03-10-11:54:18-30950' creation detected
+Mar 10 11:54:18 ws1 abrt-server[30951]: Saved problem directory of pid 30950 to '/var/spool/abrt/pyhook-2015-03-10-11:54:18-30950'
+Mar 10 11:54:18 ws1 abrtd: Lock file '/var/spool/abrt/pyhook-2015-03-08-21:44:53-9110/.lock' is locked by process 30951
+Mar 10 11:54:18 ws1 abrtd: Executable '/home/ravi/Training/Python-jumpstart/mar09-11-2015/tupledemo.py' doesn't belong to any package
+Mar 10 11:54:18 ws1 abrtd: 'post-create' on '/var/spool/abrt/pyhook-2015-03-10-11:54:18-30950' exited with 1
+Mar 10 11:54:18 ws1 abrtd: Corrupted or bad directory '/var/spool/abrt/pyhook-2015-03-10-11:54:18-30950', deleting
+Mar 10 12:06:10 ws1 NetworkManager[942]: <warn> nl_recvmsgs() error: (-33) Dump inconsistency detected, interrupted
+Mar 10 12:12:10 ws1 NetworkManager[942]: <warn> nl_recvmsgs() error: (-33) Dump inconsistency detected, interrupted
+Mar 10 12:12:10 ws1 NetworkManager[942]: <warn> nl_recvmsgs() error: (-33) Dump inconsistency detected, interrupted
+Mar 10 12:26:10 ws1 NetworkManager[942]: <warn> nl_recvmsgs() error: (-33) Dump inconsistency detected, interrupted
+Mar 10 12:34:02 ws1 systemd[1]: Starting PC/SC Smart Card Daemon...
+Mar 10 12:34:02 ws1 systemd[1]: Started PC/SC Smart Card Daemon.
+Mar 10 12:34:02 ws1 pcscd[32238]: 00000000 utils.c:53:GetDaemonPid() Can't open /var/run/pcscd/pcscd.pid: No such file or directory
+Mar 10 12:34:02 ws1 systemd[1]: Started CUPS Printing Service.
+Mar 10 12:53:34 ws1 dbus-daemon[785]: dbus[785]: [system] Activating service name='org.freedesktop.PackageKit' (using servicehelper)
+Mar 10 12:53:34 ws1 dbus[785]: [system] Activating service name='org.freedesktop.PackageKit' (using servicehelper)
+Mar 10 12:53:34 ws1 dbus-daemon[785]: dbus[785]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Mar 10 12:53:34 ws1 dbus[785]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Mar 10 13:12:02 ws1 dbus-daemon[785]: dbus[785]: [system] Activating service name='net.reactivated.Fprint' (using servicehelper)
+Mar 10 13:12:02 ws1 dbus[785]: [system] Activating service name='net.reactivated.Fprint' (using servicehelper)
+Mar 10 13:12:02 ws1 dbus-daemon[785]: dbus[785]: [system] Successfully activated service 'net.reactivated.Fprint'
+Mar 10 13:12:02 ws1 dbus[785]: [system] Successfully activated service 'net.reactivated.Fprint'
+Mar 10 13:12:02 ws1 dbus-daemon[785]: Launching FprintObject
+Mar 10 13:12:02 ws1 dbus-daemon[785]: ** Message: D-Bus service launched with name: net.reactivated.Fprint
+Mar 10 13:12:02 ws1 dbus-daemon[785]: ** Message: entering main loop
+Mar 10 13:12:02 ws1 dbus-daemon[785]: ** Message: user 'ravi' claiming the device: 0
+Mar 10 13:12:02 ws1 dbus-daemon[785]: ** Message: now monitoring fd 10
+Mar 10 13:12:02 ws1 dbus-daemon[785]: ** Message: device 0 claim status 0
+Mar 10 13:12:02 ws1 dbus-daemon[785]: ** Message: start verification device 0 finger 7
+Mar 10 13:12:04 ws1 kernel: [54247.954711] usb 1-1.2: USB disconnect, device number 8
+Mar 10 13:12:04 ws1 colord: device removed: sysfs-samsung-GT-N7100
+Mar 10 13:12:32 ws1 dbus-daemon[785]: ** Message: no longer monitoring fd 10
+Mar 10 13:12:32 ws1 dbus-daemon[785]: ** Message: released device 0
+Mar 10 13:13:03 ws1 dbus-daemon[785]: ** Message: No devices in use, exit
+Mar 10 13:18:10 ws1 NetworkManager[942]: <warn> nl_recvmsgs() error: (-33) Dump inconsistency detected, interrupted
+Mar 10 13:54:10 ws1 NetworkManager[942]: <warn> nl_recvmsgs() error: (-33) Dump inconsistency detected, interrupted
+Mar 10 14:12:10 ws1 NetworkManager[942]: <warn> nl_recvmsgs() error: (-33) Dump inconsistency detected, interrupted
+Mar 10 14:12:10 ws1 NetworkManager[942]: <warn> nl_recvmsgs() error: (-33) Dump inconsistency detected, interrupted
+Mar 10 14:12:47 ws1 dbus-daemon[785]: dbus[785]: [system] Activating service name='org.freedesktop.PackageKit' (using servicehelper)
+Mar 10 14:12:47 ws1 dbus[785]: [system] Activating service name='org.freedesktop.PackageKit' (using servicehelper)
+Mar 10 14:12:47 ws1 dbus-daemon[785]: dbus[785]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Mar 10 14:12:47 ws1 dbus[785]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Mar 10 14:13:19 ws1 dbus-daemon[785]: dbus[785]: [system] Activating service name='org.freedesktop.PackageKit' (using servicehelper)
+Mar 10 14:13:19 ws1 dbus[785]: [system] Activating service name='org.freedesktop.PackageKit' (using servicehelper)
+Mar 10 14:13:19 ws1 dbus-daemon[785]: dbus[785]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Mar 10 14:13:19 ws1 dbus[785]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Mar 10 14:14:10 ws1 NetworkManager[942]: <warn> nl_recvmsgs() error: (-33) Dump inconsistency detected, interrupted
+Mar 10 14:16:10 ws1 NetworkManager[942]: <warn> nl_recvmsgs() error: (-33) Dump inconsistency detected, interrupted
+Mar 10 14:17:57 ws1 dbus-daemon[785]: dbus[785]: [system] Activating service name='net.reactivated.Fprint' (using servicehelper)
+Mar 10 14:17:57 ws1 dbus[785]: [system] Activating service name='net.reactivated.Fprint' (using servicehelper)
+Mar 10 14:17:57 ws1 dbus-daemon[785]: dbus[785]: [system] Successfully activated service 'net.reactivated.Fprint'
+Mar 10 14:17:57 ws1 dbus[785]: [system] Successfully activated service 'net.reactivated.Fprint'
+Mar 10 14:17:57 ws1 dbus-daemon[785]: Launching FprintObject
+Mar 10 14:17:57 ws1 dbus-daemon[785]: ** Message: D-Bus service launched with name: net.reactivated.Fprint
+Mar 10 14:17:57 ws1 dbus-daemon[785]: ** Message: entering main loop
+Mar 10 14:17:57 ws1 dbus-daemon[785]: ** Message: user 'ravi' claiming the device: 0
+Mar 10 14:17:57 ws1 dbus-daemon[785]: ** Message: now monitoring fd 11
+Mar 10 14:17:57 ws1 dbus-daemon[785]: ** Message: device 0 claim status 0
+Mar 10 14:17:57 ws1 dbus-daemon[785]: ** Message: start verification device 0 finger 7
+Mar 10 14:18:00 ws1 kernel: [58198.195371] usb 1-1.2: new high-speed USB device number 9 using ehci_hcd
+Mar 10 14:18:00 ws1 kernel: [58198.286015] usb 1-1.2: New USB device found, idVendor=04e8, idProduct=6860
+Mar 10 14:18:00 ws1 kernel: [58198.286021] usb 1-1.2: New USB device strings: Mfr=2, Product=3, SerialNumber=4
+Mar 10 14:18:00 ws1 kernel: [58198.286024] usb 1-1.2: Product: GT-N7100
+Mar 10 14:18:00 ws1 kernel: [58198.286027] usb 1-1.2: Manufacturer: samsung
+Mar 10 14:18:00 ws1 kernel: [58198.286030] usb 1-1.2: SerialNumber: 4df7d2885481cf99
+Mar 10 14:18:00 ws1 colord: Device added: sysfs-samsung-GT-N7100
+Mar 10 14:18:03 ws1 dbus-daemon[785]: ** Message: verify_cb: result verify-match (1)
+Mar 10 14:18:03 ws1 dbus-daemon[785]: ** Message: no longer monitoring fd 11
+Mar 10 14:18:03 ws1 dbus-daemon[785]: ** Message: released device 0
+Mar 10 14:18:10 ws1 NetworkManager[942]: <warn> nl_recvmsgs() error: (-33) Dump inconsistency detected, interrupted
+Mar 10 14:18:34 ws1 dbus-daemon[785]: ** Message: No devices in use, exit
+Mar 10 14:24:53 ws1 dbus-daemon[785]: dbus[785]: [system] Activating service name='org.freedesktop.PackageKit' (using servicehelper)
+Mar 10 14:24:53 ws1 dbus[785]: [system] Activating service name='org.freedesktop.PackageKit' (using servicehelper)
+Mar 10 14:24:54 ws1 dbus-daemon[785]: dbus[785]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Mar 10 14:24:54 ws1 dbus[785]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Mar 10 15:02:10 ws1 NetworkManager[942]: <warn> nl_recvmsgs() error: (-33) Dump inconsistency detected, interrupted
+Mar 10 15:10:10 ws1 NetworkManager[942]: <warn> nl_recvmsgs() error: (-33) Dump inconsistency detected, interrupted
+Mar 10 15:10:10 ws1 NetworkManager[942]: <warn> nl_recvmsgs() error: (-33) Dump inconsistency detected, interrupted
+Mar 10 15:12:32 ws1 abrt: detected unhandled Python exception in '/home/ravi/Training/Python-jumpstart/mar09-11-2015/mapit.py'
+Mar 10 15:12:33 ws1 abrtd: New client connected
+Mar 10 15:12:33 ws1 abrtd: Directory 'pyhook-2015-03-10-15:12:33-5603' creation detected
+Mar 10 15:12:33 ws1 abrt-server[5619]: Saved problem directory of pid 5603 to '/var/spool/abrt/pyhook-2015-03-10-15:12:33-5603'
+Mar 10 15:12:33 ws1 abrtd: Executable '/home/ravi/Training/Python-jumpstart/mar09-11-2015/mapit.py' doesn't belong to any package
+Mar 10 15:12:33 ws1 abrtd: 'post-create' on '/var/spool/abrt/pyhook-2015-03-10-15:12:33-5603' exited with 1
+Mar 10 15:12:33 ws1 abrtd: Corrupted or bad directory '/var/spool/abrt/pyhook-2015-03-10-15:12:33-5603', deleting
+Mar 10 15:32:10 ws1 NetworkManager[942]: <warn> nl_recvmsgs() error: (-33) Dump inconsistency detected, interrupted
+Mar 10 15:50:10 ws1 dbus-daemon[785]: dbus[785]: [system] Activating service name='net.reactivated.Fprint' (using servicehelper)
+Mar 10 15:50:10 ws1 dbus[785]: [system] Activating service name='net.reactivated.Fprint' (using servicehelper)
+Mar 10 15:50:10 ws1 dbus-daemon[785]: dbus[785]: [system] Successfully activated service 'net.reactivated.Fprint'
+Mar 10 15:50:10 ws1 dbus-daemon[785]: Launching FprintObject
+Mar 10 15:50:10 ws1 dbus[785]: [system] Successfully activated service 'net.reactivated.Fprint'
+Mar 10 15:50:10 ws1 dbus-daemon[785]: ** Message: D-Bus service launched with name: net.reactivated.Fprint
+Mar 10 15:50:10 ws1 dbus-daemon[785]: ** Message: entering main loop
+Mar 10 15:50:10 ws1 dbus-daemon[785]: ** Message: user 'root' claiming the device: 0
+Mar 10 15:50:10 ws1 dbus-daemon[785]: ** Message: now monitoring fd 10
+Mar 10 15:50:10 ws1 dbus-daemon[785]: ** Message: device 0 claim status 0
+Mar 10 15:50:10 ws1 dbus-daemon[785]: ** Message: start verification device 0 finger 7
+Mar 10 15:50:10 ws1 NetworkManager[942]: <warn> nl_recvmsgs() error: (-33) Dump inconsistency detected, interrupted
+Mar 10 15:50:12 ws1 dbus-daemon[785]: ** Message: verify_cb: result verify-match (1)
+Mar 10 15:50:12 ws1 dbus-daemon[785]: ** Message: no longer monitoring fd 10
+Mar 10 15:50:12 ws1 dbus-daemon[785]: ** Message: released device 0

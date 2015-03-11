@@ -1,0 +1,10 @@
+Mar  8 20:37:03 ws1 rsyslogd: [origin software="rsyslogd" swVersion="7.2.4" x-pid="765" x-info="http://www.rsyslog.com"] rsyslogd was HUPed
+Mar  8 20:38:48 ws1 dbus-daemon[785]: dbus[785]: [system] Activating service name='org.freedesktop.PackageKit' (using servicehelper)
+Mar  8 20:38:48 ws1 dbus[785]: [system] Activating service name='org.freedesktop.PackageKit' (using servicehelper)
+Mar  8 20:38:49 ws1 dbus-daemon[785]: dbus[785]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Mar  8 20:38:49 ws1 dbus[785]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Mar  8 20:43:46 ws1 NetworkManager[942]: <warn> nl_recvmsgs() error: (-33) Dump inconsistency detected, interrupted
+Mar  8 20:55:57 ws1 dbus-daemon[785]: dbus[785]: [system] Activating service name='net.reactivated.Fprint' (using servicehelper)
+Mar  8 20:55:57 ws1 dbus[785]: [system] Activating service name='net.reactivated.Fprint' (using servicehelper)
+Mar  8 20:55:57 ws1 dbus-daemon[785]: dbus[785]: [system] Successfully activated service 'net.reactivated.Fprint'
+Mar  8 20:55:57 ws1 dbus[785]: [system] Successfully activated service 'net.reactivated.Fprint'
